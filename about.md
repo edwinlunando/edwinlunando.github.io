@@ -1,11 +1,25 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Tentang
+permalink: /tentang/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hai! Saya Edwin. Saya suka menulis kode dan membagikannya ke semua orang. Saya akan memulis tentang kode, framework, metode, cara kerja, dan kasus-kasus yang saya gunakan atau temui pada saat saya menulis kode. Saya juga akan membagikan pengalaman saya. :)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Semua tulisan saya di blog ini akan berbahasa Indonesia.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Saya merupakan seorang insinyur perangkat lunak(software engineer) yang sekarang:
+
+1. bekerja di [suitmedia.com](http://suitmedia.com)
+2. mengembangkan [kuliahkita.com](http://kuliahkita.com)
+3. menulis di blog [suitmedia.github.io](https://suitmedia.github.io), [edwinlunando.blogspot.com](http://edwinlunando.blogspot.com), dan [python.or.id](http://python.or.id)
+4. mampu menulis kode dalam bahasa [Python](http://python.org/), [Ruby](https://www.ruby-lang.org), [C#](http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29), dan [PHP](http://php.net/). Fokus di Python
+5. menggunakan web framework Django, Rails, ASP MVC, dan Laravel. Fokus di Django.
+6. penggiat open-source. [django-naomi](https://github.com/edwinlunando/django-naomi)
+7. berdomisili di Jakarta Utara.
+
+Sekian dan terima kasih.
+
+
+
+
