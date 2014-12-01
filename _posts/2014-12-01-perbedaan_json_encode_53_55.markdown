@@ -31,7 +31,7 @@ function ubahEncoding(array $array, $encoding='utf-8')
 }
 {% endhighlight %}
 
-Secara singkat, fungsi tersebut akan berjalan dengan cara rekursif, jika elemen dalam array tersebut adalah array, maka dia akan memanggil fungsi tersebut lagi. Jika, elemennya adalah string, maka string tersebut akan diubah dnegan fungsi `mb_convert_encoding`. Setelah menggunakan fungsi ini, semua halaman aplikasi web saya kembali berjalan dengan baik. Terima kasih. :)
+Secara singkat, fungsi tersebut akan berjalan dengan cara rekursif, jika elemen dalam array tersebut adalah array, maka dia akan memanggil fungsi tersebut lagi. Jika, elemennya adalah string, maka string tersebut akan diubah dengan fungsi `mb_convert_encoding`. Setelah menggunakan fungsi ini, semua halaman aplikasi web saya kembali berjalan dengan baik. Terima kasih. :)
 
 
 [1]:    http://www.codeigniter.com/
