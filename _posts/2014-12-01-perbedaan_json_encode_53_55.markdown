@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mengatasi Perbedaan json_encode pada PHP 5.3 dan 5.5"
-date:   2014-11-22 11:57:08
-categories: jekyll update
+date:   2014-12-01 11:57:08
+categories: php json
 author: Edwin Lunando
 author_t: edwinlunando
 ---
