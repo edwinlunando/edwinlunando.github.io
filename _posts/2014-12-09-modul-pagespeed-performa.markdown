@@ -7,7 +7,7 @@ author: Edwin Lunando
 author_t: edwinlunando
 ---
 
-Beberapa waktu ini, saya suka meneksplorasi cara meningkatkan performa aplikasi web yang saya buat. Walapun saya tahu ada pepatah mengatakan "premature optimization is the root of all evil", saya senang membuat aplikasi saya diakses lebih cepat oleh pengguna. Walaupun itu hanya 100 mili detik atau bahkan 10 mili detik. Salah satu kakas yang saya akui berpengaruh besar dalam meningkatkan performa adalah modul [pagespeed][1] untuk web server yang kita gunakan.
+Beberapa waktu ini, saya suka meneksplorasi cara meningkatkan performa aplikasi web yang saya buat. Walapun saya tahu ada pepatah mengatakan "*premature optimization is the root of all evil*", saya senang membuat aplikasi saya diakses lebih cepat oleh pengguna. Walaupun itu hanya 100 mili detik atau bahkan 10 mili detik. Salah satu kakas yang saya akui berpengaruh besar dalam meningkatkan performa adalah modul [pagespeed][1] untuk web server yang kita gunakan.
 
 Modul pagespeed dapat diinstal di web server Nginx and Apache. Untuk pengguna Apache, Anda dapat langsung menginstalnya sesuai dengan instruksi, namun, untuk pengguna Nginx harus melakukan kompilasi ulang Nginx. Berikut kode konfigurasi yang saya gunakan untuk mengkompilasi Nginx dengan modul pagespeed.
 
