@@ -4,7 +4,7 @@ title: Tentang
 permalink: /tentang/
 ---
 
-Hai! Saya Edwin. Saya suka menulis kode dan membagikannya ke semua orang. Saya akan memulis tentang kode, framework, metode, cara kerja, dan kasus-kasus yang saya gunakan atau temui pada saat saya menulis kode. Saya juga akan membagikan pengalaman saya. :)
+Hai! Saya Edwin. Saya suka menulis kode dan membagikannya ke semua orang. Saya akan menulis tentang kode, framework, metode, dan produk yang saya buat. Saya juga akan membagikan pengalaman saya. :)
 
 Semua tulisan saya di blog ini akan berbahasa Indonesia.
 
