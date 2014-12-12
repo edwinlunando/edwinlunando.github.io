@@ -25,7 +25,7 @@ Selain pelengkap otomatis, `ohmyzsh` juga menyediakan banyak ALIAS untuk aplikas
 3. `gc` dari `git commit`
 4. `gp` dari `git push`
 
-Hanya dari 2 fitur ini sudah sangat membantuku untuk mempermudah pekerjaan. Buat saya, pemilihan kakas sangat penting dalam mengembangkan aplikasi. Dengan kakas yang tepat, pekerjaan menjadi jauh lebih lebih dan berkualitas. Jadi, banyaklah bereksperimen. :)
+Hanya dari 2 fitur ini sudah sangat membantuku untuk mempermudah pekerjaan. Buat saya, pemilihan kakas sangat penting dalam mengembangkan aplikasi. Dengan kakas yang tepat, pekerjaan menjadi jauh lebih mudah dan berkualitas. Jadi, banyaklah bereksperimen. :)
 
 [1]:    https://www.gnu.org/software/bash/
 [2]:    http://www.zsh.org/
