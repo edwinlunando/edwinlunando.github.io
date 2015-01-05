@@ -27,9 +27,13 @@ Saya sangat melihat perkembangan bahasa [Go][6] di tahun 2014. Cukup banyak peru
 
 ## Fitur Flexbox dan SASS ##
 
-Walaupun sebenarnya [flexbox][7] dan [sass][8] sudah ada sejak lama, tapi saya baru menemukannya pada tahun 2014 dan saya rasa kedua metode pada CSS ini sangat bagus untuk dijadikan standar yang selanjutnya.
+Walaupun sebenarnya [flexbox][7] dan [sass][10] sudah ada sejak lama, tapi saya baru menemukannya pada tahun 2014 dan saya rasa kedua metode pada CSS ini sangat bagus untuk dijadikan standar yang selanjutnya.
 
 Flexbox membuat pengerjaan layout pada HTML menjadi jauh lebih mudah dan simpel. Sedangkan SASS membuat menulis kode CSS menjadi jauh lebih rapih dan terstruktur. Dan berita bahagianya, mayoritas browser sudah mendukung flexbox(sekitar 80%). Aku harap, di tahun 2015 ini, pengguna peramban yang mendukung flexbox menjadi lebih banyak lagi.
+
+## Performa Modul PageSpeed ##
+
+Yak, ini merupakan modul dari web server yang paling saya senangi. Modul [Pagespeed][11] merupakan salah satu add-on dari web server Nginx dan Apache yang secara otomatis mengoptimasi berkas-berkas statik. Kita hanya perlu menginstal dan melakukan sedikit konfigurasi. Lalu, secara otomatis aplikasi kita akan berjalan lebih cepat. :). Hanya satu yang membuat repot dalam menggunakan modul ini, yaitu, jika kita menggunakan Nginx, kita perlu mengkompilasi ulang Nginx.
 
 ## Kesimpulan ##
 
@@ -44,4 +48,5 @@ Intinya, banyak sekali perubahan signifikan yang terus membentuk dunia pemrogram
 [7]:    https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes
 [8]:    https://pypi.python.org/pypi/django-naomi
 [9]:    https://github.com/edwinlunando/arunafelt
-[8]:    http://sass-lang.com/
+[10]:   http://sass-lang.com/
+[11]:   https://developers.google.com/speed/pagespeed/module
