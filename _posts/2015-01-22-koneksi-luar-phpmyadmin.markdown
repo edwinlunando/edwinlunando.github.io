@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PHPMyAdmin: Koneksi ke Basisdata Luar"
-date:   2015-01-16 11:57:08
+date:   2015-01-22 11:57:08
 categories: basis-data koneksi
 author: Edwin Lunando
 author_t: edwinlunando
