@@ -33,7 +33,7 @@ Mungkin kalau dari waktu, memang sulit dibandingkan karena kecepatan pengerjaan 
 
 ## Kesimpulan ##
 
-Kalau dari saya sendiri, saya merupakan spesialis back-end saja. Pengetahuan saya terkait desain antarmuka dan proses slicing hanyalah tingkat dasar, tapi untuk menghasilkan desain atau hasil slicing yang baik, saya tidak mampu. Saya menyerahkan semua itu kepada ahlinya. :D.
+Kalau dari saya sendiri, saya merupakan spesialis back-end saja. Pengetahuan saya terkait desain antarmuka dan proses slicing hanyalah tingkat dasar, tapi untuk menghasilkan desain atau hasil slicing yang baik, saya tidak mampu. Saya menyerahkan semua itu kepada ahlinya. :D. Saya memilih untuk manjadi spesialis back-end karena buat saya selain saya menyukai bidangnya, menjadi ahli di sebuah spesifik bidang itu sangat seru dan menyenangkan.
 
 Kalau ditanya yang mana lebih baik, sebenarnya tergantung kebutuhan. Mirip dengan perdebatan antara generalis dengan spesialis. Jika sumber daya terbatas, pengembang full-stack memang akan lebih berguna, tetapi untuk hasil jangka panjang, gunakan spesialis. Kalau dari imajinasi tim pengembangan yang ideal, pengembang full-stack tetap diperlukan karena fleksibilitasnya yang tinggi.
 
