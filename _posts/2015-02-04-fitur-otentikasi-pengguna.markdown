@@ -19,7 +19,7 @@ Saat pengguna ingin login, jika pengguna tersebut salah memasukkan sesuatu, sela
 
 ### Penyimpanan ###
 
-Terkait kata sandi, jangan pernah menyimpan sandi dengan teks langsung. Selalu gunakan fungsi hash yang baik dan terpercaya. Terkait penyimpanan sandi, dapat dilihat lebih jelas di [sini]({% post_url 2015-01-14-cara-menyimpan-password %}).
+Terkait kata sandi, jangan pernah menyimpan sandi dengan teks langsung. Selalu gunakan fungsi hash yang baik dan terpercaya. Terkait penyimpanan sandi, dapat dilihat lebih jelas di ).
 
 ### Kompleksitas ###
 
