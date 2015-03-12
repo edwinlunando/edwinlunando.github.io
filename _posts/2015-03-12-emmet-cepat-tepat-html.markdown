@@ -2,7 +2,7 @@
 layout: post
 title:  "Emmet: Cara Cepat dan Tepat Menulis HTML"
 date:   2015-03-12 11:57:08
-categories: html zen-coding
+categories: html emmet
 author: Edwin Lunando
 author_t: edwinlunando
 ---
