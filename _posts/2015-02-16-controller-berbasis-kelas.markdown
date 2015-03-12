@@ -49,7 +49,7 @@ class UserListView(ListView):
             messages.error(request, "Anda tidak dapat mengakses halaman ini")
             return redirect('/')   # Kembali ke halaman home
         # Panggil kelas orang tua
-        return super(UserListView, self).dispatch(request, *args, **kwargs) 
+        return super(UserListView, self).dispatch(request, *args, **kwargs)
 
 {% endhighlight %}
 
