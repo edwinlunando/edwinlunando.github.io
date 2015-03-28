@@ -7,7 +7,7 @@ author: Edwin Lunando
 author_t: edwinlunando
 ---
 
-Baru-baru ini saya mendapat kesempatan untuk membahas beberapa hal teknis bersama teman saya yang jago ngoding juga. Kalau bertemu dengan dia, kami selalu membahas implementasi dari aplikasi-aplikasi yang sudah kami buat sebelumnya. Kami melakukan ini untuk saling mengoreksi satu sama lain. Pada saat itu, saya melihat sebuah kekurangan yang sangat fatal dalam kodenya yaitu, dia selalu menggunakan nilai langsung daripada referensi pada saat menggunakan nilai. Berikut contohnya. (ilustrasi, bukan kode asli)
+Baru-baru ini saya mendapat kesempatan untuk membahas beberapa hal teknis bersama teman saya yang jago ngoding juga. Kalau bertemu dengan dia, kami selalu membahas implementasi dari aplikasi-aplikasi yang sudah kami buat sebelumnya. Kami melakukan ini untuk saling mengoreksi satu sama lain. Pada saat itu, saya melihat sebuah kekurangan yang sangat fatal dalam kodenya yaitu, dia selalu menggunakan nilai langsung daripada referensi pada saat menggunakan nilai. Berikut contohnya dalam bahasa [Python][1]. (ilustrasi, bukan kode asli)
 
 {% highlight python %}
 
@@ -73,3 +73,6 @@ print 'hitung luas lingkaran = ' + str(PI * panjang * panjang)
 Kita hanya perlu mengubah nilai dari variabel tersebut! Sangat efisien bukan? Bayangkan jika kode yang kita tulis itu menggunakan nilai langsung dan nilai tersebut banyak digunakan di program kita. Lalu, suatu saat, kita perlu mengubah nilai tersebut. :)). Kesalahan tersebut biasanya banyak ditemui terutama dalam penggunakan nilai yang berupa konstanta. Selain lebih rapi, **performa aplikasi juga akan menjadi lebih baik karena program tidak perlu membuat obyek nilai tersebut yang memakan pemrosesan lagi**.
 
 Walaupun terkadang merapihkan kode dari yang menggunakan nilai langsung menjadi referensi itu melelahkan, manfaatnya akan sangat dirasakan di masa depan, terutama jika kita membuat sebuah produk atau program yang akan dikembangkan terus di masa depan. :). Aturan emasnya adalah, **setiap nilai yang digunakan, harus direpresentasikan dengan sebuah referensi**. Jadi, mulailah menulis kode yang rapi!. :D
+
+
+[1]:    https://www.python.org/
