@@ -18,13 +18,13 @@ Permasalahannya adalah, form dengan input tanggal seperti itu sangatlah tidak in
 
 <input type="date" placeholder="Masukkan tanggal">
 
-Dengan menggunakan input bertipe date, browser yang mendukung penggunaan komponen tersebut akan mengeluarkan *widget* yang berbentuk seperti kalender untuk memudahkan pemilihan tanggal. input bertipe date ini juga mempunyai kompabilitas yang baik terhadap browser mobile karena pada saat menginput tanggal di mobile, browser akan menggunakan *native widget* pada smartphone tersebut. Sayangnya, input bertipe date ini tidak didukung oleh semua browser. Contohnya firefox(hingga tulisan ini ditulis). Jika Anda membuka halaman ini dengan browser yang tidak mendukung input `date`, input di atas akan sama dengan input `text`.
+Dengan menggunakan input bertipe date, browser yang mendukung penggunaan komponen tersebut akan mengeluarkan *widget* yang berbentuk seperti kalender untuk memudahkan pemilihan tanggal. input bertipe date ini juga mempunyai kompabilitas yang baik terhadap browser mobile karena pada saat menginput tanggal di mobile, browser akan menggunakan *native widget* pada smartphone tersebut. Sayangnya, [input bertipe date ini tidak didukung oleh semua browser][5]. Contohnya firefox(hingga tulisan ini ditulis). Jika Anda membuka halaman ini dengan browser yang tidak mendukung input `date`, input di atas akan sama dengan input `text`.
 
 Salah satu metode yang populer digunakan adalah dengan menggunakan pustaka javascript kalender. Ada begitu banyak implementasi pustaka kelender ini dengan berbagai pilihan desain dan fitur. Dengan menggunakan pustaka kalender, setiap kali pengguna ingin mengklik inputnya, akan keluar *widget* kalender. Karena menggunakan javascript, biasanya *widget* akan keluar di semua browser dengan rapi. Contohnya adalah sebagai berikut dengan menggunakan pustaka [pikaday][1].
 
 <input type="text" id="datepicker" placeholder="Masukkan tanggal">
 
-Saya senang menggunakan pikaday karena ringan dan mudah digunakan. Kekurangannya, *widget* kalender javascript akan sulit digunakan pada pengguna browser mobile karena respon sentuhan di mobile sangatlah berbeda dengan di desktop. Solusinya sederhananya adalah, dengan menggunakan *feature detection library* seperti [Modernizr][3]. Dengan menggunakan Modernizr, kita bisa melakukan pengecekan, apakan browser pengguna mendukung layar sentuh atau tidak. Jika mendukung layar sentuh, berikan *native widget* dari smartphone tersebut. Jika tidak, gunakan *widget* kalender javascript biasa.
+Saya senang menggunakan pikaday karena ringan dan mudah digunakan. Kekurangannya, *widget* kalender javascript akan sulit digunakan pada pengguna browser mobile karena respon sentuhan di mobile sangatlah berbeda dengan di desktop. Solusinya sederhananya adalah, dengan menggunakan *feature detection library* seperti [Modernizr][3]. Dengan menggunakan Modernizr, kita bisa melakukan pengecekan, apakan browser pengguna mendukung layar sentuh dan input bertipe date atau tidak. Jika tidak mendukung keduanya, berikan input tipe date, berikan *native widget* dari smartphone tersebut. Jika mendukung keduanya, gunakan *widget* kalender javascript biasa. Jika browser mendukung layar sentuh tapi tidak mendukung input tipe date(touch screen laptop dengan Firefox), tetap gunakan *widget* kalender.
 
 Integrasi pikaday dengan Modernizr sudah dibuat di [sini][2]. And bisa menggunakannya langsung dengan mudah. Contoh di input atas sudah menggunakan pustakan kalender yang responsif. Jadi, jika Anda membuka halaman ini di browser mobile Anda, yang keluar adalah *native widget* dari smartphone milik Anda sendiri.
 
@@ -57,6 +57,7 @@ Baik, kira-kira begitulah solusi yang bisa saya berikan dalam penanganan masukan
 [2]:    https://github.com/mydea/PikadayResponsive
 [3]:    http://modernizr.com/
 [4]:    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input
+[5]:    http://caniuse.com/#feat=input-datetime
 
 <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/pikaday-package.js" | prepend: site.baseurl }}"></script>
