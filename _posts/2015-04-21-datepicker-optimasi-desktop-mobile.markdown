@@ -48,7 +48,7 @@ Sebenarnya, solusi mudah untuk permasalahan input tanggal ini adalah dengan meny
 </select>
 <input type="text" placeholder="Tahun">
 
-Karena input bertipe `text` dan `select` didukung oleh semua browser mayoritas, maka tiga input tersebut bisa dikatakan sebagai solusi juga. Walaupun saya tidak terlalu suka karena dari sisi pengguna. Agak repot jika harus mengisi banyak input dan sedikit menyusahkan dalam penanganannya dari sisi *backend* karena biasanya satu *field* itu merepresentasikan satu tipe data.
+Karena input bertipe `text` dan `select` didukung oleh semua browser mayoritas, maka tiga input tersebut bisa dikatakan sebagai solusi juga, walaupun saya tidak terlalu suka karena dari sisi pengguna. Agak repot jika harus mengisi banyak input dan sedikit menyusahkan dalam penanganannya dari sisi *backend* karena biasanya satu *field* itu merepresentasikan satu tipe data.
 
 Baik, kira-kira begitulah solusi yang bisa saya berikan dalam penanganan masukan tanggal pada halaman web. Jika Anda punya solusi yang lebih baik, saya siap menampungnya. Terima kasih.
 
