@@ -5,6 +5,7 @@ date:   2015-02-04 11:57:08
 categories: otentikasi pengguna
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: otentikasi-pengguna
 ---
 
 Salah satu fitur yang hampir selalu ada di sebuah aplikasi web adalah otentikasi yang memberikan kemampuan pada aplikasi untuk memberikan data yang sesuai dengan kebutuhan pengguna tersebut. Selama ini saya mengembangkan aplikasi, tentunya membuat sistem otentikasi sudah menjadi hal yang biasa. Tetapi, lama kelamaan saya merasa sistem otentikasi menjadi satu hal yang sangat penting. Berikut merupakan implementasi yang menurut saya ideal untuk sistem otentikasi yang aman.
@@ -58,7 +59,7 @@ Selalu batasi jumlah percobaan login dalam beberapa waktu untuk mencegah penyera
 
 Nah, berikut merupakan metode yang menurut saya sangat keren dan elegan dalam otentikasi pengguna. Pertama-tama, pengguna diminta untuk memasukkan identitas dan sandi seperti biasa. Lalu, di tahap kedua, pengguna akan diminta memasukkan kode acak yang sudah dikirimkan dari aplikasi ke email atau ponsel pengguna. Jadi, peretas pun tidak bisa login jika tidak mempunyai akses ke email atau ponsel pengguna. Metode ini pun membuat kita tidak perlu membatasi percobaan login.
 
-Jika sebuah aplikasi mempunyai metode login seperti ini, saya selalu menggunakannya karena memang terbukti jauh lebih aman. Saya sangat merekomendasikan untuk menggunakannya kepada setiap orang, terutama aplikasi yang penting seperti email. Sampai tulisan ini dibuat, saya sudah menggunakannya ke Gmail, Twitter, dan Dropbox. 
+Jika sebuah aplikasi mempunyai metode login seperti ini, saya selalu menggunakannya karena memang terbukti jauh lebih aman. Saya sangat merekomendasikan untuk menggunakannya kepada setiap orang, terutama aplikasi yang penting seperti email. Sampai tulisan ini dibuat, saya sudah menggunakannya ke Gmail, Twitter, dan Dropbox.
 
 ## Kesimpulan ##
 

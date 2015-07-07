@@ -5,6 +5,7 @@ date:   2015-01-04 11:57:08
 categories: pengalaman ngoding
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: /2014
 ---
 
 Selamat tahun baru! Setelah waktu yang cukup lama, kita meninggalkan tahun 2014. Tahun 2014 sudah menjadi tahun yang sangat aktif. Begitu banyak perubahan dalam ekosistem pemrograman dan banyak juga hal baru yang saya pelajari. Berikut merupakan beberapa momen yang penting dalam dunia pemrograman dalam pandangan saya. :)

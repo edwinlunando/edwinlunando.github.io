@@ -5,6 +5,7 @@ date:   2014-12-28 11:57:08
 categories: lubuntu migrasi
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: perpindahan-lubuntu
 ---
 
 Sampai dengan kemarin, saya masih menggunakan sistem operasi berbasis [linux][4], [Ubuntu][3], tetapi, pada akhirnya saya menutuskan untuk berubah menjadi [Lubuntu][1], salah satu rasa yang lain dari Ubuntu. salah satu alasan utama saya berganti dari Ubuntu adalah karena perfoma yang cukup lambat dari [Unity][2], GUI dari Ubuntu. Walaupun saya sudah menggunakan SSD, setelah melakukan cukup banyak aplikasi, saya langsung merasakan perlambatan. Terutama pada beberapa fitur search bar. Bahkan saya beberapa kali harus me-restart laptop saya. Karena, untuk saya, performa itu nomor satu, saya memilih untuk mengganti sistem operasi saya. :3.
@@ -21,7 +22,7 @@ Setelah itu, saya langsung menghapus semua direktori konfigurasi yang tersisa da
 
 Ternyata, saya ada salah perkiraan. Ada beberapa fitur umum yang saya kira terdapat di rasa Ubuntu yang lain, ternyata itu hanya milik Unity. Beberapa contohnya adalah.
 
-1. Maximize windows hot key (ctrl + super + up) 
+1. Maximize windows hot key (ctrl + super + up)
 2. Search bar
 3. Transparansi window
 4. Natural scrolling

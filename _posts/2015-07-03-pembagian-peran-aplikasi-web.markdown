@@ -5,6 +5,7 @@ date:   2015-07-03 11:57:08
 categories: peran aplikasi-web
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: pembagian-peran-aplikasi-web
 ---
 
 Sebagai seorang yang bekerja di bidang teknis, salah satu tugas yang menurut saya cukup menantang adalah mengkomunikasikan hal teknis kenapa orang non-teknis, contohnya adalah manajer proyek saya atau bahkan rekan kerja yang berada di divisi lain. Pertanyaan-pertanyaan seperti, mengapa ada front-end dan back-end dalam pengembangan web? Kenapa satu fitur ini sulit diimplementasikan? Gambar berikut mendeskripsikan sulitnya menjawab pertanyaan-pertanyaan tersebut.
@@ -47,7 +48,7 @@ Halaman di atas tentunya sangat sederhana. Sebuah aplikasi yang sudah jadi, bisa
 
 Hasil pekerjaan front-end ada tiga jenis berkas yaitu HTML(hyper text markup language) untuk stuktur dan konten, javascript untuk interaksi elemen, dan CSS(cascading style sheet) untuk tema dan warna. Anda bisa langsung melihat hasil kode yang terdapat di setiap halaman browser Anda dengan memilih opsi *view page source*.
 
-Ada beberapa kubu lain yang menganggap desain adalah bagian dari frontend juga karena *web designer* itu biasanya bisa desain dan frontend sekaligus.
+Ada beberapa kubu lain yang menganggap desain adalah bagian dari front-end juga karena *web designer* itu biasanya bisa desain dan frontend sekaligus.
 
 ## Back End
 
@@ -57,5 +58,6 @@ Back-end developer biasanya dapat dibagi menjadi 3 bagian yaitu, server(komputer
 
 Untuk basisdata, Anda bisa membayangkan tabel-tabel yang terdapat di excel. Data-data kami simpan dalam bentuk baris di tabel tersebut. Walaupun terdapat banyak metode penyimpanan yang lain selain dalam tabel, ini merupakan metode yang paling umum dalam aplikasi web.
 
+Tujuan utama saya dalam menulis topik ini adalah sebagai referensi jika ada yang membutuhkan pencerahan terkait pembagian tugas dalam pengembangan web. Semoga membantu! :)
 
 [0]:    https://en.wikipedia.org/wiki/Single-page_application

@@ -5,6 +5,7 @@ date:   2014-12-09 11:57:08
 categories: aplikasi performa
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: pagespeed
 ---
 
 Beberapa waktu ini, saya suka meneksplorasi cara meningkatkan performa aplikasi web yang saya buat. Walapun saya tahu ada pepatah mengatakan "*premature optimization is the root of all evil*", saya senang membuat aplikasi saya diakses lebih cepat oleh pengguna. Walaupun itu hanya 100 mili detik atau bahkan 10 mili detik. Salah satu kakas yang saya akui berpengaruh besar dalam meningkatkan performa adalah modul [pagespeed][1] untuk web server yang kita gunakan.
@@ -42,7 +43,7 @@ Modul pagespeed dapat diinstal di web server Nginx and Apache. Untuk pengguna Ap
 --add-module=$HOME/Downloads/ngx_pagespeed \
 {% endhighlight %}
 
-Setelah instalasi modul selesai, kita dapat langsung menggunakan modulnya dengan beberapa konfigurasi. Berikut konfigurasi yang saya gunakan pada Nginx untuk aplikasi saya. 
+Setelah instalasi modul selesai, kita dapat langsung menggunakan modulnya dengan beberapa konfigurasi. Berikut konfigurasi yang saya gunakan pada Nginx untuk aplikasi saya.
 
     pagespeed on;
 
@@ -63,9 +64,9 @@ Anda bisa memilih filter-filter yang digunakan sebagai metode optimasi selengkap
 
 1. `prioritize_critical_css`. Filter ini membuat server hanya perlu mengirimkan CSS yang digunakan oleh halaman tersebut. Sangat berguna jika aplikasi tersebut menggunakan 1 file CSS monolitik yang besar.
 2. `rewrite_images`. Filter ini membuat berkas-berkas gambar yang besar dioptimasi supaya ukurannya lebih kecil dengan kualitas yang baik.
-3. `convert_jpeg_to_webp`. Filter ini akan mengubah format gambar menjadi webp pada browser yang mendukungnya secara otomatis. 
+3. `convert_jpeg_to_webp`. Filter ini akan mengubah format gambar menjadi webp pada browser yang mendukungnya secara otomatis.
 
-Pertama kali saya mengaktifkan page pada aplikasi saya, saya langsung melihat pengurangan jumlah total data yang signifikan. Beberapa aplikasi yang memang sudah saya optimasi sebelumnya bisa hemat sekitar 100 - 300 KiloByte. Pada aplikasi yang belum dioptimasi, bahkan bisa hemat lebih dari 1 MegaByte tergantung jumlah berkas statis yang terdapat di aplikasi tersebut. Mantap! 
+Pertama kali saya mengaktifkan page pada aplikasi saya, saya langsung melihat pengurangan jumlah total data yang signifikan. Beberapa aplikasi yang memang sudah saya optimasi sebelumnya bisa hemat sekitar 100 - 300 KiloByte. Pada aplikasi yang belum dioptimasi, bahkan bisa hemat lebih dari 1 MegaByte tergantung jumlah berkas statis yang terdapat di aplikasi tersebut. Mantap!
 
 Dari pengurangan data yang ditransfer, sudah dapat dilihat bahwa akan ada peningkatan performa dari sisi pengguna. Lalu, saya mulai mengecek apakah modul tersebut melakukan proses yang dapat mengurangi performa. Ternyata tidak. Setiap metode optimasi yang dilakukan langsung disimpan pada cache sehingga tidak perlu memproses berkas yang sama setiap kali ada permintaan. Keren parah.
 

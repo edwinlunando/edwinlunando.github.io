@@ -5,6 +5,7 @@ date:   2014-12-27 11:57:08
 categories: python version
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: pengatur-versi-python
 ---
 
 Pada perkerjaan saya, saya bekerja dengan banyak aplikasi web. Setiap aplikasi web biasanya selalu membutuhkan pustaka yang berbeda-beda dan versi bahasa pemrograman yang berbeda-beda. Dari pengalaman saya, saya pernah diminta untuk manangani yang sudah dikembangkan 2 tahun yang lalu. Tentunya, versi pustaka yang digunakan 2 tahun lalu sudah sangat jauh berbeda dengan sekarang. Oleh karena itu, kakas untuk mengatur versi Python dan kakasnya seperti [virtualenv][1] dan [virtualenvwrapper][2] sangatlah berguna.
@@ -15,7 +16,7 @@ virtualenv dikembangkan untuk memfasilitasi beberapa masalah seperti, penggunaan
 pip install virtualenv
 {% endhighlight %}
 
-virtualenv membuat instalasi virtual versi Python baru di tempat yang kira tentukan sendiri. Jadi, executable dan direktori pustaka akan ditaruh di tempat lain yang pemilik dan izinnya bisa didefinisikan sendiri. Berikut contoh saat kita ingin membuat lingkungan pengambangan baru. 
+virtualenv membuat instalasi virtual versi Python baru di tempat yang kira tentukan sendiri. Jadi, executable dan direktori pustaka akan ditaruh di tempat lain yang pemilik dan izinnya bisa didefinisikan sendiri. Berikut contoh saat kita ingin membuat lingkungan pengambangan baru.
 
 {% highlight bash %}
 virtualenv coba
@@ -31,13 +32,13 @@ Setelah itu, Anda dapat menggunakan Python seperti biasa dengan lingkungan pusta
 
 {% highlight bash %}
 mkvirtualenv coba
-{% endhighlight %} 
+{% endhighlight %}
 
 Lalu, untuk menggunakannya.
 
 {% highlight bash %}
 workon coba
-{% endhighlight %} 
+{% endhighlight %}
 
 Semua menjadi lebih sederhana dan mudah. :D. Kombinasi virtualenv dan virtualenvwrapper menjadi pasangan yang wajib digunakan saat aku ingin mengembangkan proyek baru dengan Python. Jika menggunakan Ruby, saya menggunakan [rvm][3]. Selamat mencoba!
 

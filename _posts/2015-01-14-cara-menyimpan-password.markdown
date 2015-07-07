@@ -5,6 +5,7 @@ date:   2015-01-16 11:57:08
 categories: basis-data password
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: password
 ---
 
 Sudah beberapa kali dari satu tahun ke belakang ini saya mulai mengerjakan beberapa proyek yang berbeda yang sudah dikerjakan oleh orang lain sebelumnya. Jadi, tugas saya adalah mengembangkan aplikasinya lebih lanjut sesuai dengan kebutuhan klien. Pada saat mengerjakan proyek tersebut, saya menemukan masalah sangat dasar, namun sangat fatal yaitu, **aplikasi tersebut menyimpan password pengguna dengan teks murni atau di-hash dengan fungsi MD5**. Saya mau nangis kalau lihat aplikasi dengan metode penyimpanan password seperti ini. :(

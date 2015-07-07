@@ -5,6 +5,7 @@ date:   2014-12-01 11:57:08
 categories: php json
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: perbedaan-json-endocode-php-53-55
 ---
 
 Jadi, barusan saja saya mengalami masalah dalam menjalankan aplikasi web berbasis PHP. Sebuah proyek yang sudah cukup lama dengan versi PHP yang sudah cukup tua yaitu 5.3. Saat saya mencoba menjalankan aplikasi tersebut dengan PHP 5.5, beberapa halaman dari aplikasi tersebut tidak berjalan sesuai dengan keinginan saya. Setelah melakukan eksplorasi selama beberapa jam, akhirnya saya menemukan permasalahannya, berikut hasilnya.

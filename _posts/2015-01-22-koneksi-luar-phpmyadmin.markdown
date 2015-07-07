@@ -5,6 +5,7 @@ date:   2015-01-22 11:57:08
 categories: basis-data koneksi
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: koneksi-ke-luar-phpmyadmin
 ---
 
 [phpMyAdmin][0] merupakan sebuah kakas yang digunakan untuk mengatur basis data [MySQL][1] yang sudah sangat umum untuk digunakan. Saya selalu menggunakan phpMyAdmin jika menyiapkan basis data baru untuk memudahkan akses dan penanganan basis data. Saya hanya perlu mengakses phpMyAdmin dari browser, lalu saya bisa langsung mengobrak-abrik MySQL yang saya punya. :))

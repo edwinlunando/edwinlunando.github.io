@@ -5,6 +5,7 @@ date:   2015-04-21 11:57:08
 categories: datepicker javascript
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: datepicker-optimasi-desktop-mobile
 ---
 
 <link rel="stylesheet" href="{{ "/css/pikaday-package.css" | prepend: site.baseurl }}">

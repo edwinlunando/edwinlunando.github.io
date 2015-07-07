@@ -5,6 +5,8 @@ description: "produk, metode, dan kode"
 username: edwinlunando
 baseurl: ""
 url: "http://edwinlunando.github.io"
+paginate: 10
+paginate_path: "/halaman/:num/"
 
 # Build settings
 markdown: kramdown
