@@ -5,6 +5,7 @@ date:   2015-03-29 11:57:08
 categories: kode rapi
 author: Edwin Lunando
 author_t: edwinlunando
+permalink: referensi-daripada-nilai-langsung
 ---
 
 Baru-baru ini saya mendapat kesempatan untuk membahas beberapa hal teknis bersama teman saya yang jago ngoding juga. Kalau bertemu dengan dia, kami selalu membahas implementasi dari aplikasi-aplikasi yang sudah kami buat sebelumnya. Kami melakukan ini untuk saling mengoreksi satu sama lain. Pada saat itu, saya melihat sebuah kekurangan yang sangat fatal dalam kodenya yaitu, dia selalu menggunakan nilai langsung daripada referensi pada saat menggunakan nilai. Berikut contohnya dalam bahasa [Python][1]. (ilustrasi, bukan kode asli)
