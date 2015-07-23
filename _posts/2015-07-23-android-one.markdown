@@ -52,7 +52,11 @@ Untuk yang membutuhkan baterai satu hari penuh, selalu siapkan powerbank atau ba
 
 ### Kualitas Kamera Kurang
 
-Yah, kamera Android One memang tidak jadi fitur yang menonjol. Minimal, untuk mengambil foto KTP atau dokumen-dokumen lain, tulisannya masih dapat terbaca, tetapi jika digunakan untuk foto yang lain(contoh: selfie atau foto bersama) kualitasnya sangat kurang dititik ponsel saya yang sebelumnya kualitasnya lebih baik. Sesuai dengan harga, tapi karena saya tidak sering dalam menggunakan kamera, kekurangan ini tidak jadi masalah.
+Yah, kamera Android One memang tidak jadi fitur yang menonjol. Minimal, untuk mengambil foto KTP atau dokumen-dokumen lain, tulisannya masih dapat terbaca, tetapi jika digunakan untuk foto yang lain(contoh: selfie atau foto bersama) kualitasnya sangat kurang dititik ponsel saya yang sebelumnya kualitasnya lebih baik. Sesuai dengan harga, tapi karena saya tidak sering dalam menggunakan kamera, kekurangan ini tidak jadi masalah. Berikut contoh hasilnya.
+
+![Hasil Kamera Android One](/images/one_cam.png)
+
+Kurang bagus bukan?
 
 ## Kesimpulan
 

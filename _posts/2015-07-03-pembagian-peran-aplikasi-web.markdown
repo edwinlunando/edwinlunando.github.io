@@ -10,7 +10,7 @@ permalink: pembagian-peran-aplikasi-web
 
 Sebagai seorang yang bekerja di bidang teknis, salah satu tugas yang menurut saya cukup menantang adalah mengkomunikasikan hal teknis kenapa orang non-teknis, contohnya adalah manajer proyek saya atau bahkan rekan kerja yang berada di divisi lain. Pertanyaan-pertanyaan seperti, mengapa ada front-end dan back-end dalam pengembangan web? Kenapa satu fitur ini sulit diimplementasikan? Gambar berikut mendeskripsikan sulitnya menjawab pertanyaan-pertanyaan tersebut.
 
-![ASD](http://imgs.xkcd.com/comics/tasks.png)
+![Pembagian Tugas](http://imgs.xkcd.com/comics/tasks.png)
 
 Untuk permulaan, saya akan menjelaskan pembagian tugas dalam pengembangan aplikasi web. Biasanya, dalam aplikasi web terdapat 3 pembagian utama yaitu, desain, front-end(client), dan back-end(server). Mari kita bahas satu per satu.
 
