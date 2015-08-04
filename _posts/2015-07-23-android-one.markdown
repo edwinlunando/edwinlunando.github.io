@@ -6,6 +6,7 @@ categories: ulasan android-one
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: android-one
+description: ulasan android one
 ---
 
 Baru-baru ini, saya akhirnya mengganti ponsel yang saya terindikasi rusak. Sudah lebih dari 2 tahun ponsel saya yang dulu(Samsung Galaxy Nexus) menemani saya sejak masih kuliah. Saya sebenarnya bukan orang yang sering menggunakan ponsel. Mayoritas pekerjaan yang orang lain lakukan pada ponsel(chatting, baca berita, atau aplikasi mobile lainnya), saya lakukan itu pada laptop atau desktop karena bisa lebih cepat dan nyaman.

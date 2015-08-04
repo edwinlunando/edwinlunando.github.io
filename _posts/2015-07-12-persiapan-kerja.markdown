@@ -6,6 +6,7 @@ categories: kerja persiapan
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: persiapan-ketenagakerjaan
+description: mempersiapkan bpjs ketenagakerjaan
 ---
 
 Setelah lulus kuliah, saya melakukan sama seperti mayoritas yang teman saya lakukan yaitu, mencari kerja. Bulan demi bulan, tahun demi tahun saya lewati bekerja, ada sedikit penyesalan yang rasakan. Ada beberapa informasi atau pengetahuan terkait ketenagakerjaan yang dapat mempermudah hidup saya jika saya ketahui sebelum saya bekerja. Bahkan, lebih baik lagi jika saat kuliah saya sudah mengetahuinya. Berikut daftarnya:

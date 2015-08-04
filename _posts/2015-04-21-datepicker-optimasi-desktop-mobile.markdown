@@ -6,6 +6,7 @@ categories: datepicker javascript
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: datepicker-optimasi-desktop-mobile
+description: optimasi datepicker pada desktop dan mobile
 ---
 
 <link rel="stylesheet" href="{{ "/css/pikaday-package.css" | prepend: site.baseurl }}">

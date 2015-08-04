@@ -6,6 +6,7 @@ categories: jekyll update
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: halo-dunia
+description: halo dunia!
 ---
 
 Halo! Mulai sekarang, saya akan menulis dengan bahasa Indonesia terkait dengan teknologi informasi dan sekitarnya. Dulunya, saya suka menulis dengan bahasa Inggris, dengan tujuan melatih kemampuan menulis dalam bahasa Inggris. Tetapi, setelah beberapa tahun, saya melihat konten bahasa Indonesia masih sangat sedikit. Oleh karena itu, saya ingin membantu dengan menambah konten bahasa Indonesia.

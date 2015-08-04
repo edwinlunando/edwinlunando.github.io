@@ -6,6 +6,7 @@ categories: lubuntu migrasi
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: perpindahan-lubuntu
+description: perpindahan ke lubuntu
 ---
 
 Sampai dengan kemarin, saya masih menggunakan sistem operasi berbasis [linux][4], [Ubuntu][3], tetapi, pada akhirnya saya menutuskan untuk berubah menjadi [Lubuntu][1], salah satu rasa yang lain dari Ubuntu. salah satu alasan utama saya berganti dari Ubuntu adalah karena perfoma yang cukup lambat dari [Unity][2], GUI dari Ubuntu. Walaupun saya sudah menggunakan SSD, setelah melakukan cukup banyak aplikasi, saya langsung merasakan perlambatan. Terutama pada beberapa fitur search bar. Bahkan saya beberapa kali harus me-restart laptop saya. Karena, untuk saya, performa itu nomor satu, saya memilih untuk mengganti sistem operasi saya. :3.

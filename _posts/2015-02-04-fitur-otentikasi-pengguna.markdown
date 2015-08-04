@@ -6,6 +6,7 @@ categories: otentikasi pengguna
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: otentikasi-pengguna
+description: implementasi fitur otentikasi pengguna
 ---
 
 Salah satu fitur yang hampir selalu ada di sebuah aplikasi web adalah otentikasi yang memberikan kemampuan pada aplikasi untuk memberikan data yang sesuai dengan kebutuhan pengguna tersebut. Selama ini saya mengembangkan aplikasi, tentunya membuat sistem otentikasi sudah menjadi hal yang biasa. Tetapi, lama kelamaan saya merasa sistem otentikasi menjadi satu hal yang sangat penting. Berikut merupakan implementasi yang menurut saya ideal untuk sistem otentikasi yang aman.

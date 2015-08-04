@@ -6,6 +6,7 @@ categories: manajemen data
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: manajemen-data
+description: manajemen data dengan metode backup 3 2 1
 ---
 
 Hampir setiap tahunnya, saya selalu mendengar cerita terkait orang yang kehilangan datanya. Entah itu kelilangan komputer, ponsel, ataupun melakukan operasi mengakibatkan kehilangan data. Data-data yang hilang pun sangat beragam seperti berkas pekerjaan, skripsi, dan berkas penting personal. Saya juga pernah merasakan pahitnya kehilangan data yang penting. Kesal, sebal, dan sedih pun menjadi satu padu. Oleh karena itu, saya akan membagikan pengalaman saya dalam mengatur data saya supaya kalau terkena musibah, kehilangannya bisa diminimalisir atau bahkan tidak ada.

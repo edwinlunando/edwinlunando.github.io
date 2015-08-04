@@ -6,6 +6,7 @@ categories: python version
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: pengatur-versi-python
+description: pengatur versi python
 ---
 
 Pada perkerjaan saya, saya bekerja dengan banyak aplikasi web. Setiap aplikasi web biasanya selalu membutuhkan pustaka yang berbeda-beda dan versi bahasa pemrograman yang berbeda-beda. Dari pengalaman saya, saya pernah diminta untuk manangani yang sudah dikembangkan 2 tahun yang lalu. Tentunya, versi pustaka yang digunakan 2 tahun lalu sudah sangat jauh berbeda dengan sekarang. Oleh karena itu, kakas untuk mengatur versi Python dan kakasnya seperti [virtualenv][1] dan [virtualenvwrapper][2] sangatlah berguna.

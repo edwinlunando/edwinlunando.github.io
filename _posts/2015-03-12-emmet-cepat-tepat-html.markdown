@@ -6,6 +6,7 @@ categories: html emmet
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: emmet
+description: penggunaan emmet untuk menulis HTML dengan cepat dan tepat
 ---
 
 Jika kamu seorang pengembang web, pastinya kamu akan menemui bahasa [HTML][2] dengan sangat sering. Setiap elemen yang kita buat pada halaman situs kita, pasti berhubungan dengan HTML. Lama-lama saya merasa sangat bosan karena menulis sesuatu yang berulang-ulang. Setiap elemen HTML, saya harus menulis tag pembuka dan penutupnya. Padahal, pada satu halaman saja bisa terdapat ratusan tag HTML yang perlu kita tulis. Membanyangkannya saja capek. XD.

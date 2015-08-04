@@ -6,6 +6,7 @@ categories: konfigurasi env
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: penggunaan-.env
+description: penggunaan .env dalam pengembangan aplikasi
 ---
 
 Hampir semua aplikasi(terutama web) yang pernah saya kembangkan membutuhkan tempat untuk menaruh konfigurasi-konfigurasi yang dibutuhkan aplikasi untuk berjalan. Konfigurasi yang dimaksud bukanlah setelan yang bisa diganti-ganti dengan mudah oleh pengguna seperti warna atau tema, melainkan konfigurasi pengembangan aplikasi seperti nama basis data yang digunakan, URL basis data, servis eksternal seperti Amazon S3, dan kunci rahasia dari aplikasi tersebut. Berikut contoh konfigurasi basis data pada [Django][0].

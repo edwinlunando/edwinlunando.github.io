@@ -6,6 +6,7 @@ categories: peran aplikasi-web
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: pembagian-peran-aplikasi-web
+description: pembagian peran dalam mengembangkan aplikasi web
 ---
 
 Sebagai seorang yang bekerja di bidang teknis, salah satu tugas yang menurut saya cukup menantang adalah mengkomunikasikan hal teknis kenapa orang non-teknis, contohnya adalah manajer proyek saya atau bahkan rekan kerja yang berada di divisi lain. Pertanyaan-pertanyaan seperti, mengapa ada front-end dan back-end dalam pengembangan web? Kenapa satu fitur ini sulit diimplementasikan? Gambar berikut mendeskripsikan sulitnya menjawab pertanyaan-pertanyaan tersebut.

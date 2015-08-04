@@ -6,6 +6,7 @@ categories: pekerjaan insinyur
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: full-stack
+description: pengembang full stack
 ---
 
 Salah satu spesialisasi dari profesi insinyur perangkat lunak adalah pengembang full-stack. Ada begitu banyak definisi dari `full-stack`, yang ingin saya bahas merupakan pengembang full-stack yang terdapat di dunia web. Siklus kerja dalam pengembangan aplikasi web dapat disederhanakan seperti urutan berikut.

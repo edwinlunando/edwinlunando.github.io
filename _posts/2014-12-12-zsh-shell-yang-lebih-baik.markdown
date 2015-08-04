@@ -6,6 +6,7 @@ categories: kakas shell
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: zsh
+description: zsh, shell yang lebih baik dari bash
 ---
 
 Sejak beberapa tahun yang lalu, terminal sudah menjadi rekan kerja saya yang saya gunakan hampir setiap harinya. Karena saya pengguna linux, [bash][1] merupakan shell pertama yang saya gunakan. Setelah saya hampir satu tahun menggunakan `bash`, saya memutuskan untuk mencoba tipe shell yang lain.

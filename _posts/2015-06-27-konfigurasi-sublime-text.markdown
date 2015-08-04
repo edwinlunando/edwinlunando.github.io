@@ -6,6 +6,7 @@ categories: konfigurasi sublime-text
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: konfigurasi-sublime-text
+description: konfigurasi sublime text saya
 ---
 
 Dalam mengembangkan aplikasi web, pilihan editor teks saya adalah [Sublime Text][0]. Saya sudah mencoba editor lain seperti [Atom][1] dan [Visual Studio Code][2] tetapi, saya selalu kembali ke Sublime Text karena paling cocok dengan kebutuhan saya. Berikut saya akan membagikan konfigurasi Sublime yang saya gunakan.

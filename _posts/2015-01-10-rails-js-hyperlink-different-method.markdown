@@ -6,6 +6,7 @@ categories: hyperlink metode
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: metode-lain-hyperlink
+description: menggunakan metode HTTP lain pada anchor
 ---
 
 Akhir-akhir ini saya mencari sebuah solusi dari permasalahan pemrograman web yang sudah saya rasakan sejak dari dulu. Yaitu, sebuah hyperlink tidak dapat mengarahkan user ke halaman yang lain dengan [HTTP method][1] selain GET. Permasalahan ini saya hadapi semenjak saya ingin membuat sebuah aplikasi web yang [REST-ful][2]. Misalkan, saya ingin URI `/post/5/delete` itu bertujuan untuk menghapus model post. Kalau menurut aturan semantik HTTP, request yang mengubah data tidak boleh menggunakan method GET. Dalam kasus ini, saya ingin menggunakan metode DELETE. Berikut contoh implementasi standarnya.

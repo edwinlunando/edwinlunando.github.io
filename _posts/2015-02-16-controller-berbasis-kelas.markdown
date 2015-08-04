@@ -6,6 +6,7 @@ categories: mvc kelas
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: controller-berbasis-kelas
+description: controller berbasis kelas
 ---
 
 Dalam sebuah web framework, sistem model view controller(MVC) sudah menjadi arsitektur standar yang digunakan hampir di semua framework yang saya gunakan. Model digunakan untuk mengatur sumber data yang digunakan oleh aplikasi, view untuk menghasilkan template HTML, dan controller adalah bagian yang menyatukan keduanya. Mayoritas dari framework menggunakan controller yang implementasinya berupa kelas namun, tidak banyak yang benar-benar menggunakan fitur-fitur dari pemrograman beorientasi objek(OOP). Berikut merupakan implementasi standar controller di Laravel.

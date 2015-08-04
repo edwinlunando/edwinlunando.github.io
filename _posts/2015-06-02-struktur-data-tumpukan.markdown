@@ -6,6 +6,7 @@ categories: stuktur-data dasar
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: struktur-data-tumpukan
+description: struktur data tumpukan
 ---
 
 Baru beberapa minggu ini, saya mulai menekuni lagi dunia pemrograman kompetitif. Beberapa situs pemrograman seperti [codeforces.com][1] saya kunjungi lagi setelah sekian lama berkancah di dunia sumber terbuka(open source). Setelah melakukan eksplorasi sederhana, saya menemukan situs yang sangat seru untuk digunakan sebagai tempat latihan pemrograman, yaitu [hackerrank.com][2].
