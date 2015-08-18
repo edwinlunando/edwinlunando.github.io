@@ -9,7 +9,7 @@ permalink: lingkungan-pengembangan-docker
 description: mempersiapkan lingkungan pengembangan dengan docker
 ---
 
-Sampai sekarang, saya masih mencari metode atau kakas yang mempersiapkan lingkungan pengembangan yang terbaik untuk membuat saya lebih asik dalam pengembangkan aplikasi. Setiap kali saya ingin memulai mengembangkan aplikasi yang baru, tentunya cukup banyak *dependency* yang perlu saya siapkan. Menyiapkan basis data(mysql atau postgres), cache storage(memcached atau redis), search engine(elasticsearch), dan pustaka-pustaka terkait framework. Untuk proyek pertama, mungkin komputer kita tentu masih dapat diatur. Tetapi, bagaimana kalau proyek di komputer kita sudah banyak? Bisa saja setiap proyek membutuhkan versi *dependency* yang berbeda. Tentunya cukup sulit mengatur banyak jenis versi kakas seperti MySQL atau Redis di satu mesin yang sama.
+Sampai sekarang, saya masih mencari metode atau kakas yang mempersiapkan lingkungan pengembangan yang terbaik untuk membuat saya lebih asik dalam pengembangkan aplikasi. Setiap kali saya ingin memulai mengembangkan aplikasi yang baru, tentunya cukup banyak *dependency* yang perlu saya siapkan. Menyiapkan basis data(mysql atau postgres), cache storage(memcached atau redis), search engine(elasticsearch), dan pustaka-pustaka terkait framework. Untuk proyek pertama, mungkin komputer kita tentu masih dapat diatur. Tetapi, bagaimana kalau proyek di komputer kita sudah banyak? Bisa saja setiap proyek membutuhkan versi *dependency* yang berbeda. **Tentunya cukup sulit mengatur banyak jenis versi aplikasi seperti MySQL atau Redis di satu mesin yang sama**.
 
 Kalau solusi klasik saya untuk permasalahan ini adalah dengan menyiapkan [virtual machine][2](VM) untuk setiap proyek. Untuk memanejemen saya biasanya menggunakan [Vagrant][1]. Permasalahannya, untuk menjalankan satu VM saja membutuhkan resource yang cukup besar, terutama memory. Saya rasa akan sangat membebani mesin jika Untuk kasus ini, salah satu kakas yang memberikan solusi untuk permasalahan ini adalah [docker][0].
 
@@ -17,7 +17,7 @@ Kalau solusi klasik saya untuk permasalahan ini adalah dengan menyiapkan [virtua
 
 <img src="/images/docker.png" alt="Perbandingan VM dengan Docker" style="width: 100%;"/>
 
-Docker adalah kakas yang menyiapkan abstraksi di atas VM sama seperti Vagrant. Perbedaannya, docker mempunyai sistem container yang mirip dengan VM. Container mirip dengan VM, tetapi jika kita menjalankan banyak container, kernel yang berjalan tetap hanya 1(*shared kernel*). Konsep ini membuat penggunaan resource menjadi lebih efisien dibanding 1 kernel untuk 1 VM(Vagrant).
+Docker adalah kakas yang menyiapkan abstraksi di atas VM sama seperti Vagrant. Perbedaannya, docker mempunyai sistem container yang mirip dengan VM. Container mirip dengan VM, tetapi **jika kita menjalankan banyak container, kernel yang berjalan tetap hanya 1(*shared kernel*)**. Konsep ini membuat penggunaan resource menjadi lebih efisien dibanding 1 kernel untuk 1 VM(Vagrant).
 
 Untuk penggunaan konkritnya, saya menggunakan kakas [docker-compose][3]. Kakas ini digunakan untuk mengatur banyak container sekaligus. Kita hanya butuh menulis "resep" dari *dependency* lingkungan pengembangan kita, lalu kakas tersebut akan secara otomatis mengunduh dan menjalankannya. Untuk menggunakannya, kita cukup membuat [`Dockerfile`][4] dan [`docker-compose.yml`][5]
 
@@ -87,7 +87,7 @@ bundle:
 
 {% endhighlight %}
 
-Pada `docker-compose.yml`, kita dapat mendefinisikan kebutuhan container kita. Pada kasus kita, kita akan mendefinisikan 3 container. 1 untuk Postgres, 1 untuk kode kita, dan 1 untuk menaruh pustaka(khusus Rails karena bundler). Kita bisa saja menambahkan container sesuai yang kita butuhkan. Nah, image yang digunakan itu dapat dipilih dari [docker hub][8]. Docker hub adalah tempat umum untuk menaruh image-image Docker yang bisa diunduh dan dapat langsung dijalankan sebagai container. Bagusnya, banyak aplikasi-aplikasi populer seperti Postgres, MySQL, Redis, dan Elasticsearch sudah terdapat di Docker hub. Jadi, kita tinggal menyebutkan nama image dan versi yang kita butuhkan. Lalu, docker-compose akan langsung mengunduhnya.
+Pada `docker-compose.yml`, kita dapat mendefinisikan kebutuhan container kita. Pada kasus kita, kita akan mendefinisikan 3 container. 1 untuk Postgres, 1 untuk kode kita, dan 1 untuk menaruh pustaka(khusus Rails karena bundler). Kita bisa saja menambahkan container sesuai yang kita butuhkan. Nah, image yang digunakan itu dapat dipilih dari [docker hub][8]. Docker hub adalah tempat umum untuk menaruh image-image Docker yang bisa diunduh dan dapat langsung dijalankan sebagai container. **Bagusnya, banyak aplikasi-aplikasi populer seperti Postgres, MySQL, Redis, dan Elasticsearch sudah terdapat di Docker hub**. Jadi, kita tinggal menyebutkan nama image dan versi yang kita butuhkan. Lalu, docker-compose akan langsung mengunduhnya.
 
 Image `web` merupakan image utama yang digunakan untuk menjalankan application server. Setiap container lain yang berhubungan dengan aplikasi utama harus dimasukkan ke `links`. `volumes` untuk menaruh kode. `volumes_from` untuk menaruh gem dari bundler. Setelah menyelesaikan konfigurasi, kita hanya perlu menjalankan `docker-compose up` untuk menjalankan application server kita beserta dependency yang lainnya.
 
