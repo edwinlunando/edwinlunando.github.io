@@ -13,7 +13,7 @@ Senin, 24 Agustus 2015, kemarin, pemerintah Indonesia meluncurkan revolusimental
 
 ## Kenapa Down?
 
-Saya dengar, situs revolusi mental down karena saking banyaknya yang akses, kapasitas server tidak mencukupi. Tentunya ada yang salah di sini. Tebakan saya, karena situsnya menggunakan wordpress, mereka menggunakan sistem *shared hosting* untuk servernya. Yang artinya, bisa ada banyak situs di dalam satu server tersebut. Tentunya, kalau satu server digunakan untuk banyak situs, performanya tidak akan maksimal. Apalagi mengingat kalau *shared hosting* kita tidak tahu kemampuan server dari penyedia server. Saya sendiri sudah tidak pernah penggunakan jasa *shared hosting* karena tidak baik dari sisi performa.
+Saya dengar, situs revolusi mental down karena saking banyaknya yang akses, kapasitas server tidak mencukupi. Tentunya ada yang salah di sini. Tebakan saya, karena situsnya menggunakan wordpress, mereka menggunakan sistem *shared hosting* untuk servernya. Yang artinya, bisa ada banyak situs di dalam satu server tersebut. Tentunya, **kalau satu server digunakan untuk banyak situs, performanya tidak akan maksimal**. Apalagi mengingat kalau *shared hosting* kita tidak tahu kemampuan server dari penyedia server. Saya sendiri sudah tidak pernah penggunakan jasa *shared hosting* karena tidak baik dari sisi performa.
 
 ## Kenapa Shared Hosting?
 
@@ -21,7 +21,7 @@ Saya dengar, situs revolusi mental down karena saking banyaknya yang akses, kapa
 
 ## Kenapa Lama Diperbaikinya?
 
-Nah, kalau yang ini memang tergantung dari performa tim yang ngurus situsnya. Kalau dari pengalaman saya, pindah server untuk situs yang berbasis wordpress bisa dilakukan kurang dari 1 hari. Bahkan, kurang dari 1 jam untuk yang orang sudah berpengalaman. Toh, jaman sekarang kita dapat menyewa server baru dalam hitungan menit. Dari pengalaman saya juga, berkoordinasi dengan tim pemerintah biasanya responnya sangat lambat. Birokrasi, biasa. Mungkin mereka mau ganti implementasi dari situsnya karena [terbukti menggunakan aset-aset dari situs Obama][0].
+Nah, kalau yang ini memang tergantung dari performa tim yang ngurus situsnya. Kalau dari pengalaman saya, pindah server untuk situs yang berbasis wordpress bisa dilakukan kurang dari 1 hari. Bahkan, kurang dari 1 jam untuk yang orang sudah berpengalaman. Toh, jaman sekarang kita dapat menyewa server baru dalam hitungan menit. Dari pengalaman saya juga, **berkoordinasi dengan tim pemerintah biasanya responnya sangat lambat**. Birokrasi, biasa. Mungkin mereka mau ganti implementasi dari situsnya karena [terbukti menggunakan aset-aset dari situs Obama][0].
 
 ## Solusinya
 
