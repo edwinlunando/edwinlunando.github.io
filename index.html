@@ -9,6 +9,10 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <div class="mdl-card mdl-shadow--2dp layout-card">
+          {% if post.header_image %}
+          <div class="mdl-card__media mdl-color-text--grey-50" style="background-image: url({{ post.header_image }});">
+          </div>
+          {% endif %}
           <div class="mdl-card__title">
             <a href="{{ post.url | prepend: site.baseurl }}">
               <h1 class="mdl-card__title-text">{{ post.title }}</h1>

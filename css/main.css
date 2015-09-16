@@ -534,3 +534,18 @@ color:#9ac39f;
 .highlight .nb,.preview-zenburn .highlight .nc,.preview-zenburn .highlight .nf,.preview-zenburn .highlight .bp,.preview-zenburn .highlight .vc {
 color:#efef8f;
 }
+
+.mdl-card {
+  padding-left: 0;
+  padding-top: 0;
+}
+
+.mdl-card__media {
+  min-height: 200px;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: white;
+}
