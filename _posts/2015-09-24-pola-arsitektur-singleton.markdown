@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pola Desain: Singleton"
-date:   2015-09-24 11:57:08
+date:   2015-10-25 11:57:08
 categories: pola arsitektur singleton
 author: Edwin Lunando
 author_t: edwinlunando
