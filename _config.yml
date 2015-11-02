@@ -11,3 +11,5 @@ paginate_path: "/halaman/:num/"
 # Build settings
 markdown: kramdown
 permalink: pretty
+gems: [jekyll-paginate]
+highlighter: pygments
