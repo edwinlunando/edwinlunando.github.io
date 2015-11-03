@@ -38,7 +38,7 @@ h2, h3 {
   margin: 0 0;
 }
 
-a         { color: #000; text-decoration: none; }
+a         { color: #205caa; text-decoration: none; }
 a:hover   { text-decoration: none; }
 a:visited { color: #205caa; }
 
@@ -373,6 +373,7 @@ pre { white-space: pre; overflow: auto; }
 
 .post-preview {
   margin-bottom: 0;
+  color: #424242;
 }
 
 .demo-content {
@@ -393,6 +394,7 @@ pre { white-space: pre; overflow: auto; }
 
 .mdl-card__title-text {
   font-weight: 500;
+  color: #424242;
 }
 
 .mdl-card__supporting-text {
