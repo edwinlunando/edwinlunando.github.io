@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pengalaman Perguruan Tinggi"
-date:   2015-11-02
+date:   2015-11-12
 categories: pendidikan perguruan-tinggi
 author: Edwin Lunando
 author_t: edwinlunando
@@ -17,9 +17,9 @@ Acara pertama yang perlu diikuti oleh mahasiswa baru(maba) ITB adalah pembinaan 
 
 ### Tragedi Akademik
 
-Kalau terkait akademik, saya bukanlah tipe-tipe mahasiswa yang rajin belajar. Modal saya di ITB hanyalah menyenangi sains. Salah satu kejadian yang menurut saya menarik adalah, setelah pengumuman nilai UTS. Saya lihat, begitu banyak mahasiswa yang histeris teriak hingga menangis karena mayoritas mahasiswa nilainya hancur. Ada juga yang langsung murung seketika. Saya masih ingat, nilai UTS fisika pertama saya itu 40 dari nilai maksimal 100. Reaksi saya tentunya sedih, tapi ya udah. Toh, saya tahu saya gak sepintar atau serajin itu.
+Kalau terkait akademik, saya bukanlah tipe-tipe mahasiswa yang rajin belajar. Pulang kuliah, biasanya langsung main sama temen. Salah satu kejadian yang menurut saya menarik adalah, setelah pengumuman nilai UTS. Saya lihat, begitu banyak mahasiswa yang histeris teriak hingga menangis karena mayoritas mahasiswa nilainya hancur. Ada juga yang langsung murung seketika. Saya masih ingat, nilai UTS fisika pertama saya itu 40 dari nilai maksimal 100. Reaksi saya tentunya sedih, tapi ya udah. Toh, saya tahu saya gak sepintar atau serajin itu.
 
-Sejak itu, saya mencoba bertanya ke beberapa kenalan saya dan saya menyimpulkan. Kebanyakan yang reaksinya relatif 'niat' itu yang dulu pas SMA-nya berprestasi. Pas masuk ITB dapet nilai jelek, langsung syok. Saya sudah biasa kok dapet nilai jelek pas SMA. Itulah yang membuat reaksi saya relatif cuek.
+Sejak itu, saya mencoba bertanya ke beberapa teman saya dan saya menyimpulkan. Kebanyakan yang reaksinya relatif 'niat' itu yang dulu pas SMA-nya berprestasi. Pas masuk ITB dapet nilai jelek, langsung syok. Saya sudah biasa kok dapet nilai jelek pas SMA. Itulah yang membuat reaksi saya relatif cuek.
 
 Sama seperti pengumuman seleksi jurusan. Banyak yang heboh, bahkan sangat ketakutan kalau tidak diterima di jurusan yang mereka mau. Saya? Dari awal saya memang sudah menentukan saya mau di jurusan teknik informatika. Toh, pas pemilihan fakultas pas pendafataran ITB saya cuma pilih STEI. Kalau diterima di informatika, bagus, kalau tidak ya sudah. Masih banyak kampus lain yang memiliki jurusan informatika. Walaupun begitu, saya tetap senang dan bahagia saat saya tahu kalau diterima di teknik informatika. :D. Saking senangnya, pas liburan, saya sudah belajar beberapa materi kuliah semester depan(tetap saja tidak *cum laude*).
 
