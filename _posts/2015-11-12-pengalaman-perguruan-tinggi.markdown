@@ -25,7 +25,7 @@ Sama seperti pengumuman seleksi jurusan. Banyak yang heboh, bahkan sangat ketaku
 
 ### Terbaik Bangsa?
 
-Dalam satu kesempatan, saya mencoba untuk mencari bahan untuk belajar melalui internet. Di saat itu, pikiran saya sedang suntuk karena kesulitan dalam sebuah topik kuliah. Saya mencari dengan tujuan mendapatkan penjelasan dengan bahasa yang lain supaya saya bisa mengerti. Tibalah saya di sebuah situs yang memberikan materi kuliah dari beberapa universitas di amerika serikat. Pada awalnya, saya sangat terkejut. Kenapa kurikulum untuk mata kuliah yang sama, materi mereka jauh lebih mendalam dan lebih banyak topiknya? Saya coba cek ke beberapa mata kuliah lain, hasilnya sama. Saat itu juga, saya terdiam merenung.
+Dalam satu kesempatan, saya mencoba untuk mencari bahan untuk belajar melalui internet. Di saat itu, pikiran saya sedang suntuk karena kesulitan dalam sebuah topik kuliah. Saya mencari dengan tujuan mendapatkan penjelasan dengan bahasa yang lain supaya saya bisa mengerti. Tibalah saya di sebuah situs yang memberikan materi kuliah dari beberapa universitas di amerika serikat. Pada awalnya, saya sangat terkejut. **Kenapa kurikulum untuk mata kuliah yang sama, materi mereka jauh lebih mendalam dan lebih banyak topiknya?** Saya coba cek ke beberapa mata kuliah lain, hasilnya sama. Saat itu juga, saya terdiam merenung.
 
 "Selama ini aku belajar apaan?"
 
