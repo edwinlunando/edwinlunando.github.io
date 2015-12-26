@@ -50,7 +50,7 @@ Namun, yang kedua, saat saya ada keluhan dengan keyboard saya, teknisinya tidak 
 
 ## Kesimpulan
 
-Secama umum, saya sangat puas dalam menggunakan Macbook Pro untuk pekerjaan saya. Saya secara langsung merasakan peningkatan produktivitas dalam bekerja. Dari sisi performa, hingga dengan aplikasi-aplikasi penunjang pekerjaan. Dari beberapa bulan pemakaian saja, saya langsung tertarik untuk membeli produk Apple lagi di masa yang akan datang. Yang perlu saya tes sekarang adalah *endurance*. Katanya, Macbook sangat tahan lama bahkan bisa digunakan lebih dari 5 tahun. Kita lihat ya. Saya akan memperbarui artikel ini hingga waktunya tiba.
+Secara umum, saya sangat puas dalam menggunakan Macbook Pro untuk pekerjaan saya. Saya secara langsung merasakan peningkatan produktivitas dalam bekerja. Dari sisi performa, hingga dengan aplikasi-aplikasi penunjang pekerjaan. Dari beberapa bulan pemakaian saja, saya langsung tertarik untuk membeli produk Apple lagi di masa yang akan datang. Yang perlu saya tes sekarang adalah *endurance*. Katanya, Macbook sangat tahan lama bahkan bisa digunakan lebih dari 5 tahun. Kita lihat ya. Saya akan memperbarui artikel ini hingga waktunya tiba.
 
 
 [0]:    https://support.apple.com/kb/sp715?locale=en_US
