@@ -32,11 +32,11 @@ App store untuk aplikasi-aplikasi populer dan comand line installer(brew) untuk 
 
 Terkait performa, tentunya dengan prosesor i5 2.7 GHz dan SSD, waktu booting dan buka aplikasi pun sangat cepat. Hitungan detik lah. Entah kenapa, pada saat saya menggunakan SSD di Linux, performanya tidak dapat sebaik di Mac. Di Linux, masih ada beberapa *delay* yang mengganggu. Di Mac, sangat minim *delay*-nya. +1
 
-Karena menggunakan SSD yang kapasitasnya hanya 128GB(yang paling murah), tidak bisa sebaca bebas menaruh file yang besar-besar. :sweat_smile:. -0
+Karena menggunakan SSD yang kapasitasnya hanya 128GB(yang paling murah), tidak bisa bebas menaruh file yang besar-besar. :sweat_smile:. -0
 
 ## Aplikasi
 
-Aplikasi bawaan dari Macbook sudah sangat cukup untuk bekerja. Paling yang saya temui itu banyak yang sulit beradaptasi dari menggunakan Microsoft Office ke Pages, Numbers, dan Keynote. Saya sih tidak masalah dalam menggunakan ketiga aplikasi tersebut selama ada Google. +0
+Aplikasi bawaan dari Macbook sudah sangat cukup untuk bekerja. Paling yang saya temui itu banyak orang yang sulit beradaptasi dari menggunakan Microsoft Office ke Pages, Numbers, dan Keynote. Saya sih tidak masalah dalam menggunakan ketiga aplikasi tersebut selama ada mesin pencari seperti Google. +0
 
 Di Windows, saya terbiasa menggunakan banyak aplikasi untuk menunjang pekerjaan saya. Di linux juga, tapi dengan antar muka yang biasa-biasa saja. Di Mac, ternyata ada jauh lebih banyak aplikasi yang membantu saya dengan antar muka yang jauh lebih baik. Masalahnya, aplikasinya berbayar semua(mahal pula untuk standar gaji orang Indonesia). Tapi, saya mengakui, jumlah dan kualitas aplikasi di Mac jauh lebih baik daripada di Windows, kecuali dari sisi gim tentunya. :stuck_out_tongue:. +0
 
