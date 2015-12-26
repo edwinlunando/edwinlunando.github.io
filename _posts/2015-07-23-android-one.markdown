@@ -19,11 +19,11 @@ Toh, dari pengalaman saya menggunakan ponsel dengan spesifikasi tinggi juga tida
 
 Berikut tampak depan dari Android One saya.
 
-![Tampak Depan Android One](/images/one_front.png)
+<img src="/images/one_front.png" alt="Tampak Depan Android One" style="width: 100%;"/>
 
 Berikut tampak belakang.
 
-![Tampak Belakarang Android One](/images/one_back.png)
+<img src="/images/one_back.png" alt="Tampak Belakarang Android One" style="width: 100%;"/>
 
 Berikut hasil dari 3 bulan menggunakan Android One.
 
@@ -55,7 +55,7 @@ Untuk yang membutuhkan baterai satu hari penuh, selalu siapkan powerbank atau ba
 
 Yah, kamera Android One memang tidak jadi fitur yang menonjol. Minimal, untuk mengambil foto KTP atau dokumen-dokumen lain, tulisannya masih dapat terbaca, tetapi jika digunakan untuk foto yang lain(contoh: selfie atau foto bersama) kualitasnya sangat kurang dititik ponsel saya yang sebelumnya kualitasnya lebih baik. Sesuai dengan harga, tapi karena saya tidak sering dalam menggunakan kamera, kekurangan ini tidak jadi masalah. Berikut contoh hasilnya.
 
-![Hasil Kamera Android One](/images/one_cam.png)
+<img src="/images/one_cam.png" alt="Hasil Kamera Android One" style="width: 100%;"/>
 
 Kurang bagus bukan?
 
