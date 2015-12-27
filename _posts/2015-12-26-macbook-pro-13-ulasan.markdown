@@ -42,6 +42,12 @@ Di Windows, saya terbiasa menggunakan banyak aplikasi untuk menunjang pekerjaan 
 
 **Kompabilitas pustaka untuk pengembangan aplikasi kira-kira hampir sama bagusnya dengan Linux**. Bagi pengembang aplikasi yang dulunya menggunakan Linux, pasti tidak sulit untuk berpindah ke Mac. Lain halnya dengan Windows yang kompabilitas pustakanya cukup sulit dan merepotkan. +1
 
+## Hardware
+
+Build quality sangat bagus. Lapisan aluminium yang jauh lebih kuat daripada laptop plastik(ya iya lah). Harusnya jadi lebih tahan benturan. +0
+
+Untuk layar, retina display sangat asik buat bekerja. Mata jadi tidak cepat lelah dan indah dipandang berjam-jam. Sedikit permasalahan saya temukan saat menghubungkan Macbook ke proyektor. Kita harus menyesuaikan profil warna yang sesuai dengan proyektor agar warna yang ditampilkan proyektor sesuai dengan di layar. Maklumlah, retina. +1
+
 ## Layanan Purna Jual
 
 Saya baru 2 kali berhubungan dengan customer service Apple. Yang pertama saat pertama mendapatkan Macbook, tidak mau nyala sama sekali. Langsung diganti dengan yang baru. Bagus. +1.
