@@ -26,9 +26,9 @@ Sejak dulu, kalau saya ingin membuka aplikasi, saya selalu menggunakan fitur pen
 
 **Nah, yang buat saya senang menggunakan Macbook adalah karena transisi dari mode *sleep* ke *awake* sangatlah cepat dan tanpa masalah**. Saya mengalami banyak masalah terkait hal ini di Linux dan Windows. +1
 
-Salah satu masalah saya itu dimulai saat saya butuh untuk mengunci layar saya. Kalau di Linux dan Windows itu sangatlah mudah karena ada di pilihan menu utama. Di Mac, secara teknis bisa, tapi kita harus melakukan konfigurasi keychain terlebih dahulu. -1
+Salah satu masalah saya itu dimulai saat saya butuh untuk mengunci layar saya. Kalau di Linux dan Windows itu sangatlah mudah karena ada di pilihan menu utama. Di Mac, secara teknis bisa, tapi kita harus melakukan konfigurasi *keychain* terlebih dahulu. -1
 
-App store untuk aplikasi-aplikasi populer dan comand line installer(brew) untuk pengembangan aplikasi. Praktis dan nyaman. +1
+App store untuk aplikasi-aplikasi populer dan *command line installer*(brew) untuk pengembangan aplikasi. Praktis dan nyaman. +1
 
 Terkait performa, tentunya dengan prosesor i5 2.7 GHz dan SSD, waktu booting dan buka aplikasi pun sangat cepat. Hitungan detik lah. Entah kenapa, pada saat saya menggunakan SSD di Linux, performanya tidak dapat sebaik di Mac. Di Linux, masih ada beberapa *delay* yang mengganggu. Di Mac, sangat minim *delay*-nya. +1
 
