@@ -48,6 +48,8 @@ Build quality sangat bagus. Lapisan aluminium yang jauh lebih kuat daripada lapt
 
 Untuk layar, retina display sangat asik buat bekerja. Mata jadi tidak cepat lelah dan indah dipandang berjam-jam. Sedikit permasalahan saya temukan saat menghubungkan Macbook ke proyektor. Kita harus menyesuaikan profil warna yang sesuai dengan proyektor agar warna yang ditampilkan proyektor sesuai dengan di layar. Maklumlah, retina. +1
 
+Force touch! Kalau dulu cuma bisa klik di bagian bawah *track pad*, sekarang bisa klik di mana saja. Saya nyaman dan praktis. Ini menjadi salah satu fitur yang bikin saya balik lagi ke Macbook. +1
+
 ## Layanan Purna Jual
 
 Saya baru 2 kali berhubungan dengan customer service Apple. Yang pertama saat pertama mendapatkan Macbook, tidak mau nyala sama sekali. Langsung diganti dengan yang baru. Bagus. +1.
