@@ -32,4 +32,4 @@ Dari semua rutinitas di atas, ada juga rutinitas lain seperti.
 
 Kami rutin tidak takut pada teror. Kami rutin melanjutkan aktivitas seperti biasa. Kami rutin bersatu untuk Indonesia.
 
-
+Kejadian terorisme ini mungkin bukan yang terakhir, tapi saya yakin, Indonesia tidak akan terpecah karena terorisme.
