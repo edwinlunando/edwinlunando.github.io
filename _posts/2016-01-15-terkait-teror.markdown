@@ -6,6 +6,7 @@ categories: hidup keputusan
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: terkait-teror
+header_image: /images/hand.png
 ---
 
 Baru-baru ini, ada sebuah kejahatan teror yang terjadi di Jakarta. Kejahatan ini sangat tidak manusiawi dan saya tidak akan membahas kejadian terornya. Saya menulis tulisan ini untuk referensi di masa depan jika terjadi kejadian yang serupa. Untuk catatan kepada diri sendiri.
