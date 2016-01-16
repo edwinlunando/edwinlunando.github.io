@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terkait Teror"
-date:   2016-01-12
+date:   2016-01-15
 categories: hidup keputusan
 author: Edwin Lunando
 author_t: edwinlunando
