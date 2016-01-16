@@ -38,6 +38,6 @@ Sekian dan terima kasih.
 [14]:   http://www.asp.net/mvc
 [15]:   http://laravel.com/
 [16]:   http://pikavia.com/
-[17]:   https://happyfresh.com/
+[17]:   https://www.happyfresh.com/
 [18]:   http://www.meetup.com/Python-ID/
 [19]:   http://arxiv.org/abs/1505.03085
