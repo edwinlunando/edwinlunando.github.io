@@ -11,6 +11,8 @@ header_image: /images/apple.png
 
 Setelah sekian lama mengenal Apple sebagai perusahaan teknologi, akhirnya saya baru dapat mencicipi salah satu produknya, [Macbook Pro 13 inch early 2015][0]. Saya pertama kali mulai menggunakan Macbook sejak awal juni. Sebelumnya, saya selalu menggunakan linux(Ubuntu, Kubuntu, dan Lubuntu) di laptop yang awalnya kosong(tidak ada OS) untuk bekerja dan Windows untuk main game. Ini merupakan cerita saya setelah 7 bulan menggunakan Macbook.
 
+<img src="/images/macbook.jpg" alt="ssd kingston" style="width: 100%;"/>
+
 Indeks rating:
 
 - +1. Bagus
