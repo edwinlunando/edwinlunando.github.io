@@ -569,3 +569,9 @@ color:#efef8f;
   background-size: cover;
   background-color: white;
 }
+
+@media (max-width: 839px) {
+  .mdl-cell--8-col {
+    width: 100%;
+  }
+}
