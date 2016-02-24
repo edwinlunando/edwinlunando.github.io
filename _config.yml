@@ -14,4 +14,4 @@ permalink: pretty
 gems:
   - jekyll-paginate
   - jemoji
-highlighter: pygments
+highlighter: rouge
