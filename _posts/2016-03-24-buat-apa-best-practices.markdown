@@ -25,7 +25,7 @@ Dijawab seperti ini
 
 *Kalau password, best practice-nya di-hash dulu, kalau email dan data pribadi user simpen biasa aja*
 
-Saat itu sih saya tentu saja menerima, toh sudah langsung dapet yang "best practice". Saya langsung saja ikutin langkah-langkah yang dia kasih tahu supaya mengikuti *best practice*. **Padahal, kan yang penting itu alasan dibalik *best practice* tersebut**. Yah saat itu sih saya belum dijelasin kenapa kalau menyimpang password itu harus di-[hash][4] dulu biar aman. Lama-lama setelah saya penasaran, akhirnya saya cari tahu sendiri kenapa menyimpan password tidak boleh teks biasa. Baru lah saya paham kenapa metode ini dilabeli *best practice*.
+Saat itu sih saya tentu saja menerima, toh sudah langsung dapet yang "best practice". Saya langsung saja ikutin langkah-langkah yang dia kasih tahu supaya mengikuti *best practice*. **Padahal, kan yang penting itu alasan dibalik *best practice* tersebut**. Yah saat itu sih saya belum dijelasin kenapa kalau menyimpan password itu harus di-[hash][4] dulu biar aman. Lama-lama setelah saya penasaran, akhirnya saya cari tahu sendiri kenapa menyimpan password tidak boleh teks biasa. Baru lah saya paham kenapa metode ini dilabeli *best practice*.
 
 Karena mudah ngomong sesuatu ini *best practice*, akhirnya.
 
