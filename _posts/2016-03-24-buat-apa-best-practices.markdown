@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buat Apa Best Practice?"
-date:   2016-02-23
+date:   2016-03-24
 categories: keputusan teknologi
 author: Edwin Lunando
 author_t: edwinlunando
