@@ -23,13 +23,13 @@ Saya tahu sekali dengan yang dirasakan rakan kerja saya tersebut. Dulu, saya jug
 
 Males banget gak sihhhhhh? :sob:
 
-Segala alibi saya seperti "kalau bikin spesifikasi yang jelas, dong", "jangan minta dikerjain dulu kalau spek belum jelas", dan segala jenis variannya sempat keluar dari mulut saya. Sampai pada akhirnya saya sadar, **kenyataannya spesifikasi tidak akan pernah sangat jelas**. Sejak saat itu, **saya selalu mengembangkan aplikasi dengan asumsi speksifikasi akan selalu berubah**, mau apapun metodologinya.
+Segala alibi saya seperti "kalau bikin spesifikasi yang jelas, dong", "jangan minta dikerjain dulu kalau spek belum jelas", dan segala jenis variannya sempat keluar dari mulut saya. Kasus semacam ini terus berulang-ulang sampai pada akhirnya saya sadar, **kenyataannya spesifikasi tidak akan pernah sangat jelas**. Sejak saat itu, **saya selalu mengembangkan aplikasi dengan asumsi speksifikasi akan selalu berubah**, mau apapun metodologinya.
 
 Kalau sebuah tim sudah menentukan untuk menggunakan proses agile apapun metodenya, seharusnya tidak masalah kalau di tengah pengerjaan spesifikasi berubah. Justru untuk itulah metodologi agile dipilih. Proses development yang lebih adaptif daripada prediktif. :grin:
 
 ## Agile Dari Manajemen
 
-Selain dari engineer, saya juga sering melihat manajer proyek(orang yang menentukan spesifikasi), yang meng-abuse engineer dengan alibi agile. Saya juga pernah jadi korban ini dan melihat beberapa rekan kerja saya yang gak enakan, iya-iya saja. Ini contoh yang sopan.
+Selain dari engineer, saya juga sering melihat manajer proyek yang meng-abuse engineer dengan alibi agile. Saya juga pernah jadi korban ini dan melihat beberapa rekan kerja saya yang gak enakan, iya-iya saja. Ini contoh yang sopan.
 
 *"Win, kalau tombol ini diganti dikit jadi begini, susah gak?"*
 
