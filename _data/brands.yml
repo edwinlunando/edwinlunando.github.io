@@ -1,0 +1,34 @@
+- name: Evercoss
+  image: /images/icons/evercoss.png
+  description: Merek ponsel lokal Indonesia! Sekarang TKDN(tingkat kandungan dalam negeri)-nya baru sekitar 20%. Semoga bisa lebih banyak lagi.
+  products:
+    - name: Android One
+      description: Ada bahasan khusus terkait Android One di <a href="/android-one">sini</a>. Memuaskan, tapi TKDN harus ditambah terus.
+
+- name: Apple
+  image: /images/icons/apple.svg
+  description: Salah satu brand premium di komputer dan ponsel. Sayang, tidak ada alternatif lokal untuk laptop premium. :(
+  products:
+    - name: MacBook Pro 13"
+      description: Ada bahasan khusus terkait MacBookPro di <a href="/macbook-pro-13-early-2015">sini</a>. Sangat memuaskan untuk kerja!(bukan buat gaming) Banyak laptop yang lebih mahal, tapi kualitasnya gak bakal bertambah signifikan.
+
+- name: Terry Palmer
+  image: /images/icons/terry_palmer.jpg
+  description: Merek handuk premium lokal! Belum ketemu alternatif lain yang lebih bagus untuk handuk.
+  products:
+    - name: Concept
+      description: Handuk versi murahnya Terry Palmer. Katun 100%, kuat, tapi tenunannya tidak terlalu tebal. Cocok lah buat di bawa ke mana-mana.
+    - name: Badraso
+      description: Handuk versi mahal Terry Palmer. Mahalnya itu karena pake katun mesir(yang katanya tahan lama dan lembut). Bagus, nyaman, mudah menyerap air, tenunannya tebal, dan kuat. Well worth the price. Kerasa lah bedanya.
+
+- name: Quaker
+  image: /images/icons/quaker.png
+  description: Oatmeal yang dari dulu dibeliin orang tua, berlanjut hingga sekarang. Belum ketemu alternatif lain yang mudah didapat. Kalau ada yang lain pun biasanya lebih mahal. Yah, oatmeal, demi hidup yang lebih sehat. Biasa sih kalau sehari udah makan oatmeal ngerasa kurusan dan pencernaan lancar.
+
+- name: Ciptadent
+  image: /images/icons/ciptadent.png
+  description: Pasta gigi merek lokal. Pemilihannya karena lokal saja. Pernah pakai yang lain, tapi gak ngerasa ada bedanya. Seger-seger aja abis sikat gigi pakai pasta apapun. XD (mungkin salah)
+
+- name: Pepsodent
+  image: /images/icons/pepsodent.jpg
+  description: Pasta gigi Unilever. Dulu sering pakai, sekarang lebih pilih yang lokal. Gak ngerasa ada bedanya juga.

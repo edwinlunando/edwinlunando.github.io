@@ -1,0 +1,73 @@
+---
+layout: default
+title: Merek
+permalink: /merek/
+---
+
+<div class="mdl-cell--8-col">
+  <div class="brand-header-grid mdl-grid">
+    <div class="mdl-cell mdl-cell--12-col">
+      <div class="brand-header green-color mdl-card mdl-shadow--3dp">
+        <div class="mdl-card__title">
+          <h1 class="mdl-card__title-text">Merek</h1>
+        </div>
+
+        <p class="brand-text mdl-card__supporting-text">
+          Dalam kehidupan sehari-hari, saya sangat cenderung untuk menggunakan merek lokal dalam pemilihan barang. Maunya begitu, tapi kenyataannya gak semua jenis barang ada versi bagus dan lokalnya. Masalahnya, ada nih versi lokal, tapi kualitasnya jelek. Jadi, saya masih menggunakan banyak sekali produk impor, terutama elektronik. Saya masih optimis jumlah merek lokal yang saya akan bertambah dari waktu ke waktu.
+        </p>
+        <p class="brand-text mdl-card__supporting-text">
+          Kedua, dalam membeli barang saya sangat terbantu dengan ulasan online, entah itu membeli sabun, sampo, sampai dengan pisau dapur. Kenyataannya, sulit sekali mendapatkan ulasan online untuk merek-merek Indonesia. Kita masih kurang sekali dalam jumlah konten bahasa Indonesia.
+        </p>
+
+        <p class="brand-text mdl-card__supporting-text">
+          Jadi, untuk membantu menyelesaikan kedua masalah tersebut, berikut merupakan merek-merek yang saya gunakan secara dominan beserta ulasannya. Saya akan menambahkan ulasan saya secara berkala. Saya terbuka dengan diskusi dan kritikan. Selamat membaca!
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="brand-grid mdl-grid">
+
+    {% for brand in site.data.brands %}
+
+    <div class="brand-cell mdl-cell mdl-cell--4-col">
+      <div class="brand-card mdl-card mdl-shadow--3dp">
+        <div class="brand-card__media mdl-card__media"><img src="{{ brand.image }}" border="0"
+         alt="" style="width:100%;">
+        </div>
+        <div class="brand-card__supporting-text mdl-card__supporting-text">
+          <h2 class="mdl-card__title-text">{{ brand.name }}</h2>
+        </div>
+        <div class="mdl-card__supporting-text">
+        {{ brand.description }}
+        </div>
+        {% for product in brand.products %}
+        <div class="mdl-card__supporting-text">
+          <h3>{{ product.name }}</h3>
+          {{ product.description }}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    {% endfor %}
+
+  </div>
+
+</div>
+
+<script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/masonry.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/imagesloaded.js" | prepend: site.baseurl }}"></script>
+
+<script>
+$(function() {
+  var $container = $('.brand-grid');
+  $container.masonry({
+    itemSelector: '.brand-cell'
+  });
+  $container.imagesLoaded( function () {
+    $container.masonry('layout');
+  });
+});
+</script>
