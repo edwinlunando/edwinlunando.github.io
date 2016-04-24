@@ -27,8 +27,27 @@
 
 - name: Ciptadent
   image: /images/icons/ciptadent.png
-  description: Pasta gigi merek lokal. Pemilihannya karena lokal saja. Pernah pakai yang lain, tapi gak ngerasa ada bedanya. Seger-seger aja abis sikat gigi pakai pasta apapun. XD (mungkin salah)
+  description: Pasta gigi Lion. Karena ada promo saja belinya. Pernah pakai yang lain, tapi gak ngerasa ada bedanya. Seger-seger aja abis sikat gigi pakai pasta apapun. XD (mungkin salah)
 
 - name: Pepsodent
   image: /images/icons/pepsodent.jpg
   description: Pasta gigi Unilever. Dulu sering pakai, sekarang lebih pilih yang lokal. Gak ngerasa ada bedanya juga.
+
+- name: Formula
+  image: /images/icons/formula.jpg
+  description: Pasta gigi merek orang tua. Lokal. Gak ada bedanya pas pakai. Pake karena merek lokal saja.
+
+- name: Aqua
+  image: /images/icons/aqua_danone.png
+  description: Yak merek air minum lokal yang sudah dari dulu dipakai. Gak ke yang lain karena pernah ada pengalaman minum air dalam kemasan, tapi rasanya pahit dan berbau. Sayang sekarang jadi milik Danone.
+
+- name: Equil
+  image: /images/icons/equil.png
+  description: Sparkling water, intinya air terus ada gelembung-gelembungnya dikit. Rasa sih sama aja kayak Aqua. Termasuk produk premium sih, tapi gak ngerasa ada perbedaan yang signifikan gimana dong?
+
+- name: Indofood
+  image: /images/icons/indofood.png
+  description: Perusahaan lokal yang kerjaannya sebagai produsen makanan dan minuman. Banyakkkk banget jenis makanan dan minumannya.
+  products:
+    - name: Indomie
+      description: Makanan sejuta umat. Kayaknya gak ada yang gak pernah makan Indomie. Bahkan katanya, kalau ada bencana, Indomie duluan yang datang sebelum bantuan yang lain. Enak, kalau kuah, rasa Ayam Bawang, kalau goreng, rasa Rendang. Bersertifikat aman dari BPOM.
