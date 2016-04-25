@@ -50,4 +50,4 @@
   description: Perusahaan lokal yang kerjaannya sebagai produsen makanan dan minuman. Banyakkkk banget jenis makanan dan minumannya.
   products:
     - name: Indomie
-      description: Makanan sejuta umat. Kayaknya gak ada yang gak pernah makan Indomie. Bahkan katanya, kalau ada bencana, Indomie duluan yang datang sebelum bantuan yang lain. Enak, kalau kuah, rasa Ayam Bawang, kalau goreng, rasa Rendang. Bersertifikat aman dari BPOM.
+      description: Makanan sejuta umat. Kayaknya gak ada yang gak pernah makan Indomie. Bahkan katanya, kalau ada bencana, Indomie duluan yang datang sebelum bantuan yang lain. Enak, kalau kuah, rasa Ayam Bawang, kalau goreng, rasa Rendang. <a href="http://www.pom.go.id/new/index.php/view/klarifikasi/25/Klarifikasi---Isu-Bahaya-Mi-Instan.html">Bersertifikat aman dari BPOM</a>.
