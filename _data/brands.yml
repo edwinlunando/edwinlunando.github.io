@@ -51,3 +51,27 @@
   products:
     - name: Indomie
       description: Makanan sejuta umat. Kayaknya gak ada yang gak pernah makan Indomie. Bahkan katanya, kalau ada bencana, Indomie duluan yang datang sebelum bantuan yang lain. Enak, kalau kuah, rasa Ayam Bawang, kalau goreng, rasa Rendang. <a href="http://www.pom.go.id/new/index.php/view/klarifikasi/25/Klarifikasi---Isu-Bahaya-Mi-Instan.html">Bersertifikat aman dari BPOM</a>.
+
+- name: Sennheiser
+  image: /images/icons/sennheiser.png
+  description: Merek hardware audio dari Jerman. Sangat pasaran, produknya sangat bervariasi dari yang murah sampai ke yang sangat mahal. Selama ini saya gunakan rasanya enak, tentunya jauh lebih baik daripada earphone bawaan ponsel. Selain itu, tersedia di banyak tempat, kalau hilang atau rusak, beli penggantinya mudah.
+  products:
+    - name: HD 202
+      description: Over-ear headphone. Salah satu headphone over-ear yang dulunya paling laku karena kualitasnya oke banget dengan harga menengah. Terkait suaranya, cenderung ke bass(nada rendah). Kekurangannya palingan kabelnya panjang, bikin sering tersandung dan ketarik. Buat gua yang relatif ceroboh, ini bahaya sih.
+    - name: MX 375
+      description: Ear Phone. Sangat generik dan murah, tapi tetap lebih baik dari earphone bawaan ponsel. Suaranya jelas tapi standar, tidak ada kecenderungan ke nada tertentu, cocok untuk musik-musik umum. Saya gunakan ini biasa buat kalau di tempat-tempat umum yang biasanya mudah membuat luka ke headphone.
+
+- name: Zero audio
+  image: /images/icons/zero_audio.gif
+  description: Merek earphone dari Jepang. Kebanyakan produknya sekitar in ear monitor(IEM). Biasanya yang jual ini cuma di toko-toko khusus Audio.
+  products:
+    - name: Carbo Tenore
+      description: IEM mahal pertama yang gua beli. Konon katanya, semakin mahal headphone, kamu akan mulai mendengar suara yang tidak kamu dengar dengan headphone murah. Itu benar! Bukan karena ada makhluk lain, tapi karena tingkat distorsi yang rendah dan kualitas suara yang lebih baik. Untuk suaranya, lebih ke frekuensi midrange dan treble. Cocok untuk lagu-lagu mainstream, tapi oke juga kok untuk lagu-lagu yang berat di bass. Kesimpulannya, saya gak bakal ragu-ragu beli ini lagi kalau yang sekarang punya rusak. Beberapa kekurangannya palingan kabelnya sangat tipis jadi terlihat mudah putus.
+
+- name: Grado
+  image: /images/icons/grado.png
+  description: Merek headphone dari U.S. Spesialis headphone open air. Biasanya yang jual ini cuma di toko-toko khusus Audio.
+  products:
+    - name: SR60e
+      description: Headphone entry levelnya Grado, tapi udah bagus banget. Konsep open air membuat musik yang kita dengar menyerupai rekaman live dari musik tersebut karena isolasinya rendah. Kayak nonton langsung rekaman audio gitu loh. Kita bisa tahu suara gitarnya dari sisi sebalah mana dan jaraknya kira-kira berapa karena suara yang sangat jelas dan tingkat isolasi yang rendah! Kabelnya pun tebal dan kuat. Kekurangannya, suaranya bocor karena isolasinya rendah. Kalau naikin volume dikit, orang yang duduk sebelah kita bisa denger. Cocok untuk di tempat yang sepi. Very recommended.
+
