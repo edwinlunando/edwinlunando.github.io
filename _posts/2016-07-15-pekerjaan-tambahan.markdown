@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pelajaran Tambahan"
+title:  "Pekerjaan Tambahan"
 date:   2016-07-15
 categories: sadar bakat kurikulum bertanya
 author: Edwin Lunando
