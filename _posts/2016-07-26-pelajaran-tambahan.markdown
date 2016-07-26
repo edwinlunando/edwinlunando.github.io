@@ -24,7 +24,7 @@ Tentunya penting untuk anak-anak tahu semua detil pengetahuan, tapi yang lebih p
 
 Bahkan, anak-anak pun perlu mempertanyakan otoritas. Jangan perlu langsung percaya semua yang dikatakan oleh yang lebih berkuasa. Semua orang bisa salah. Paling gampang kalau di dunia kerja itu kalau dikasih kerjaan. Bisa selesain pekerjaan dengan cepat dan tepat itu value, tapi yang lebih penting adalah mengidentifikasi aktivitas mana yang menghasilkan *value* paling tinggi dan fokuskan ke sana. Ini pun berlaku di kehidupan, keingintahuan terkait bisnis, pajak, dan finansial akan membantu kamu dalam menentukan aktivitas yang *value*-nya paling baik buat kamu.
 
-## Mental Pembelajar
+## Tanya, Tanya, dan Tanya
 
 Inilah yang terjadi di dunia IT. Saat kamu memilih untuk terjun di dunia IT, kamu secara otomatis memilih belajar seumur hidupmu. Library, framework, dan teknologi baru terus bermunculan tiap bulan, bahkan tiap minggu. Kalau kamu tidak ada keingintahuan atau minat untuk belajar hal baru, gampang banget ketinggalan. Sama dengan pengetahuan-pengetahuan yang aku sebutkan di atas, ketenagakerjaan, organisasi, dan etika. Semua hal yang tidak langsung berhubungan *hard skill* ini aku pun mulai tertarik mempelajari di waktu luang setelah mengetahui bahwa pekerjaanku bukan cuma mengembangkan aplikasi tok. *Value* untuk tempat kerja itu tidak hanya dari deskripsi pekerjaan yang tertulis di kontrak atau kerjaan yang dikasih.
 
