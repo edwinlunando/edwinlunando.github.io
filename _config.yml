@@ -15,3 +15,4 @@ gems:
   - jekyll-paginate
   - jemoji
 highlighter: rouge
+host: 0.0.0.0
