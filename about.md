@@ -10,7 +10,7 @@ Semua tulisan saya di blog ini akan berbahasa Indonesia.
 
 Saya merupakan seorang insinyur perangkat lunak(software engineer) yang sekarang:
 
-- bekerja di [happyfresh.com][17]
+- bekerja di [bukalapak.com][17]
 - mengembangkan [kuliahkita.com][2] dan [pikavia.com][16]
 - menulis di blog [suitmedia.github.io][3], [edwinlunando.blogspot.com][4], dan [python.or.id][5]
 - mampu menulis kode dalam bahasa [Python][6], [Ruby][7], [C#][8], dan [PHP][9]. Fokus di Python
@@ -38,6 +38,6 @@ Sekian dan terima kasih.
 [14]:   http://www.asp.net/mvc
 [15]:   http://laravel.com/
 [16]:   http://pikavia.com/
-[17]:   https://www.happyfresh.com/
+[17]:   https://www.bukalapak.com/
 [18]:   http://www.meetup.com/Python-ID/
 [19]:   http://arxiv.org/abs/1505.03085
