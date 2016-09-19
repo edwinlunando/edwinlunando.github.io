@@ -14,7 +14,7 @@ Yak, setelah sekian lama mengembara menggunakan [Linux][0]([Ubuntu][1], [Kubuntu
 
 Yak, saya paling suka navigasi Windows. Contoh yang paling penting buat saya adalah navigasi antar aplikasi. alt-tab di Windows instan dan efisien. Dari awal tekan alt-tab, lalu saya bisa memilih window dengan tombol panah saya. Di Linux, saya tidak pernah mendapatkan pengalaman instan. Selalu ada delay beberapa puluh milidetik, dengan spesifikasi kemampuan komputer yang sama. Di Mac, navigasi saat *full-screen*-nya harus banget pake animasi, gak bisa instan juga. Pencarian utama dalam sistem operasinya pun tidak seinstan Windows.
 
-**Buat saya yang fokusnya kecepatan dan produktivitas, navigasi instan itu tidak bisa ditawar**. Ada delay beberapa puluh sampai ratusan mili detik, buatku sangat berpengaruh. Bahkan, saya sendiri sudah [tidak tahan kalau komputer yang saya gunakan masih menggunakan SSD][5].
+**Buat saya yang fokusnya kecepatan dan produktivitas, navigasi instan itu tidak bisa ditawar**. Ada delay beberapa puluh sampai ratusan mili detik, buatku sangat berpengaruh. Bahkan, saya sendiri sudah [tidak tahan kalau komputer yang saya gunakan masih menggunakan hardisk mekanis][5].
 
 ## Driver And App Support
 
