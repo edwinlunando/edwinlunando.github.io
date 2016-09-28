@@ -35,11 +35,11 @@ Untuk pekerjaan kantoran yang berhubungan dengan email, pemrosesan teks, spreads
 
 ### Keyboard
 
-Standar banget. Lebih ke arah kurang enak karena sentuhannya sangat lembut. Ini lebih ke selera. Saya lebih suka yang agak lebih butuh tenaga untuk mengetik agar saya dapat lebih yakin kalau saya sudah menekan kunci tersebut. Tapi, saya suka layout keyboard-nya, sudah tidak ada tombol  page-up, page-down, home, dan end dedicated. Semua harus menggunakan fn dan tombol panah yang menurut saya lebih intuitif.
+Standar banget. Lebih ke arah kurang enak karena sentuhannya sangat lembut. Ini lebih ke selera. Saya lebih suka yang agak lebih butuh tenaga untuk mengetik agar saya dapat lebih yakin kalau saya sudah menekan kunci tersebut. Tapi, saya suka layout keyboard-nya, sudah tidak ada tombol  page-up, page-down, home, dan end *dedicated*. Semua harus menggunakan fn dan tombol panah yang menurut saya lebih intuitif.
 
 ### Touchpad
 
-Touchpad-nya bisa jadi enak, tapi butuh konfigurasi yang lumayan. Pengalaman di touchpad-nya Mac, langsung jalan enak dengan multi-touch gesture yang *reliable*. Di sini, saya perlu intall driver(ya eya lah). Setelah install driver pun belum langsung bisa reliable. Jarak tempuh yang sangat kecil dan mudahnya *touchpad* tertekan saat mengetik, selalu jadi masalah setiap penggunaan. Kedua masalah tersebut sebenarnya bisa diselesaikan dengan sedikit konfigurasi, kok. Jadi, walaupun awalnya tidak enak, ada solusinya biar jadi nyaman. Tapi, touchpad-nya plastik banget sih, pas pake kerasa banget plastiknya. :thumbsup:
+Touchpad-nya bisa jadi enak, tapi butuh konfigurasi yang lumayan. Pengalaman di touchpad-nya Mac, langsung jalan enak dengan multi-touch gesture yang *reliable*. Di sini, saya perlu intall driver(ya eya lah). Setelah install driver pun belum langsung bisa *reliable*. Jarak tempuh yang sangat kecil dan mudahnya *touchpad* tertekan saat mengetik, selalu jadi masalah setiap penggunaan. Kedua masalah tersebut sebenarnya bisa diselesaikan dengan sedikit konfigurasi, kok. Jadi, walaupun awalnya tidak enak, ada solusinya biar jadi nyaman. Tapi, touchpad-nya plastik banget sih, pas pake kerasa banget plastiknya. :thumbsup:
 
 ### Layar
 
@@ -47,7 +47,7 @@ Buat saya yang leptop terakhirnya menggunakan retina display, pas pertama kali p
 
 ### Wireless LAN
 
-Cuma b/g/n! Ini masalah banget kalau menggunakan koneksi yang masih 2.4 GHz. Kalau tempat kerja kamu sudah upgrade jadi 5 Ghz(ab), ini bakal jadi bottleneck kalau yang pakai koneksinya banyak. Ini masalah banget sih buat saya karena di kantor sudah mendukung 5 GHz dan mayoritas laptopnya cuma support 2.4 GHz. Hasilnya, berantem bandwidth. :cry:
+Cuma b/g/n! Ini masalah banget kalau menggunakan koneksi yang masih 2.4 GHz. Kalau tempat kerja kamu sudah upgrade jadi 5 Ghz(ab), ini bakal jadi *bottleneck* kalau yang pakai koneksinya banyak. Ini masalah banget sih buat saya karena di kantor sudah mendukung 5 GHz dan mayoritas laptopnya cuma support 2.4 GHz. Hasilnya, berantem bandwidth. :cry:
 
 ## Build Quality
 
