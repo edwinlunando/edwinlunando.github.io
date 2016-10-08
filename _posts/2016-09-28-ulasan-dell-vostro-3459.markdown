@@ -21,6 +21,14 @@ Seumur-umur saya pakai laptop, saya baru pernah mencoba merek Asus dan Apple. Se
 * Tinggi: 0.91" (23.35mm) x Lebar: 13.58" (345mm) x Kedalaman: 9.57" (243mm)
 * Berat: 1.94 Kg
 
+<img src="/images/dell_vostro_3459_1.jpg" alt="ssd kingston" style="width: 100%;"/>
+
+Warnanya hitam metalik tapi tidak *glossy*.
+
+<img src="/images/dell_vostro_3459_2.jpg" alt="ssd kingston" style="width: 100%;"/>
+
+Masih terdapat DVD-RW yang sebenernya sudah tidak terlalu terpakai di jaman sekarang. 3 USB 3.0-nya sampai sekarang bekerja dengan baik.
+
 ## Impresi Pertama
 
 Pertama kali saya dikasih laptop ini, saya langsung lihat spesifikasi lengkapnya. Laptop standar pekerjaan kantor umum. RAM 4 GB sudah tidak sangat tidak cukup untuk bekerja. Buka beberapa tab peramban saja pasti sudah penuh. RAM 8 GB sudah jadi batas minimal kalau mau lancar. Terkait storage juga saya langsung upgrade ke SSD karena [saya tidak tahan dengan hardisk mekanik][5].
