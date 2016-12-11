@@ -5,7 +5,7 @@ date:   2016-02-23
 categories: keputusan teknologi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: keputusan-teknologi
+permalink: keputusan-teknologi/
 header_image: /images/keputusan_teknologi.png
 ---
 

@@ -5,7 +5,7 @@ date:   2015-08-27 11:57:08
 categories: website revolusi-mental
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: website-revolusi-mental
+permalink: website-revolusi-mental/
 description: pendapat terkait website revolusi mental
 ---
 

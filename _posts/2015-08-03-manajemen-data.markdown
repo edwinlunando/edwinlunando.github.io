@@ -5,7 +5,7 @@ date:   2015-08-03 11:57:08
 categories: manajemen data
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: manajemen-data
+permalink: manajemen-data/
 description: manajemen data dengan metode backup 3 2 1
 ---
 

@@ -5,7 +5,7 @@ date:   2015-11-12
 categories: pendidikan perguruan-tinggi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: perguruan-tinggi
+permalink: perguruan-tinggi/
 header_image: /images/perguruan_tinggi.png
 ---
 

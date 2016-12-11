@@ -5,7 +5,7 @@ date:   2015-06-19 11:57:08
 categories: konfigurasi env
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: penggunaan-.env
+permalink: penggunaan-.env/
 description: penggunaan .env dalam pengembangan aplikasi
 ---
 

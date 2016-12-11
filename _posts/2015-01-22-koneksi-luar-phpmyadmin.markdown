@@ -5,7 +5,7 @@ date:   2015-01-22 11:57:08
 categories: basis-data koneksi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: koneksi-ke-luar-phpmyadmin
+permalink: koneksi-ke-luar-phpmyadmin/
 description: koneksi ke basis data luar melalui PHPMyAdmin
 ---
 

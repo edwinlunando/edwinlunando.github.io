@@ -5,7 +5,7 @@ date:   2015-02-04 11:57:08
 categories: otentikasi pengguna
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: otentikasi-pengguna
+permalink: otentikasi-pengguna/
 description: implementasi fitur otentikasi pengguna
 ---
 

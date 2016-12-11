@@ -5,7 +5,7 @@ date:   2015-06-27 11:57:08
 categories: konfigurasi sublime-text
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: konfigurasi-sublime-text
+permalink: konfigurasi-sublime-text/
 description: konfigurasi sublime text saya
 ---
 

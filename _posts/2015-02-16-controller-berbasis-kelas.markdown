@@ -5,7 +5,7 @@ date:   2015-02-16 11:57:08
 categories: mvc kelas
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: controller-berbasis-kelas
+permalink: controller-berbasis-kelas/
 description: controller berbasis kelas
 ---
 

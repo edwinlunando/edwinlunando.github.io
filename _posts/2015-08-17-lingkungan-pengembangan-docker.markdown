@@ -5,7 +5,7 @@ date:   2015-08-17 11:57:08
 categories: manajemen data
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: lingkungan-pengembangan-docker
+permalink: lingkungan-pengembangan-docker/
 description: mempersiapkan lingkungan pengembangan dengan docker
 ---
 

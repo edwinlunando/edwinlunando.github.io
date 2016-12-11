@@ -5,7 +5,7 @@ date:   2014-12-28 11:57:08
 categories: lubuntu migrasi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: perpindahan-lubuntu
+permalink: perpindahan-lubuntu/
 description: perpindahan ke lubuntu
 ---
 

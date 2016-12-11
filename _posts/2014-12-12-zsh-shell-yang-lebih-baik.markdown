@@ -5,7 +5,7 @@ date:   2014-12-12 11:57:08
 categories: kakas shell
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: zsh
+permalink: zsh/
 description: zsh, shell yang lebih baik dari bash
 ---
 

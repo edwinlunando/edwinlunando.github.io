@@ -5,7 +5,7 @@ date:   2016-09-19
 categories: windows back using
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: kembali-menggunakan-jendela
+permalink: kembali-menggunakan-jendela/
 ---
 
 Yak, setelah sekian lama mengembara menggunakan [Linux][0]([Ubuntu][1], [Kubuntu][2]) dan [Mac][3](Sebenernya OS X atau macOS, tapi saya sebutnya Mac aja ya), saya akhirnya memutuskan untuk kembali menggunakan [Windows][4] sebagai sistem operasi utama saya. Selain dua alasan klasik untuk pengguna Windows(Microsoft Office dan Gaming), saya punya beberapa alasan yang buat saya penting krusial yang memengaruhi kenyamanan dan produktifitas saya dalam bekerja atau pun bermain. Langsung saja, yuk!

@@ -5,7 +5,7 @@ date:   2015-03-29 11:57:08
 categories: kode rapi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: referensi-daripada-nilai-langsung
+permalink: referensi-daripada-nilai-langsung/
 description: referensi daripada nilai langsung
 ---
 

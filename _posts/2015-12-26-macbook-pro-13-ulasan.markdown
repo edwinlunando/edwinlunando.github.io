@@ -5,7 +5,7 @@ date:   2015-12-26
 categories: macbook apple
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: macbook-pro-13-early-2015
+permalink: macbook-pro-13-early-2015/
 header_image: /images/apple.png
 ---
 

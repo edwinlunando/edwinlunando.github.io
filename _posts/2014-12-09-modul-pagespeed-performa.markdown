@@ -5,7 +5,7 @@ date:   2014-12-09 11:57:08
 categories: aplikasi performa
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: pagespeed
+permalink: pagespeed/
 description: modul pagespeen mempercepat performa aplikasi web
 ---
 

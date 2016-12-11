@@ -5,7 +5,7 @@ date:   2015-01-10 11:57:08
 categories: hyperlink metode
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: metode-lain-hyperlink
+permalink: metode-lain-hyperlink/
 description: menggunakan metode HTTP lain pada anchor
 ---
 

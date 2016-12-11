@@ -5,7 +5,7 @@ date:   2016-04-08
 categories: agile scrum pengembangan aplikasi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: mau-pakai-agile
+permalink: mau-pakai-agile/
 header_image: /images/agile.png
 ---
 

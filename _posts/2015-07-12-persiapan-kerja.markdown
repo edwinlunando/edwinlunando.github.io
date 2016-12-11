@@ -5,7 +5,7 @@ date:   2015-07-12 11:57:08
 categories: kerja persiapan
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: persiapan-ketenagakerjaan
+permalink: persiapan-ketenagakerjaan/
 description: mempersiapkan bpjs ketenagakerjaan
 ---
 

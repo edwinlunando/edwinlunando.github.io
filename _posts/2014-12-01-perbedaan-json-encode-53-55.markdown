@@ -5,7 +5,7 @@ date:   2014-12-01 11:57:08
 categories: php json
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: perbedaan-json-encode-php-53-55
+permalink: perbedaan-json-encode-php-53-55/
 description: perbedaan json encode pada php 5.3 dan 5.5
 ---
 

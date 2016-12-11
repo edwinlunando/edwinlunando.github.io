@@ -5,7 +5,7 @@ date:   2015-11-02
 categories: http2 protokol
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: http2
+permalink: http2/
 header_image: /images/http2.png
 ---
 

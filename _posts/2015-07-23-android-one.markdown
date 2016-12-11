@@ -5,7 +5,7 @@ date:   2015-07-23 11:57:08
 categories: ulasan android-one
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: android-one
+permalink: android-one/
 description: ulasan android one
 ---
 

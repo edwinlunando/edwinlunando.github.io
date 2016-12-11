@@ -5,7 +5,7 @@ date:   2015-06-02 11:57:08
 categories: stuktur-data dasar
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: struktur-data-tumpukan
+permalink: struktur-data-tumpukan/
 description: struktur data tumpukan
 ---
 

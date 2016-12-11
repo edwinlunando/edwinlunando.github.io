@@ -5,7 +5,7 @@ date:   2015-07-03 11:57:08
 categories: peran aplikasi-web
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: pembagian-peran-aplikasi-web
+permalink: pembagian-peran-aplikasi-web/
 description: pembagian peran dalam mengembangkan aplikasi web
 ---
 

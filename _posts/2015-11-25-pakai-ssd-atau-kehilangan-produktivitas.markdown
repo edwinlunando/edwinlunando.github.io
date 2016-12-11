@@ -5,7 +5,7 @@ date:   2015-11-25
 categories: teknologi ssh
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: pakai-ssd-atau-kehilangan-produktivitas
+permalink: pakai-ssd-atau-kehilangan-produktivitas/
 header_image: /images/ssd.png
 ---
 

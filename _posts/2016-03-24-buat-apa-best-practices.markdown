@@ -5,7 +5,7 @@ date:   2016-03-24
 categories: keputusan teknologi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: best-practice
+permalink: best-practice/
 header_image: /images/best_practice.png
 ---
 

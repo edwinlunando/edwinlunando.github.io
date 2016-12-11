@@ -5,7 +5,7 @@ date:   2014-12-27 11:57:08
 categories: python version
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: pengatur-versi-python
+permalink: pengatur-versi-python/
 description: pengatur versi python
 ---
 

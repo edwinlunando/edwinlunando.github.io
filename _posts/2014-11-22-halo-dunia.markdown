@@ -5,7 +5,7 @@ date:   2014-11-22 11:57:08
 categories: jekyll update
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: halo-dunia
+permalink: halo-dunia/
 description: halo dunia!
 ---
 

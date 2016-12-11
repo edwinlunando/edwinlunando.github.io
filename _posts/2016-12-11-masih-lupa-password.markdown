@@ -5,7 +5,7 @@ date:   2016-12-11
 categories: sandi manajemen-sandi aplikasi
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: lupa-sandi
+permalink: lupa-sandi/
 ---
 
 Coba hitung jumlah aplikasi yang kamu gunakan, berapa banyak yang membutuhkan kata sandi? Tiap ada aplikasi baru, daftar, artinya sandi baru juga. Kalau terus menerus menggunakan sandi yang sama, sekalinya bobol, langsung deklarasi bangkrut. Kalau tiap aplikasi menggunakan sandi yang berbeda-beda, ngingatnya gimana? Taruh di dokumen, nanti bisa keliatan orang lain. [Bikin sandi yang pendek, nanti gampang di *brute-force* dengan kondisi prosesor komputer yang semakin cepat][2]. Ndak mau kan hadepin masalah-masalah tersebut untuk sisa hidupmu? Masa gaya hidup digital ini masih lumayan lama lah. Sebelum ada [metode otentikasi lain][1] yang jadi standar, solusinya pakai aplikasi manajemen sandi.

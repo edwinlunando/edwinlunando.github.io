@@ -5,7 +5,7 @@ date:   2015-01-04 11:57:08
 categories: pengalaman ngoding
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: /2014
+permalink: /2014/
 description: perubahan metode koding pada 2014
 ---
 

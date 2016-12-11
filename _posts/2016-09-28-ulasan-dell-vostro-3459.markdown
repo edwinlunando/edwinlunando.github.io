@@ -5,7 +5,7 @@ date:   2016-09-28
 categories: dell vostro
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: dell-vostro-3459
+permalink: dell-vostro-3459/
 ---
 
 Seumur-umur saya pakai laptop, saya baru pernah mencoba merek Asus dan Apple. Sekarang, saya dapat kesempatan untuk menggunakan Dell, tepatnya [Dell Vostro 3459][0]. Untuk ulasan ini, saya akan lebih membahas pengalaman saya dalam menggunakan alat ini daripada melakukan berbagai macam pengukuran. Kenapa? Karena biasanya ulasan yang dasarnya pengukuran itu sudah ada. Nanti gua jadinya cuma ngukur ulang aja. Jadi, yuk langsung saja.

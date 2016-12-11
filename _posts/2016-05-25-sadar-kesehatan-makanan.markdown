@@ -5,7 +5,7 @@ date:   2016-05-25
 categories: sadar kesehatan makanan masak
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: sadar-kesehatan-makanan
+permalink: sadar-kesehatan-makanan/
 header_image: /images/food.png
 ---
 

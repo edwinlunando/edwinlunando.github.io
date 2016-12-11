@@ -5,7 +5,7 @@ date:   2016-01-01
 categories: hidup keputusan
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: pengambilan-keputusan
+permalink: pengambilan-keputusan/
 header_image: /images/decision.png
 ---
 

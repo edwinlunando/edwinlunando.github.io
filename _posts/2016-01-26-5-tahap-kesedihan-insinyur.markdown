@@ -5,7 +5,7 @@ date:   2016-01-26
 categories: hidup insinyur
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: 5-tahap-kesedihan
+permalink: 5-tahap-kesedihan/
 header_image: /images/sedih.png
 ---
 

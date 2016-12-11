@@ -5,7 +5,7 @@ date:   2016-07-26
 categories: sadar bakat kurikulum bertanya
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: pelajaran-tambahan
+permalink: pelajaran-tambahan/
 ---
 
 Saat menjalani kehidupan menjadi seorang pekerja, ada begitu banyak pengetahuan baru yang aku dapatkan. Dari semua yang aku dalami, aku berpikir, alangkah baiknya kalau semua pengetahuan ini sudah diberikan sejak dini. Ketenagakerjaan, etika di dunia kerja, pajak, hukum dagang, dan sampai yang personal seperti manajemen finansial, semua pengetahuan ini harusnya minimal semua orang pernah tahu atau baca terkait hal-hal ini sebelum terjun ke dunia kerja.

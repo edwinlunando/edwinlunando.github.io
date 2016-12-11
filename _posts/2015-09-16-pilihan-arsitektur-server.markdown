@@ -5,7 +5,7 @@ date:   2015-09-16 11:57:08
 categories: server arsitektur
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: arsiktektur-server
+permalink: arsiktektur-server/
 description: Pilihan-pilihan arsitektur server dalam aplikasi web
 header_image: /images/server_setup.png
 ---

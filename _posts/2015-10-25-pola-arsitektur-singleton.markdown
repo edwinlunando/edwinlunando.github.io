@@ -5,7 +5,7 @@ date:   2015-10-25 11:57:08
 categories: pola arsitektur singleton
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: singleton
+permalink: singleton/
 description: desain singleton
 header_image: /images/singleton_pattern.png
 ---

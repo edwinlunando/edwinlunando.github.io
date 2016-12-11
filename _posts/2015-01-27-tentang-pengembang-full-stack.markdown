@@ -5,7 +5,7 @@ date:   2015-01-27 11:57:08
 categories: pekerjaan insinyur
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: full-stack
+permalink: full-stack/
 description: pengembang full stack
 ---
 

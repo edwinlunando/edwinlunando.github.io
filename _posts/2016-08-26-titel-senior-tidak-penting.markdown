@@ -5,7 +5,7 @@ date:   2016-08-26
 categories: titel jabatan penting
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: titel-senior-tidak-penting
+permalink: titel-senior-tidak-penting/
 ---
 
 Dunia ini mengajarkan kita untuk mengejar titel atau jabatan atau kekuasaan yang lebih tinggi. Alasannya bermacam-macam. Uang, gengsi, kemapanan, dan kekuasaan menjadi hal yang paling dicari dari sebuah titel. Bahkan, beberapa teman wanita saya secara gamblang menjadikan title "senior" atau "manager" sebagai salah satu kriteria pasangan mereka. Teman saya yang lain(pria dan wanita), masuk ke perusahaan korporasi besar, tujuannya langsung target jabatan. 3 tahun lagi manager, 5 tahun lagi kepala bagian. Bayangkan bekerja di perusahaan yang orang-orangnya terpaku pada titel. Padahal titel atau jabatan yang selama ini dikejar-kerja itu sebenarnya tidak terlalu penting loh.

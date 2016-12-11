@@ -5,7 +5,7 @@ date:   2015-01-16 11:57:08
 categories: basis-data password
 author: Edwin Lunando
 author_t: edwinlunando
-permalink: password
+permalink: password/
 description: cara menyimpan password yang baik
 ---
 
