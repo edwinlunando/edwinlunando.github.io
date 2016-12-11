@@ -18,7 +18,7 @@ Secara teori, kamu cuma cukup mengingat, menulis, atau menyimpan satu buah sandi
 2. Otentikasi ponsel: Kita bisa menggunakan ponsel kita untuk mengotentikasi setiap permintaan login.
 3. Verifikasi email: Tiap kali login di device lain, perlu konfirmasi email.
 
-Selama penggunaannya benar, dengan menggunakan salah satu dari fitur harusnya sudah aman. Saya sendiri mengggunakan otentikasi ponsel karena saya lebih nyaman menggunakan [aplikasi authenticator][3] di ponsel saya.
+Selama penggunaannya benar, dengan menggunakan salah satu dari fitur harusnya sudah aman. Saya sendiri mengggunakan otentikasi ponsel karena saya lebih nyaman menggunakan [aplikasi otensikasi][3] di ponsel saya.
 
 ## Pembuatan sandi otomatis
 
@@ -34,7 +34,7 @@ Perlu diketahui bahwa penggunaan aplikasi manajemen sandi ini bukan berarti aman
 
 ## Bukan Solusi Nyaman
 
-Well, saya tahu mengurus sandi bukan kegiatan yang nyaman, tapi kalau dipikirkan lebih lanjut terkait efeknya kalau lupa sandi atau kehilangan akses ke akun-akun digital kita, sebanding lah dengan usaha yang kita lakukan. Pernah kan ketemu kasus atau bahkan mengalami kehilangan akses ke akun digital? Horor, gan. Aplikasi ini bukan *silver bullet*. Tetap saja semakin banyak sandi yang kita punya, semakin capek juga mengurusnya. Aplikasi ini membuat mengurus sandi lebih manusiawi. :wink:
+Untuk rekomendasi, saya menggunakan [1password][6] dan [lastpass][7](masih mencoba keduanya). Yah, saya tahu mengurus sandi bukan kegiatan yang nyaman, tapi kalau dipikirkan lebih lanjut terkait efeknya kalau lupa sandi atau kehilangan akses ke akun-akun digital kita, sebanding lah dengan usaha yang kita lakukan. Pernah kan ketemu kasus atau bahkan mengalami kehilangan akses ke akun digital? Horor, gan. Aplikasi ini bukan *silver bullet*. Tetap saja semakin banyak sandi yang kita punya, semakin capek juga mengurusnya. Aplikasi ini membuat mengurus sandi lebih manusiawi. :wink:
 
 [0]:    https://en.wikipedia.org/wiki/Brute-force_attack
 [1]:    http://newatlas.com/three-alternatives-passwords/31695/
@@ -42,3 +42,5 @@ Well, saya tahu mengurus sandi bukan kegiatan yang nyaman, tapi kalau dipikirkan
 [3]:    https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en
 [4]:    https://blog.lastpass.com/2015/06/lastpass-security-notice.html/
 [5]:    https://en.wikipedia.org/wiki/Encryption
+[6]:    https://1password.com/
+[7]:    http://lastpass.com/
