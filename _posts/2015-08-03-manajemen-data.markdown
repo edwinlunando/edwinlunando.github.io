@@ -37,7 +37,7 @@ Offite backup menjadi penting untuk perlindungan jika terjadi musibah non-digita
 
 ## Pertimbangan Harga
 
-Selain keamanan, tentu saja kita perlu mempertimbangkan harga yang perlu kita bayarkan. Idealnya, kita menemukan posisi yang seimbang antara keamanan yang kita butuhkan dengan budget. Google Drive dan Dropbox nenawarkan beberapa belas GB secara gratis(Dropbox awal 2 GB tapi ada mekanisme penambahan). Jika berkas Anda hanya dokumen, seharusnya yang versi gratis pun cukup. Saya sendiri masih pakai versi gratis. Untuk yang berbayar, Google Drive dan Dropbox menawarkan 9.99$ per bulan untuk 1 TB.
+Selain keamanan, tentu saja kita perlu mempertimbangkan harga yang perlu kita bayarkan. Idealnya, kita menemukan posisi yang seimbang antara keamanan yang kita butuhkan dengan budget. Yang paling penting untuk diingat itu, jika harga penyimpanan data sudah lebih murah dibandingkan dengan nilai dokumennya, langsung saja pakai. Google Drive dan Dropbox nenawarkan beberapa belas GB secara gratis(Dropbox awal 2 GB tapi ada mekanisme penambahan). Jika berkas Anda hanya dokumen, seharusnya yang versi gratis pun cukup. Saya sendiri masih pakai versi gratis. Untuk yang berbayar, Google Drive dan Dropbox menawarkan 9.99$ per bulan untuk 1 TB.
 
 Jika mengukur nilai efisiensi, harga HDD external sekitar 500K-1M untuk 500GB-1TB. Harga brankas bervariasi 500K-10M tergantung ukuran brankas. Untuk deposit bank, ini biasanya yang paling mahal, biasanya dibayar per tahun atau per 6 bulan dan biayanya sangat tergantung bank. Dari yang paling murah ratusan ribu hingga puluhan juta tergantung ukuran deposit box. Silahkan sesuaikan dengan kebutuhan keamanan Anda sendiri. Saya sendiri masih cukup dengan HDD.
 
