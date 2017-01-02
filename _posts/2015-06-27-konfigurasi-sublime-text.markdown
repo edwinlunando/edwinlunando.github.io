@@ -11,20 +11,22 @@ description: konfigurasi sublime text saya
 
 Dalam mengembangkan aplikasi web, pilihan editor teks saya adalah [Sublime Text][0]. Saya sudah mencoba editor lain seperti [Atom][1] dan [Visual Studio Code][2] tetapi, saya selalu kembali ke Sublime Text karena paling cocok dengan kebutuhan saya. Berikut saya akan membagikan konfigurasi Sublime yang saya gunakan.
 
-    {
-        "theme": "Afterglow.sublime-theme",
-        "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-        "draw_white_space": "all",
-        "ensure_newline_at_eof_on_save": true,
-        "highlight_line": true,
-        "highlight_modified_tabs": true,
-        "ignored_packages":
-        [
-            "Vintage"
-        ],
-        "translate_tabs_to_spaces": true,
-        "trim_trailing_white_space_on_save": true
-    }
+{% highlight json %}
+{
+    "theme": "Afterglow.sublime-theme",
+    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
+{% endhighlight %}
 
 Mari kita bahas satu per satu.
 
