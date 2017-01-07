@@ -8,6 +8,7 @@ body, .post, .title-link, .date{
 body {
     margin: 40px auto;
     font-size: 18px;
+    padding:0 10px;
 }
 
 p, ol, ul {
