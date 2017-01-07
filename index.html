@@ -2,27 +2,27 @@
 layout: default
 ---
 
-<div class="mdl-cell--8-col">
+<div>
 
   <ul class="posts">
 
     {% for post in paginator.posts %}
       <li>
-        <div class="mdl-card mdl-shadow--2dp layout-card">
-          {% if post.header_image %}
-          <div class="mdl-card__media mdl-color-text--grey-50" style="background-image: url({{ post.header_image }});">
-          </div>
-          {% endif %}
-          <div class="mdl-card__title">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-              <h1 class="mdl-card__title-text">{{ post.title }}</h1>
+        <div>
+          <div>
+            <a class="title-link" href="{{ post.url | prepend: site.baseurl }}">
+              <h2 class="title">{{ post.title }}</h2>
             </a>
           </div>
-          <div class="mdl-card__supporting-text">
-            <span class="post-date">
-            {% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d" }}
-            {% case m %}
+          <div >
+
+            <p class="post">
+              {{ post.content | strip_html | truncatewords:35}}
+            </p>
+            <small class="date">
+              {% assign m = post.date | date: "%-m" %}
+              {{ post.date | date: "%-d" }}
+              {% case m %}
               {% when '1' %}Januari
               {% when '2' %}Febuari
               {% when '3' %}Maret
@@ -35,12 +35,9 @@ layout: default
               {% when '10' %}Oktober
               {% when '11' %}November
               {% when '12' %}Desember
-            {% endcase %}
-            {{ post.date | date: "%Y" }}
-            </span>
-            <p class="post-preview">
-              {{ post.content | strip_html | truncatewords:35}}
-            </p>
+              {% endcase %}
+              {{ post.date | date: "%Y" }}
+            </small>
           </div>
         </div>
       </li>
@@ -48,14 +45,14 @@ layout: default
   </ul>
 
   <!-- Pagination links -->
-<div class="pagination">
+<div class="center">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Sebelumnya</a>
+    <a href="{{ paginator.previous_page_path }}">Sebelumnya</a>
   {% else %}
   {% endif %}
-  <span class="page_number ">Halaman: {{ paginator.page }} dari {{ paginator.total_pages }}</span>
+  <span>{{ paginator.page }} dari {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Selanjutnya</a>
+    <a href="{{ paginator.next_page_path }}">Selanjutnya</a>
   {% else %}
   {% endif %}
 </div>
