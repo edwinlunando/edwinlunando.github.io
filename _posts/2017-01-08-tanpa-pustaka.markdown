@@ -19,7 +19,7 @@ Keterbacaan dan kompabilitas lintas peramban, itu 2 point yang menjadi fokus des
 1. **Beri ruang untuk bernafas**. Kasian itu mata ngeliat jarak antar baris rapet banget.
 1. **Cukup per satu halaman**. Satu baris cukup 80 karakter biar bacanya lancar dari atas ke bawah.
 
-Situs ini dibuat dengan CSS yang sangat minimal(200 baris) dan ternyata sudah responsif di perangkat yang layarnya kecil maupun besar tanpa menggunakan [media query][2]. Dibuka di berbagai jenis peramban pun sama. Silahkan dicoba. :). Kata siapa butuh media query supaya bisa responsif?
+Situs ini dibuat dengan CSS yang sangat minimal(200 baris) dan ternyata sudah responsif di perangkat yang layarnya kecil maupun besar tanpa menggunakan [media query][2]. Dibuka di berbagai jenis peramban pun sama. Silahkan dicoba.  :wink:. Kata siapa butuh media query supaya bisa responsif?
 
 ## Kecepatan
 
