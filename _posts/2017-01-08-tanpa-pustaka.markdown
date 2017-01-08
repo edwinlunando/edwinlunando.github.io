@@ -8,7 +8,7 @@ author_t: edwinlunando
 permalink: tanpa-pustaka/
 ---
 
-Yey, desain baru! Sejak bulan lalu, gua pengen banget ganti desain blog ini karena setelah melihat banyak blog-blog lainnya, blog gue cupu banget dari sisi keterbacaan. Nyaman banget baca tulisan di medium. Kalau dibandingin sama blog gue, dulu tuh awalnya gua dapet inspirasi [desain material][4] dari Google. Jadinya langsung gua ikutin tuh, sistem kartu, flat design, dan warna-warna yang cerah. Setelah kira-kira satu tahun mondar-mandir di blog orang lain, selalu balik ke desain di Medium. Oleh karena itu, ini desain baru blog gue. Dasar dan sederhana.
+Yey, desain baru! Sejak bulan lalu, gua pengen banget ganti desain blog ini karena setelah melihat banyak blog-blog lainnya, blog gue cupu banget dari sisi keterbacaan dan kecantikan. Nyaman banget baca tulisan di medium. Kalau dibandingin sama blog gue, dulu tuh awalnya gua dapet inspirasi [desain material][4] dari Google. Jadinya langsung gua ikutin tuh, sistem kartu, flat design, dan warna-warna yang cerah. Setelah kira-kira satu tahun mondar-mandir di blog orang lain, selalu balik ke desain di Medium. Oleh karena itu, ini desain baru blog gue. Dasar dan sederhana.
 
 ## Desain
 
