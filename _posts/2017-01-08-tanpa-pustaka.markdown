@@ -27,7 +27,7 @@ Gua mau blog ini jauh lebih ringan dari yang sebelumnya. Ini hasilnya. Di halama
 
 1. Dari 17 HTTP *request* ke 4 *request*.
 1. Dari 400KB ke 40KB
-1. Tanpa javascript sama sekali, cuma HTML dan CSS.
+1. [Tanpa javascript sama sekali][5], cuma HTML dan CSS.
 
 Saat gua nyari inspirasi buat desain baru ini, gua riset banyak pustaka CSS dan Javascript seperti [Bootstrap][3], salah satu yang legendaris, tapi ukuran CSS-nya yang versi *minified*-nya aja lebih dari 100KB. Untuk ngasih animasi sedikit, perlu nambahin 80KB Jquery ditambah dengan javascript Bootstrap-nya sendiri. Mau nambah beberapa ikon media sosial, nambah lagi font awesome yang ukurannya mencapai 100KB-an. **Padahal, konten teks dari blog, biasanya gak lebih dari 20KB**. Pantesan ya peramban butuh memory yang gede. Jadi, tidak untuk Bootstrap.
    
@@ -42,3 +42,4 @@ Gua puas banget, sekarang baca blog gua sendiri lebih cantik dan nyaman, cepat p
 [2]:    https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 [3]:    http://getbootstrap.com/
 [4]:    https://material.io/guidelines/
+[5]:    https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889
