@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Komputer Personal Pertama"
-date:   2017-01-08
+date:   2017-03-12
 categories: personal-computer diy review
 author: Edwin Lunando
 author_t: edwinlunando
