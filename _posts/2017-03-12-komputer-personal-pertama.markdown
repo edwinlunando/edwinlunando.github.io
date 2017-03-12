@@ -22,9 +22,17 @@ Dari perakitan hingga dengan sekarang, saya tidak pernah mengalami masalah denga
 
 ## Processor
 
-[Intel i5 4670][2], 2.8 juta. 
+[Intel i5 4670][2], Haswell, 2.8 juta. Dulu perakitan ini diundur beberapa minggu karena nunggu prosesor lini yang baru ini nyampe Bandung. Milih intel karena waktu itu performa AMD kurang begitu oke untuk gaming dari beberapa ulasan. i5 karena butuh performa gaming yang baik, tapi gak sanggup buat beli i7. 
 
+Bagus banget, dari pengalaman pakainya sih, hampir gak pernah merasa lambat buka banyak tab browser, nulis kode, nonton film full HD, jalanin virtual machine linux, dan operasi standar lain yang menggunakan CPU. Kalau butuh benchmark, bisa dilihat di [sini][3]. Sampai sekarang pun juga masih berfungsi dengan baik dengan kipas bawaan. Palingan pernah masalah karena pasta termalnya sudah kering, setelah 3 tahun, tinggal tambahin yang baru.
+
+## Video Graphic Array
+
+[AMD 7850][4], 1.8 juta. Pemilihan VGA ini dulu dasarnya "yang penting bisa Dota 2 ultra setting", karena saya dulu cuma main Dota 2. Padahal saya juga banyak game lain yang menuntut kemampuan VGA yang jauh lebih besar. 
 
 [0]:    http://www.gigabyte.com/Motherboard/GA-Z87X-D3H-rev-1x#o
 [1]:    https://en.wikipedia.org/wiki/LGA_1150
 [2]:    http://ark.intel.com/products/75047/Intel-Core-i5-4670-Processor-6M-Cache-up-to-3_80-GHz
+[3]:    http://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-4670+%40+3.40GHz
+[4]:    http://products.amd.com/en-us/search/Desktop-Graphics/AMD-Radeon%E2%84%A2-HD-7000-Series/AMD-Radeon%E2%84%A2-HD-7800/AMD-Radeon%E2%84%A2-HD-7850/18
+[5]:    http://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7850
