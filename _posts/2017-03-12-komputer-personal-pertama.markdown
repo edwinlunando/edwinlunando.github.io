@@ -22,13 +22,25 @@ Dari perakitan hingga dengan sekarang, saya tidak pernah mengalami masalah denga
 
 ## Processor
 
-[Intel i5 4670][2], Haswell, 2.8 juta. Dulu perakitan ini diundur beberapa minggu karena nunggu prosesor lini yang baru ini nyampe Bandung. Milih intel karena waktu itu performa AMD kurang begitu oke untuk gaming dari beberapa ulasan. i5 karena butuh performa gaming yang baik, tapi gak sanggup buat beli i7. 
+[Intel i5 4670][2], Haswell, 3 juta. Dulu perakitan ini diundur beberapa minggu karena nunggu prosesor lini yang baru ini nyampe Bandung. Milih intel karena waktu itu performa AMD kurang begitu oke untuk gaming dari beberapa ulasan. i5 karena butuh performa gaming yang baik, tapi gak perlu sampai butuh i7. 
 
 Bagus banget, dari pengalaman pakainya sih, hampir gak pernah merasa lambat buka banyak tab browser, nulis kode, nonton film full HD, jalanin virtual machine linux, dan operasi standar lain yang menggunakan CPU. Kalau butuh benchmark, bisa dilihat di [sini][3]. Sampai sekarang pun juga masih berfungsi dengan baik dengan kipas bawaan. Palingan pernah masalah karena pasta termalnya sudah kering, setelah 3 tahun, tinggal tambahin yang baru.
 
 ## Video Graphic Array
 
-[AMD 7850][4], 1.8 juta. Pemilihan VGA ini dulu dasarnya "yang penting bisa Dota 2 ultra setting", karena saya dulu cuma main Dota 2. Padahal saya juga banyak game lain yang menuntut kemampuan VGA yang jauh lebih besar. 
+[AMD 7850][4], 1.9 juta. Pemilihan VGA ini dulu dasarnya "yang penting bisa Dota 2 ultra setting lancar", karena saya dulu cuma main Dota 2. Padahal saya juga banyak game lain yang ternyata menuntut kemampuan kartu grafis yang jauh lebih besar. Apalagi gim-gim baru. Untuk gim-gim 2017 yang grafisnya bagus, saya cuma bisa menikmati konfigurasi low sampai dengan medium. Itu pun paling 30 FPS. Berikut [benchmarknya][5]. 
+
+Jadi, pemilihan kartu grafis sangat tergantung gim apa yang mau dimainkan. Kalau dihitung jumlahnya, gim-gim yang tuntutan grafisnya besar, gim AAA biasanya, itu jumlahnya sangat sedikit jika dibandingkan dengan gim-gim lainnya. Di bawah 5 persen lah dari total semua gim yang ada. Karena grafis hanyalah salah satu faktor dari keseruan sebuah gim. Tapi, untuk kasus gue, harusnya beli kartu grafis yang lebih kuat daripada ini.
+
+## Storage
+
+Kingston HyperX 120 GB SSD dan Western Digital Blue 1 TB. 1.3 juta dan 800K. Standar hybrid, SSD buat sistem operasi dan HDD buat data-data lainnya. Sejak 3 tahun lalu, gua sudah mencicipi performa SDD yang membuat proses booting selesai dalam hitungan detik. Gua rasa ini pilihan pembelian terbaik gua diantara semua komponen. Ditambah dengan HDD-nya rusak di tahun kedua, hilanglah kepercayaan gua pada HDD. Buat yang belum paham betul perbedaan SSD dan HHD, baca [ini deh][6]. Sekali pindah, gak bisa balik lagi.
+
+## Random Access Memory
+
+[Corsair Vengeance 2 x 4GB DDR3][7]. Dulu milih RAM yang agak mahalan ini karena ngiranya *clock speed* dan *timing* berpengaruh ke performa saat main gim. ternyata, KAGAK. Atau lebih tepatnya, gak kerasa. Pernah ngukur sendiri, gak sengefek itu. Positifnya, masih berfungsi sampai sekarang. Wajar banget, RAM itu komponen yang paling susah rusak dibandingin dengan yang lain. Sampe-sampe banyak merk ngasih garansi *lifetime*. Lain kali, gua pasti beli yang lebih murah. 
+
+
 
 [0]:    http://www.gigabyte.com/Motherboard/GA-Z87X-D3H-rev-1x#o
 [1]:    https://en.wikipedia.org/wiki/LGA_1150
@@ -36,3 +48,5 @@ Bagus banget, dari pengalaman pakainya sih, hampir gak pernah merasa lambat buka
 [3]:    http://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-4670+%40+3.40GHz
 [4]:    http://products.amd.com/en-us/search/Desktop-Graphics/AMD-Radeon%E2%84%A2-HD-7000-Series/AMD-Radeon%E2%84%A2-HD-7800/AMD-Radeon%E2%84%A2-HD-7850/18
 [5]:    http://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7850
+[6]:    http://www.storagereview.com/ssd_vs_hdd
+[7]:   http://www.corsair.com/en-us/vengeance-8gb-dual-channel-ddr3-memory-kit-cmz8gx3m2a1600c9
