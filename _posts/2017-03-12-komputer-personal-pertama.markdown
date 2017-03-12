@@ -49,7 +49,7 @@ Kingston HyperX 120 GB SSD dan Western Digital Blue 1 TB HDD. Standar hybrid, SS
 
 ## Power Supply
 
-[Corsair VS650][8]. *Entry level*, cari yang maksimal kestandarannya karena buat power supply, gua gak mau yang fancy-fancy. Dayanya cukup untuk nyalain semua komponen dan tahan lama. Toh, [lini premium untuk *power supply* tidak terlalu memberikan fungsi yang sebanding dengan harganya][9]. Jadi, yang murah meriah mintah pun sudah cukup. Yang gua pakai ini sudah cukup tahan, tidak pernah masalah padahal sudah beberapa kali diserang mati listrik. Rakitan selanjutnya juga bakal beli yang standar saja.
+[Corsair VS650][8]. *Entry level*, cari yang maksimal kestandarannya. Buat *power supply*, gua gak mau yang fancy-fancy. Dayanya cukup untuk nyalain semua komponen dan tahan lama. Toh, [lini premium untuk *power supply* tidak terlalu memberikan fungsi yang sebanding dengan harganya][9]. Jadi, yang murah meriah muntah pun sudah cukup. Yang gua pakai ini sudah cukup tahan, tidak pernah masalah padahal sudah beberapa kali diserang mati listrik. Rakitan selanjutnya juga bakal beli yang standar saja.
 
 ## Monitor
 
