@@ -59,10 +59,17 @@ Kingston HyperX 120 GB SSD dan Western Digital Blue 1 TB HDD. Standar hybrid, SS
 
 [Edifier R101V][13]. Lebih standar lagi, cuma 200K. Yang penting keluar suara dan ada *dedicated bass*-nya deh. Kagetnya, tetap saja jauh lebih baik daripada speaker laptop yang mahal. Gua sih sudah merasakan bedanya headphone 200K dengan yang 1 juta. Mungkin nanti speaker bisa buat dicoba.
 
+## Casing
+
+[Commander MS-I Snow Edition][14]. Buat casing, style itu nomor 1. Soalnya gua bakal ngeliatin casing ini selama minimal 5 tahun ke depan. Fungsionalitas dan *maintainability* itu prioritas selanjutnya lah. Saat ngerakit pakai casing ini, gua terkagum-kagum ternyata bisa masang HDD atau SSD tanpa pakai baut, ada tempat docking-nya gitu. Sisanya, standar casing medium 1 ruang yang minim fitur manajemen kabel. Casing jaman sekarang banyak yang konsepnya 2 ruang. 1 untuk yang penting-penting seperti motherboard, VGA, RAM. 1 lagi untuk kabel, *storage*, dan *power supply*.
+
+## Cooling System
+
+Super standar. Gua gak nambah kipas, gak beli pendingin CPU, atau sistem pendinginan lainnya. Ini salah satu kesalahan terbesar gua dulu, karena nyatanya, [temperatur berpengaruh ke performa dan umur dari komponen komputer][16]. Gua baru peduli dengan temperatur komputer belum lama ini. Buat yang penggunaan komputernya relatif berat seperti gaming, rendering, dan overclocking, sebaiknya menambah perangkat pendingin demi 2 alasan tersebut. Kasusnya ini komputer saya yang sudah agak tua, kalau CPU-nya dipakai 100%, suhunya bisa mencapai 90 C-an. Saat suhu prosesor sudah mencapai 100 C-an, dia [otomatis akan menurunkan performa][15]. Padahal pendingin CPU yang murah, 100K-300K, sudah sangat cukup untuk menurunkan suhu lebih dari 20 derajat, [ini contohnya][17]. Untuk komputer selanjutnya, gua mau coba sistem pendingin dengan cairan!
 
 ## Rakitan Selanjutnya
 
-Kalau dari nilai maksimal 10, gua kasih 8 lah. Secara umum enak dan nyaman banget pakainya, cuma kurang di **perfoma grafis, monitor biasa aja, dan estetika casing**. Semuanya bakal gua coba perbaiki di sesi rakitan selanjutnya. Sejak gua rakit, gua sudah memutuskan untuk merakit komputer itu 5 tahun sekali demi efektifitas. Artinya, gua bakal rakit komputer lagi tahun depan. Gila, gak sabar gua nungguin tahun depan!
+Kalau dari nilai maksimal 10, gua kasih 8 lah. Secara umum enak dan nyaman banget pakainya, cuma kurang di **perfoma grafis, sistem pendingin yang cukup, monitor biasa aja, dan estetika casing**. Semuanya bakal gua coba perbaiki di sesi rakitan selanjutnya. Sejak gua rakit, gua sudah memutuskan untuk merakit komputer itu 5 tahun sekali demi efektifitas. Artinya, gua bakal rakit komputer lagi tahun depan. Gila, gak sabar gua nungguin tahun depan!
 
 [0]:    http://www.gigabyte.com/Motherboard/GA-Z87X-D3H-rev-1x#o
 [1]:    https://en.wikipedia.org/wiki/LGA_1150
@@ -78,3 +85,7 @@ Kalau dari nilai maksimal 10, gua kasih 8 lah. Secara umum enak dan nyaman bange
 [11]:   https://www.extremetech.com/computing/210703-intel-core-i5-vs-core-i7-which-processor-should-you-buy
 [12]:   http://www.lg.com/hk_en/monitor/lg-22EN43T
 [13]:   http://www.edifier.com/my/en/speakers/r101v
+[14]:   http://www.thermaltake.com/products-model.aspx?id=c_00001841
+[15]:   http://www.buildcomputers.net/cpu-temperature.html
+[16]:   https://www.pugetsystems.com/labs/articles/Impact-of-Temperature-on-Intel-CPU-Performance-606/
+[17]:   https://www.bit-tech.net/hardware/cooling/2014/02/03/deepcool-gammaxx-s40-review/2
