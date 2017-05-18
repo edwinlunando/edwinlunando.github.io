@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "WannaCry: Kesalahan Pengguna atau Produk"
+date:   2017-05-19
+categories: produk wannacry
+author: Edwin Lunando
+author_t: edwinlunando
+permalink: wannacry/
+---
+
+Tertanda 12 Mei 2017, sebuah serangan siber dilancarkan untuk mengenkripsi data dari komputer yang terjangkit dan meminta uang tebusan. Yah, saya sih termasuk telat dalam ngebahas ini. Sudah banyak blog, koran, dan berita televisi yang membahas. Bahkan sampai [mengundang ahli keamanan][0].
+
+Bagus, masyarakat, kita semua, perlu diingatkan kalau bahaya kehidupan bukan cuma kelompok radikal vandalis, tapi juga serangan digital. Teknisnya sudah banyak yang bahas lah ya, [solusinya pun sudah jelas][1], saatnya evaluasi untuk yang terjangkit maupun yang tidak. Anggap saja saya sedang menulis *postmortem* fenomena [WannaCry][7] ini dari sisi pengguna dan produk. Mari.
+
+## Pengguna Tidak (Mau) Paham
+
+Komputer atau aset digital, mirip dengan barang lainnya. Butuh diurus sewaktu-waktu untuk memastikan perangkat tersebut terus berjalan dengan lancar. Sama juga dengan barang lainnya, dengan mengetahui cara pakainya yang benar, kita akan terhindar dari hal-hal seperti ini. Masalah utamanya, mayoritas pengguna tidak (mau) paham. Beberapa teman saya buka halaman pengaturan saja sudah panik dan kebingungan. Kami, kaum yang paham komputer, juga pertama kali buka halaman pengaturan tuh gak tahu apa-apa. [Kami cuma lebih tenang dan mau coba tombolnya satu demi satu sampai ketemu][6].
+
+Padahal, pengertian akan luar dalam dari komputer itu [sudah mudah dan tidak perlu kuliah, sekolah, atau pun latihan sampai tahunan][2]. Cukup niat oprek 1 atau 2 jam tiap minggu saja sudah cukup. **Pengetahuan tentang keamanan komputer bukan mopopoli ahli komputer saja**. Karena, kenyataannya.
+
+<a href="https://xkcd.com/538/">
+    <img src="https://imgs.xkcd.com/comics/security.png" alt="xkcd security"/>
+</a>
+
+**Perangkat komputer jaman sekarang itu aman banget, yang bikin gak aman itu, penggunanya**. Selama pengunaannya benar, kamu sudah tergolong aman. Untuk pengguna Windows, [ikuti langkah-langkah ini][4] untuk membuat komputer kamu sudah aman. Cuma perlu satu kali kok, sisanya hidup tenang. Untuk pengguna Mac, jangan senang karena tidak kena kasus ini. Menggunakan Mac itu tidak berarti lebih aman dari kami, pengguna Windows. Karena pengguna Windows lebih banyak, tentunya lebih banyak yang serang juga. Mac lebih aman secara statistik, tapi ancaman itu tetap ada.
+
+Asal instal aplikasi, matin *update* otomatis, dan asal masukin flashdisk, ini lah ketiga kebiasaan yang paling sering dimanfaatkan peretas untuk menyebarkan virus mereka.
+
+## Salah Desain Produk
+
+Dari kejadian ini, yang paling salah itu jelas Microsoft, yang bikin Windows. **Walaupun peretasan ini bisa dianggap bug atau kesalahan teknis pemrograman, desain dari sistem operasi Windows ini lah yang membuat penyebaran virusnya**.
+
+Ya, saya paham, perangkat-perangkat komputer jaman dulu seperti Windows XP atau sejenisnya memang sangat rentan diretas. Jaman dulu, instal aplikasi tidak ada pasar yang ngecekin aplikasi ini mengandung virus atau tidak. Sekarang, gak perlu pusingin validitas dari sebuah aplikasi.
+
+Ya, saya paham, *update* otomatis Windows itu kadang mengesalkan. Untuk yang ini, tahan-tahanin lah. Ini masih jadi PR dari setiap pengembang aplikasi untuk bikin *update* yang ramah. Windows 10 atau Android yang sekarang sudah jauh lebih baik, sih.
+
+Ya, saya paham, semua aplikasi *end user* yang butuh manual itu, cenderung nambah masalah karena bisa saja penggunanya tidak baca atau salah paham setelah baca. Gak ada pengguna, termasuk saya, yang pada awalnya tahu kalau asal colok flashdisk bisa membuat komputer terjangkit virus. Kita semua tahunya setelah diceritakan atau baca-baca terkait ini. Inilah yang membuat dasar dari desain antar muka produk adalah "[Jangan bikin gua mikir!][3]" dan mengasumsikan semua pengguna itu rentan salah.
+
+<a href="https://xkcd.com/1343/">
+    <img src="https://imgs.xkcd.com/comics/manuals.png " alt="xkcd manuals"/>
+</a>
+
+## Pelajaran
+
+Kejadian ini merupakan sisa-sisa dari hasil pengembangan produk Microsoft yang sudah usang. Yah, buat saya ini ini salah satu proses dari pengembangan produk yang berkelanjutan. Banyak fitur-fitur Windows moderen yang membuat saya tetap menggunakan Windows. [Gak bakal ada Windows 11, Windows 10 bakal di-update terus][5], [App store][8], dan [Windows Subsystem Linux][9] merupakan bukti Windows sedang mengarah ke jalan yang tepat.
+
+Dari sisi pengguna, tentu saja kita, secara pribadi, harus tetap waspada terhadap aplikasi apa pun yang kita gunakan. Meskipun aplikasi semakin memudahkan dan aman, tetap saja hasilnya tergantung pengguna. Ingat, ponsel itu sebenernya biasa aja. Yang bikin cerdas itu ya penggunanya.
+
+[0]:    http://tekno.liputan6.com/read/2950477/penjelasan-pakar-soal-serangan-wannacry-di-indonesia
+[1]:    https://rahard.wordpress.com/2017/05/14/penanganan-ransomware-wannacry/
+[2]:    https://decentsecurity.com/#/introduction/
+[3]:    https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think
+[4]:    https://decentsecurity.com/#/securing-your-computer/
+[5]:    http://www.techradar.com/news/software/operating-systems/microsoft-confirms-there-will-be-no-windows-11-1293309
+[6]:    https://xkcd.com/627/
+[7]:    https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
+[8]:    https://www.microsoft.com/en-us/windows/windows-10-apps
+[9]:    https://msdn.microsoft.com/en-us/commandline/wsl/about
