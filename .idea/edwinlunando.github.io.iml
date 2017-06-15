@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <configuration default="false" name="Jekyll Server" type="CommandRunConfigurationType" factoryName="Gem Command">
+      <module name="edwinlunando.github.io" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="jekyll" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="jekyll" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="serve --port 8000" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="serve --port 8000" />
+      <method />
+    </configuration>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Remote-rvm:ruby-2.4.0-p0 [jekyll]" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.5.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.13.7, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="colorator (v1.1.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.14, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="forwardable-extended (v2.6.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gemoji (v2.1.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="html-pipeline (v2.4.2, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll (v3.3.1, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-paginate (v1.1.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jekyll-watch (v1.5.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jemoji (v0.7.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.3, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kramdown (v1.11.1, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="liquid (v3.0.6, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mercenary (v0.3.6, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.1.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.10.1, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.7.0.1, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pathutil (v0.14.0, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v2.0.5, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.9.8, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.7, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rouge (v1.11.1, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="safe_yaml (v1.0.4, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.23, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.5, Remote-rvm:ruby-2.4.0-p0 [jekyll]) [gem]" level="application" />
+  </component>
+</module>
