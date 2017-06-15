@@ -16,3 +16,7 @@ gems:
   - jemoji
 highlighter: rouge
 host: 0.0.0.0
+
+kramdown:
+  # Disable auto-generated ID's for headings
+  auto_ids: true
