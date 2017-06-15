@@ -26,7 +26,7 @@ Sederhana, kita butuh menyimpan sebuah penanda kalau sebuah pengumuman tersebut 
 
 ### Basis Data Relasional
 
-Silakan pilih basis data relasional apa pun. Saya milih MySQL. Tiap kali melakukan pengiriman, kita log ke tabel yang kolomnya ada 2, yaitu `user_id` dan `notification_id`. Kira-kira begini lah.
+Silakan pilih basis data relasional apa pun. Saya milih [MySQL][9]. Tiap kali melakukan pengiriman, kita log ke tabel yang kolomnya ada 2, yaitu `user_id` dan `notification_id`. Kira-kira begini lah.
 
 | user_id       | notification_id   |
 |:-------------:|:-----------------:|
@@ -67,7 +67,7 @@ Cuma, yah, saya belum puas aja. Lanjut lagi pendekatan lain.
 
 ### Basis Data Kunci-Nilai
 
-Maaf, padanan [*Key-value database*][1]-nya maksa. Saya memilih redis untuk basis data jenis ini. Kenapa pakai ini? Karena menggunakan struktur data [set][2] cocok untuk menaruh dan mengecek tanda pengiriman. Begini contohnya.
+Maaf, padanan [*Key-value database*][1]-nya maksa. Saya memilih [redis][10] untuk basis data jenis ini. Kenapa pakai ini? Karena menggunakan struktur data [set][2] cocok untuk menaruh dan mengecek tanda pengiriman. Begini contohnya.
 
 | Kunci         | Nilai             |
 |:-------------:|:-----------------:|
@@ -123,3 +123,5 @@ Yak, metode yang terakhir yang sekarang sedang gua gunakan di server produksi. K
 [6]:    https://redis.io/commands/sadd
 [7]:    https://en.wikipedia.org/wiki/B%2B_tree
 [8]:    https://dev.mysql.com/doc/refman/5.7/en/multiple-column-indexes.html
+[9]:    https://www.mysql.com/
+[10]:   http://redis.io/
