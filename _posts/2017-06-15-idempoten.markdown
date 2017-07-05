@@ -24,6 +24,8 @@ Lebih detilnya, gua ingin mengirimkan sebuah pengumuman ke sejumlah pengguna. Ti
 
 Sederhana, kita butuh menyimpan sebuah penanda kalau sebuah pengumuman tersebut sudah dikirimkan ke pengguna tersebut. Selanjutnya, tiap kali mau mengirimkan pengumuman, kita melakukan pengecekan. Kalau belum ada tandanya untuk pengguna ini dan pengumuman ini, kirim. Kalau sudah ada, tidak dikirim.
 
+Ini sejenis dengan semantik [*remote procedure call*][11]. Untuk kasus ini saya menggunakan yang *at most once*, paling banyak satu, karena setelah diukur nilai dari efeknya lebih bahaya duplikasi daripada tidak terkirim. Kami tidak masalah kalau ada sebagian kecil notifikasi yang tidak terkirim.
+
 ### Basis Data Relasional
 
 Silakan pilih basis data relasional apa pun. Saya milih [MySQL][9]. Tiap kali melakukan pengiriman, kita log ke tabel yang kolomnya ada 2, yaitu `user_id` dan `notification_id`. Kira-kira begini lah.
@@ -125,3 +127,4 @@ Yak, metode yang terakhir yang sekarang sedang gua gunakan di server produksi. K
 [8]:    https://dev.mysql.com/doc/refman/5.7/en/multiple-column-indexes.html
 [9]:    https://www.mysql.com/
 [10]:   http://redis.io/
+[11]:   https://web.cs.wpi.edu/~cs4514/b98/week8-rpc/week8-rpc.html
