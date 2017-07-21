@@ -39,6 +39,10 @@ Perlengkapan tidur. Sangat berguna di tempat terang atau berisik. Gua suka pakai
 
 Gua sebut juga dengan *bullshit protector*. Milih yang tipenya [in ear monitor][0] biar isolasi dari dunia luarnya bagus. Jangan lupa mengisi ponsel dengan musik atau buku audio pilihan.
 
+### Senter
+
+Satu-satunya barang yang gak terlalu berguna, tapi selalu gua bawa. Biar gua ngerasa aman aja saat jalan-jalan di tempat gelap yang gua gak kenal. Gua sendiri pakai senter [ini][1], mantep dengan 5 jenis penerangan dengan maksimal 960 lumen. Itu seperti bohlam LED yang 60 watt.
+
 ## Mungkin Bawa
 
 ### Alat mandi
@@ -83,3 +87,4 @@ Karena saya lebih memilih untuk menikmati perjalanan dengan mata sendiri, bukan 
 Yak, segitu dulu yang gua rasa penting. Daftar ini akan diperbarui seiring penemuan barang baru atau ada barang yang tidak diperlukan lagi. Intinya, semakin sedikit barang yang dibawa, semakin nyaman perjalanan. Bahkan, untuk baju pun saya lebih memilih cuci baju di perjalanan daripada membawa baju banyak-banyak.
 
 [0]:    https://en.wikipedia.org/wiki/In-ear_monitor
+[1]:    https://www.fenixlighting.com/product/pd35-fenix-flashlight/
