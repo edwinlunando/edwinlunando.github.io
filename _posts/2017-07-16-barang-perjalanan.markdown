@@ -41,7 +41,7 @@ Gua sebut juga dengan *bullshit protector*. Milih yang tipenya [in ear monitor][
 
 ### Senter
 
-Satu-satunya barang yang gak terlalu berguna, tapi selalu gua bawa. Biar gua ngerasa aman aja saat jalan-jalan di tempat gelap yang gua gak kenal. Gua sendiri pakai senter [ini][1], mantep dengan 5 jenis penerangan dengan maksimal 960 lumen. Itu seperti bohlam LED yang 60 watt.
+Satu-satunya barang yang gak terlalu berguna, tapi selalu gua bawa. Biar gua ngerasa aman aja saat jalan-jalan di tempat gelap yang gua gak kenal. Gua sendiri pakai senter [ini][1], mantep dengan 5 jenis penerangan dengan maksimal 960 lumen. Itu seterang bohlam LED yang 60 watt.
 
 ## Mungkin Bawa
 
