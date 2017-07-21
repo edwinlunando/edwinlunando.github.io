@@ -61,6 +61,10 @@ Sangat penting kalau perjalanan sendiri, di saat gak ada yang bisa diajak ngobro
 
 Sebenernya ini hampir pasti wajib, nambah 2 kilogram di tas itu... Gak masalah sih sebenernya, cuma dari pengalaman, ada perjalanan yang membuat saya tidak membutuhkan laptop.
 
+### Multi-Tools
+
+Dulu sering banget bawa alat pertukangan portable buat kasus-kasus khusus, tapi kenyataannya gak pernah kepakai. Cuma bakal bawa ini lagi kalau ada kebutuhan khusus saja.
+
 ## Tidak Bawa
 
 ### Cemilan atau Makanan
