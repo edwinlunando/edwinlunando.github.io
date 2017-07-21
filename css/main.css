@@ -248,3 +248,12 @@ td:last-child,
 th:last-child {
   padding-right: 0;
 }
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figcaption {
+  text-align: center;
+}
