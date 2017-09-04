@@ -8,7 +8,9 @@ author_t: edwinlunando
 permalink: barbeque/
 ---
 
-Kalau dirata-rata, gua ikut acara barbecue 2 kali dalam setahun. Biasanya, 1 di akhir tahun dan satu lagi di pertengahan tahun saat ada acara jalan-jalan. Pengalamannya, banyak bingit, mulai dari arangnya sudah 2 jam gak mau nyala, daging hasil panggangan kurang matang, sampai alat panggangnya tahu-tahu patah pun sudah pernah. Umur gua saat artikel ini ditulis itu 25 dan [angka usia harapan hidup orang Indonesia sekitar 70][2]. Jadi, kira-kira gua masih ada 90 sesi barbecue lagi.
+Kalau dirata-rata, gua ikut acara barbecue 2 kali dalam setahun. Biasanya, 1 di akhir tahun dan satu lagi di pertengahan tahun saat ada acara jalan-jalan. Pengalamannya, banyak bingit, mulai dari arangnya sudah 2 jam gak mau nyala, daging hasil panggangan kurang matang, sampai alat panggangnya tahu-tahu patah pun sudah pernah.
+
+Umur gua saat artikel ini ditulis itu 25 dan [angka usia harapan hidup orang Indonesia sekitar 70][2]. Jadi, kira-kira gua masih ada 90 sesi barbecue lagi.
 
 Jadi, cacatan ini gua tulis sebagai arahan gua dan kalian semua setiap kali mau barbecue di masa depan. Biar acara barbecue kalian efektif, rasa makanannya enak, dan semua senang. Untuk sementara akan berbentuk tulisan semua, foto-foto akan ditambahkan nanti setelah ada sesi barbecue lagi.
 
@@ -71,7 +73,7 @@ Daging yang paling mudah untuk dimasak. Sedikit garam dan lada ditambah dengan s
 1. Potong dengan ketebalan 0.6-1 cm. Di atas itu, matangnya lama dan ada kemungkinan bagian dalamnya kurang matang. Di bawah itu, hasil dagingnya bakal kering.
 1. Selalu arahkan bagian kulit ke arah bawah agar kulitnya renyah.
 
-Untuk kenikmatan maksimal, rendam daging ayam dengan saus minimal 1-8 jam sebelum pemanggangan. Bedanya jauh parah dari yang tidak direndam.
+**Untuk kenikmatan maksimal, rendam daging ayam dengan saus minimal 1-8 jam sebelum pemanggangan**. Bedanya jauh parah dari yang tidak direndam.
 
 Kombinasi [tusukannya biasa selang-seling daging dan sayuran seperti daun bawang][1] atau paprika.
 
