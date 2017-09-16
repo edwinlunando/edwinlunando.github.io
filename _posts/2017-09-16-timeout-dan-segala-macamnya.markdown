@@ -72,7 +72,7 @@ Setiap klien yang memberikan pekerjaan ke server lain, pasti minimal ada pengatu
 
 Nah, karena kita [gak boleh mengasumsikan jaringan itu bakal stabil][3], akan ada kasus di mana server tidak ada masalah, tapi tetap terjadi timeout karena masalah jaringan sementara. Entah permintaan itu terlambat diteruskan ke server, datanya hilang di tengah pengiriman, atau [kabel internet bawah laut digigit hiu][6]. Ada banyak sekali kemungkinannya. Nah, kasus yang kalau-dicoba-lagi-ada-kemungkinan-sukses ini, kita mau ada mekanisme coba kirim permintaan kembali.
 
-Ini berikut contohnya dengan menangkap exception terkait timeout.
+Ini berikut contohnya dengan menangkap exception terkait timeout dengan bahasa ruby.
 
 {% highlight ruby %}
 
