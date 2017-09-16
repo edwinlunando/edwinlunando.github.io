@@ -87,7 +87,7 @@ end
 
 {% endhighlight %}
 
-Biasanya kalau ada kesalahan timeout yang tidak dicoba kembali, pengguna yang harus coba ulang. Mekanisme **retry** ini berguna agar mengurangi beban pengguna.
+Biasanya kalau ada kesalahan timeout yang tidak dicoba kembali, pengguna yang harus coba ulang. Mekanisme *retry* ini berguna agar mengurangi beban pengguna.
 
 ## Keep Alive
 
