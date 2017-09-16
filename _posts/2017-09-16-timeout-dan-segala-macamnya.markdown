@@ -66,7 +66,7 @@ Hasilnya akan seperti ini.
 
 `time_connect`(waktu untuk membuat koneksi) itu dapat digunakan untuk menentukan waktu timeout *connect* sedangkan, untuk *read* dan *write* biasanya saya menggunakan `time_total` dikurangi dengan `time_connect`.
 
-Setiap klien yang memberikan pekerjaan ke server lain, pasti minimal ada pengaturan waktu timout untuk pembuatan koneksi dan eksekusi kerjanya. Jadi, kita tinggal setel sesuai dengan ekspektasi kita.
+Setiap klien yang memberikan pekerjaan ke server lain, pasti minimal ada pengaturan waktu timout untuk pembuatan koneksi dan eksekusi kerjanya. Jadi, kita tinggal setel sesuai dengan ekspektasi kita. Jadi, pastikan kita kita menentukan batas maksimum timeout untuk pustaka klien yang kita gunakan.
 
 ## Retry
 
