@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "Terkait Gigi"
-date:   2017-11-05
+date:   2017-11-06
 categories: timeout
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: gigi/
 ---
 
-"Males gilak", Itu perasaan gua setiap kali ke dokter gigi. Gigi gua sekarang banyak banget masalah karena tidak adanya perawatan sejak kecil. Gak ada yang ngasih tahu ternyata dampaknya bisa membuat gua keluar duit jutaan rupiah tiap gigi yang bermasalah pas sudah dewasa ini. Dari dulu, ke dokter gigi kalau sakit gigi saja padahal ada perawatan rutin dan preventif yang dapat membantu kesehatan gigi di jangka panjang.
+"Males gilak"
+
+Itu perasaan gua setiap kali ke dokter gigi. Gigi gua sekarang banyak banget masalah karena tidak adanya perawatan sejak kecil. Gak ada yang ngasih tahu ternyata dampaknya bisa membuat gua keluar duit jutaan rupiah tiap gigi yang bermasalah pas sudah dewasa ini. **Dari dulu, ke dokter gigi kalau sakit gigi saja padahal ada perawatan rutin dan preventif yang dapat membantu kesehatan gigi di jangka panjang.**
 
 Masalah kedua, saat gigi bermasalah, kualitas hidup gua menurun, makan gak enak dan sakitnya bikin susah konsentrasi. Menggangu dua kegiatan utama menusia dewasa, makan dan kerja.
 
