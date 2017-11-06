@@ -12,9 +12,9 @@ permalink: gigi/
 
 Itu perasaan gua setiap kali ke dokter gigi. Gigi gua sekarang banyak banget masalah karena tidak adanya perawatan sejak kecil. Gak ada yang ngasih tahu ternyata dampaknya bisa membuat gua keluar duit jutaan rupiah tiap gigi yang bermasalah pas sudah dewasa ini. **Dari dulu, ke dokter gigi kalau sakit gigi saja padahal ada perawatan rutin dan preventif yang dapat membantu kesehatan gigi di jangka panjang.**
 
-Masalah kedua, saat gigi bermasalah, kualitas hidup gua menurun, makan gak enak dan sakitnya bikin susah konsentrasi. Menggangu dua kegiatan utama menusia dewasa, makan dan kerja.
+Masalah kedua, saat gigi bermasalah, kualitas hidup gua menurun, makan gak enak dan sakitnya bikin susah konsentrasi. Menggangu dua kegiatan utama manusia dewasa, makan dan kerja.
 
-Jadi, gua gak mau kalian mengikuti jejak ketidak tahuan gua terkait gigi ini. Ini ceritanya. Disclaimer: Gua bukan dokter, gua insiyur perangkat lunak yang berusaha sadar kesehatan.
+Jadi, gua gak mau kalian mengikuti jejak ketidak tahuan terkait gigi ini. Ini ceritanya. Disclaimer: Gua bukan dokter, gua insiyur perangkat lunak yang berusaha sadar kesehatan.
 
 ## Cerita Gigi
 
@@ -24,7 +24,7 @@ Setelah dicek, gigi gua bolongnya sudah menyentuh bagian akar, sehingga kalaupun
 
 ## Kasus Sekarang
 
-Damn, dan gua bakal menjalankan prosesi tersebut lagi untuk gigi yang sebelahnya. Beberapa minggu terakhir ini, karena ipar gua ada yang baru lulus dari dokter gigi, gua rasa ini saatnya benerin semua masalah gigi gua, padahal gua gak tahu kalau gigi gua bermasalah atau tidak. Karena gua gak terlalu ngurusin, gua yakin aja bakal ada masalah. Jadi, Kunjungan, doi ngecek semua gigi gua. Bener aja, 4 gigi gua bolong dan setelah dilihat foto panoramix-nya, 1 gigi bolongnya sudah mencapai akar. Lagi, deh. Lebih parahnya, karena yang terkena adalah gigi utama untuk mengunyah, butuh proses [inlay gigi][2] agar kekuatan mengunyahnya terjaga.
+Damn, dan gua bakal menjalankan prosesi tersebut lagi untuk gigi yang sebelahnya. Beberapa minggu terakhir ini, karena ipar gua ada yang baru lulus dari dokter gigi, gua rasa ini saatnya benerin semua masalah gigi gua, padahal gua gak tahu kalau gigi gua bermasalah atau tidak. Karena tahu gak terlalu diurus, gua yakin aja bakal ada masalah. Jadi, Kunjungan, doi ngecek semua gigi gua. Bener aja, 4 gigi gua bolong dan setelah dilihat foto panoramix-nya, 1 gigi bolongnya sudah mencapai akar. Lagi, deh. Lebih parahnya, karena yang terkena adalah gigi utama untuk mengunyah, butuh proses [inlay gigi][2] agar kekuatan mengunyahnya terjaga.
 
 Tapi kali ini, gua interogasi, menggunakan hak istimewa ke ipar. Gua mau tahu penyebab gigi gua bolong, tindakan preventifnya, dan cara ngerawat gigi biar jangka panjang tidak ada masalah. Ini hasilnya.
 
