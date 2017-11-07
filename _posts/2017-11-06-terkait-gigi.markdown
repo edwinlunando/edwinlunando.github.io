@@ -32,9 +32,9 @@ Tapi kali ini, gua interogasi, menggunakan hak istimewa ke ipar. Gua mau tahu pe
 
 Kenyataannya, **sikat gigi dua kali sehari saja tidak cukup**. Akan selalu sisa makanan yang nyangku karena entah tidak tersikat atau sudah kena sikat tapi belum bersih. Itulah penyebab utama gigi bolong.
 
-Untuk sisa makanan yang sulit dibersihkan dengan sikat, gunakan **benang gigi(dental floss)**. Lakukan ini satu atau dua hari sekali.
+Untuk sisa makanan yang nyangkut di sela-sela gigi, gunakan **benang gigi(dental floss)**. Lakukan ini satu atau dua hari sekali.
 
-Lalukan **pembersihan karang gigi/scaling sekaligus pengecekan rutin sekali setiap 6 bulan**. Minta dibersihin sampe ke akarnya.
+Lalukan **pembersihan karang gigi/scaling sekaligus pengecekan rutin sekali setiap 6 bulan**. Minta dibersihin sampe ke dalam gusi. Kalau pas dibersihkan keluar darah, rileks, wajar kok.
 
 Untuk anak-anak kecil ternyata ada tindakan preventif agak gigi tidak bolong, istilahnya **fissure/dental sealant**. Jadi, bagian gigi yang rentan bolong dilapisi agak tidak ada bakteri yang bisa menembus gigi.
 
