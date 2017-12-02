@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terkait Engineering Lead"
-date:   2017-09-16
+date:   2017-12-02
 categories: timeout
 author: Edwin Lunando
 author_t: edwinlunando
