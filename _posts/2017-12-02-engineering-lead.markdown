@@ -34,6 +34,8 @@ Toh kenyataannya, semua, termasuk gua bakal pernah salah. Bahkan, sangat mungkin
 
 Untuk kenyamanan bekerja, gua selalu meluangkan waktu untuk entah ngadain jalan-jalan tim atau ikut acara tim. Tentunya makin dekat, komunikasinya akan lebih enak, yang pada akhirnya operasional tim akan jadi semakin lancar. Yey. 
 
+Dulu, pas kuliah, salah satu cita-cita gua itu kerja bareng temen-temen kuliah yang gua kenal karena gua paham kalau kerja bareng temen yang udah dikenal itu pasti menyenangkan. Tapi, yha, susah, pasti kerjanya pada nyebar. Jadi, solusinya, gua selalu mencari temen yang asik buat diajak ngobrol, hidup, dan kerja bareng. 
+
 Lagipula, bekerja ini memakan minimal 1/3 waktu dari setiap hari. Gua kemungkinan masih akan bekerja minimal 20-30 tahun lagi. Tentunya tiap delapan jam itu ingin gua nikmati prosesnya setiap hari. Kolega yang asik sangat berpengaruh ke kinerja atau kualitas hidup secara umum. [Bertukar ejekan, hinaan, dan lawakan(garing) sama teman][1] itu merupakan salah satu kenikmatan hidup.
 
 
