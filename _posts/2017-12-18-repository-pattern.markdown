@@ -13,7 +13,7 @@ Sepanjang tahun 2017 ini, gua ngembangin aplikasi-aplikasi kecil yang fiturnya h
 Cukup sederhana bukan? Namun, saat mulai gua kembangin, gua bimbang mau milih basis datanya. Pilihan pertama gua selalu basis data relasional seperti MySQL atau SQLite, tapi temen ngide buat pake redis. Jadi, kami sepakat untuk nyoba pakai redis dulu, tapi bikin kodenya sedemikian sehingga basis datanya mudah diganti. Di sini lah pola *repository* bekerja.
 
 <figure>
-    <img src="/images/repository.png" alt="repository patter" style="width: 100%;"/>
+    <img src="/images/repository.png" alt="repository pattern" style="width: 100%;"/>
     <figcaption>Pola repository</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ end
 
 {% endhighlight %}
 
-Lalu, tinggal digunakan sesuai kebutuhan, deh.
+Dapat dilihat, kedua kelas tersebut mengimplementasi *interface* yang sama, dengan implementasi yang berbeda sesuai dengan sintaks sumber data masing-masing. Lalu, tinggal digunakan sesuai kebutuhan, deh.
 
 {% highlight ruby %}
 
