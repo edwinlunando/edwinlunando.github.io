@@ -115,7 +115,7 @@ Repository.new(MySQLReleaseRepository.new)
 Repository.new(RedisReleaseRepository.new)
 {% endhighlight %}
 
-Untuk basis data lain, cukup dengan mengimplementasi kelas storage sesuai dengan basis datanya lalu gunakan sesuai kebutuhan. Bonus yang didapat, kita dapat mengetes tiap bagian secara lebih independen. Tidak campur-campur ke bagian yang lain. Pertama kali gua menulis kode, gak ada pemisahan kayak gini. jadinya, buat tesnya lebih sulit. :see-no-evil-monkey:
+Untuk basis data lain, cukup dengan mengimplementasi kelas storage sesuai dengan basis datanya lalu gunakan sesuai kebutuhan. Bonus yang didapat, kita dapat mengetes tiap bagian secara lebih independen. Tidak campur-campur ke bagian yang lain. Pertama kali gua menulis kode, gak ada pemisahan kayak gini. jadinya, buat tesnya lebih sulit. :see_no_evil:
 
 Pola ini tidak hanya dapat digunakan untuk basis data saja. Pengalaman saya, untuk servis-servis *third party* seperti email yang banyak pilihan, kita dapat mengimplementasi pola *repository*, yang sebenarnya cukup mirip dengan [pola *adapter*][0], juga untuk memudahkan penggantian kebutuhan.
 
