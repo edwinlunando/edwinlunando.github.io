@@ -17,7 +17,7 @@ Cukup sederhana bukan? Namun, saat mulai gua kembangin, gua bimbang mau milih ba
     <figcaption>Pola repository</figcaption>
 </figure>
 
-Pola repository sesungguhnya adalah sebuah jembatan antara domain bisnis(*client business logic*) dengan sumber data(*data source*). Pemisahan ini ditujukan untuk abstraksi komunikasi dengan sumber data. Domain bisnis tidak perlu tahu atau ikut campur implementasi pemanggilan ke sumber data karena yang mereka butuhkan adalah hasil balikan sesuai dari sumber data. Dengan begitu, implementasi komunikasi ke sumber data akan terisolasi sehingga kita dapat menggantinya tanpa menganggu logika bisnis aplikasi. Berikut merupakan contoh implementasinya.
+Pola repository sesungguhnya adalah sebuah jembatan antara domain bisnis(*client business logic*) dengan sumber data(*data source*). Pemisahan ini ditujukan untuk abstraksi komunikasi dengan sumber data. Domain bisnis tidak perlu tahu atau ikut campur implementasi pemanggilan ke sumber data karena yang mereka butuhkan adalah hasil balikan sesuai dari sumber data. Dengan begitu, **implementasi komunikasi ke sumber data akan terisolasi sehingga kita dapat menggantinya tanpa menganggu logika bisnis aplikasi**. Berikut merupakan contoh implementasinya.
 
 Pertama-tama kita membuat sebuah entitas bisnis dan *interface*.
 
@@ -115,6 +115,8 @@ Repository.new(MySQLReleaseRepository.new)
 Repository.new(RedisReleaseRepository.new)
 {% endhighlight %}
 
-Untuk basis data lain, cukup dengan mengimplementasi kelas storage sesuai dengan basis datanya lalu gunakan sesuai kebutuhan.
+Untuk basis data lain, cukup dengan mengimplementasi kelas storage sesuai dengan basis datanya lalu gunakan sesuai kebutuhan. Bonus yang didapat, kita dapat mengetes tiap bagian secara lebih independen. Tidak campur-campur ke bagian yang lain. Pertama kali gua menulis kode, gak ada pemisahan kayak gini. jadinya, buat tesnya lebih sulit. :see-no-evil-monkey:
 
-Pola ini tidak hanya dapat digunakan untuk basis data saja. Pengalaman saya, untuk servis-servis *third party* seperti email yang banyak pilihan, kita dapat mengimplementasi pola *repository*, yang sebenarnya cukup mirip dengan pola *adapter*, juga untuk memudahkan penggantian kebutuhan.
+Pola ini tidak hanya dapat digunakan untuk basis data saja. Pengalaman saya, untuk servis-servis *third party* seperti email yang banyak pilihan, kita dapat mengimplementasi pola *repository*, yang sebenarnya cukup mirip dengan [pola *adapter*][0], juga untuk memudahkan penggantian kebutuhan.
+
+[0]:    https://sourcemaking.com/design_patterns/adapter
