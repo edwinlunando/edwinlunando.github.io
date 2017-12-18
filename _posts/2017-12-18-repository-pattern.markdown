@@ -13,7 +13,10 @@ Sepanjang tahun 2017 ini, gua ngembangin aplikasi-aplikasi kecil yang fiturnya h
 Cukup sederhana bukan? Namun, saat mulai gua kembangin, gua bimbang mau milih basis datanya. Pilihan pertama gua selalu basis data relasional seperti MySQL atau SQLite, tapi temen ngide buat pake redis. Jadi, kami sepakat unyuk nyoba pakai redis dulu, tapi bikin kodenya sedemikian sehingga basis datanya mudah diganti. Di sini lah pola *repository* bekerja.
 
 // Penjelasan repository
-
+<figure>
+    <img src="/images/repository.png" alt="travel pack" style="width: 100%;"/>
+    <figcaption>Repository pattern</figcaption>
+</figure>
 // Contoh implementasi
 
 Pertama-tama kita membuat sebuah *interface*.
@@ -90,6 +93,14 @@ end
 
 {% endhighlight %}
 
-Tinggal ganti parameter jika ingin menggunakan basis data yang lain pada saat `Repository.new(MySQLReleaseRepository.new)` atau `Repository.new(RedisReleaseRepository.new)`. Untuk basis data lain, cukup dengan mengimplementasi kelas storage sesuai dengan basis datanya lalu gunakan sesuai kebutuhan.
+Tinggal ganti parameter jika ingin menggunakan basis data yang lain pada saat
+
+{% highlight ruby %}
+Repository.new(MySQLReleaseRepository.new)
+# atau
+Repository.new(RedisReleaseRepository.new)
+{% endhighlight %}
+
+Untuk basis data lain, cukup dengan mengimplementasi kelas storage sesuai dengan basis datanya lalu gunakan sesuai kebutuhan.
 
 Pola ini tidak hanya dapat digunakan untuk basis data saja. Pengalaman saya, untuk servis-servis *third party* seperti email yang banyak pilihan, kita dapat mengimplementasi pola *repository* juga untuk memudahkan penggantian kebutuhan.
