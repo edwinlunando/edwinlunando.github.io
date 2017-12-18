@@ -12,16 +12,30 @@ Sepanjang tahun 2017 ini, gua ngembangin aplikasi-aplikasi kecil yang fiturnya h
 
 Cukup sederhana bukan? Namun, saat mulai gua kembangin, gua bimbang mau milih basis datanya. Pilihan pertama gua selalu basis data relasional seperti MySQL atau SQLite, tapi temen ngide buat pake redis. Jadi, kami sepakat unyuk nyoba pakai redis dulu, tapi bikin kodenya sedemikian sehingga basis datanya mudah diganti. Di sini lah pola *repository* bekerja.
 
-// Penjelasan repository
 <figure>
-    <img src="/images/repository.png" alt="travel pack" style="width: 100%;"/>
-    <figcaption>Repository pattern</figcaption>
+    <img src="/images/repository.png" alt="repository patter" style="width: 100%;"/>
+    <figcaption>Pola repository</figcaption>
 </figure>
-// Contoh implementasi
 
-Pertama-tama kita membuat sebuah *interface*.
+Pola repository sesungguhnya adalah sebuah jembatan antara domain bisnis(*client business logic*) dengan sumber data(*data source*). Pemisahan ini ditujukan untuk abstraksi komunikasi dengan sumber data. Domain bisnis tidak perlu tahu atau ikut campur implementasi pemanggilan ke sumber data karena yang mereka butuhkan adalah hasil balikan sesuai dari sumber data. Dengan begitu, implementasi komunikasi ke sumber data akan terisolasi sehingga kita dapat menggantinya tanpa menganggu logika bisnis aplikasi. Berikut merupakan contoh implementasinya.
+
+Pertama-tama kita membuat sebuah entitas bisnis dan *interface*.
 
 {% highlight ruby %}
+class Repository
+
+  attr_accessor :date, :state, :created_at
+
+  def to_json
+    {
+        date: self.date,
+        state: self.state,
+        created_at: self.created_at
+    }
+  end
+
+end
+
 class AbstractRepository
 
   def save_release(release)
@@ -103,4 +117,4 @@ Repository.new(RedisReleaseRepository.new)
 
 Untuk basis data lain, cukup dengan mengimplementasi kelas storage sesuai dengan basis datanya lalu gunakan sesuai kebutuhan.
 
-Pola ini tidak hanya dapat digunakan untuk basis data saja. Pengalaman saya, untuk servis-servis *third party* seperti email yang banyak pilihan, kita dapat mengimplementasi pola *repository* juga untuk memudahkan penggantian kebutuhan.
+Pola ini tidak hanya dapat digunakan untuk basis data saja. Pengalaman saya, untuk servis-servis *third party* seperti email yang banyak pilihan, kita dapat mengimplementasi pola *repository*, yang sebenarnya cukup mirip dengan pola *adapter*, juga untuk memudahkan penggantian kebutuhan.
