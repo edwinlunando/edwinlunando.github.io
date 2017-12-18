@@ -10,7 +10,7 @@ permalink: repository/
 
 Sepanjang tahun 2017 ini, gua ngembangin aplikasi-aplikasi kecil yang fiturnya hanya ada 1 atau 2. Salah satunya itu adalah sebuah bot Telegram yang ngasih info hari ini sudah *deploy* aplikasi apa saja. Jadi, tiap kali ada deployment yang selesai, proses deployment akan menembak API dari bot tersebut. Jadi, gua tinggal ngomong `/releases` ke bot tersebut buat tahu sudah *deploy* apa aja hari ini.
 
-Cukup sederhana bukan? Namun, saat mulai gua kembangin, gua bimbang mau milih basis datanya. Pilihan pertama gua selalu basis data relasional seperti MySQL atau SQLite, tapi temen ngide buat pake redis. Jadi, kami sepakat unyuk nyoba pakai redis dulu, tapi bikin kodenya sedemikian sehingga basis datanya mudah diganti. Di sini lah pola *repository* bekerja.
+Cukup sederhana bukan? Namun, saat mulai gua kembangin, gua bimbang mau milih basis datanya. Pilihan pertama gua selalu basis data relasional seperti MySQL atau SQLite, tapi temen ngide buat pake redis. Jadi, kami sepakat untuk nyoba pakai redis dulu, tapi bikin kodenya sedemikian sehingga basis datanya mudah diganti. Di sini lah pola *repository* bekerja.
 
 <figure>
     <img src="/images/repository.png" alt="repository patter" style="width: 100%;"/>
