@@ -49,7 +49,7 @@ class AbstractRepository
 end
 {% endhighlight %}
 
-Lalu sebuah kelas implementasi dari *interface* tersebut. Implementasinya menggunakan Redis dan MySQL
+Selanjutnya, kelas implementasi dari *interface* tersebut. Implementasinya menggunakan Redis dan MySQL
 
 {% highlight ruby %}
 
