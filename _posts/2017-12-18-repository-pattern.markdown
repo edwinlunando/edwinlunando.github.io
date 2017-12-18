@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pola Desain: Repository"
-date:   2015-10-25 11:57:08
+date:   2017-12-18 11:57:08
 categories: pola arsitektur repository
 author: Edwin Lunando
 author_t: edwinlunando
