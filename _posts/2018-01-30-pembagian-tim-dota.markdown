@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pembagian Tim Dota"
-date:   2017-12-18 11:57:08
+date:   2018-01-14 11:57:08
 categories: hobi
 author: Edwin Lunando
 author_t: edwinlunando
