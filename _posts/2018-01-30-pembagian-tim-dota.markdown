@@ -27,7 +27,7 @@ Oke, jadi ini data MMR 50 pemain yang ikut serta turnamen
   3029, 3786, 4970, 2795, 3779]
 {% endhighlight %}
 
-Sengaja ku langsung kasih dalam bentar *array* agar mudah diproses. Terurut dari yang paling besar, ke yang paling kecil. Dari 50 orang ini, akan dibagi ke 10 tim, yang artinya tiap tim berisi 5 orang. Harapannya, tiap tim punya rata-rata MMR yang sangat dekat.
+Sengaja ku langsung kasih dalam bentar *array* agar mudah diproses. Dari 50 orang ini, akan dibagi ke 10 tim, yang artinya tiap tim berisi 5 orang. Harapannya, tiap tim punya rata-rata MMR yang sangat dekat.
 
 Kalau diperhatikan, masalahnya itu mirip dengan [masalah bin packing][1]. Di masalah tersebut, ada sejumlah barang dengan volume yang berbeda-beda, yang harus dimasukkan ke kotak tertentu yang harapannya meminimalkan jumlah pengunaan kotaknya. Kalau di masalah tersebut variabel kontrolnya ada 2 yaitu volume kotak dan jumlah kotak. Di kasus pembagian tim dota ini, jumlah kotak(tim)nya tetap, tapi volume(jumlah maksimal MMR)nya bisa berubah. Nah, pinginnya kan rata-rata MMR antar tim dekat, jadi jumlah maksimal MMR-nya harus ditekan.
 
@@ -148,7 +148,16 @@ teams_mmr = competing_teams.map(&:sum)
 
 # contoh hasil keluaran
 puts competing_teams
-[[2998, 4087, 1934, 3779, 3065], [3122, 2570, 4914, 2799, 2469], [3542, 2676, 2255, 3320, 4083], [3040, 3390, 3534, 2795, 3119], [4970, 3029, 3015, 2806, 2050], [4373, 4119, 3280, 2288, 1812], [3807, 3619, 3556, 2705, 2186], [3649, 3580, 3147, 2995, 2501], [2079, 3155, 3460, 3786, 3392], [4062, 2887, 3353, 2109, 3459]]
+[[2998, 4087, 1934, 3779, 3065],
+[3122, 2570, 4914, 2799, 2469],
+[3542, 2676, 2255, 3320, 4083],
+[3040, 3390, 3534, 2795, 3119],
+[4970, 3029, 3015, 2806, 2050],
+[4373, 4119, 3280, 2288, 1812],
+[3807, 3619, 3556, 2705, 2186],
+[3649, 3580, 3147, 2995, 2501],
+[2079, 3155, 3460, 3786, 3392],
+[4062, 2887, 3353, 2109, 3459]]
 
 {% endhighlight %}
 
@@ -160,7 +169,16 @@ Kerennya, jelas, nilai standar deviasi dari hasil algoritma *greedy* dan *brute 
 import numpy
 
 # hasil algoritma greedy
-teams = [[3040, 2995, 2795, 3534, 3122], [1812, 3320, 3459, 2806, 3119], [3280, 3392, 2998, 2570, 2109], [3065, 3580, 3029, 4083, 3556], [2705, 2255, 3786, 2079, 4970], [4914, 4062, 2676, 2501, 2799], [3353, 3542, 2288, 3649, 1934], [2469, 3147, 4087, 3779, 3015], [2050, 3390, 2887, 3460, 4119], [3155, 3619, 3807, 4373, 2186]]
+teams = [[3040, 2995, 2795, 3534, 3122],
+  [1812, 3320, 3459, 2806, 3119],
+  [3280, 3392, 2998, 2570, 2109],
+  [3065, 3580, 3029, 4083, 3556],
+  [2705, 2255, 3786, 2079, 4970],
+  [4914, 4062, 2676, 2501, 2799],
+  [3353, 3542, 2288, 3649, 1934],
+  [2469, 3147, 4087, 3779, 3015],
+  [2050, 3390, 2887, 3460, 4119],
+  [3155, 3619, 3807, 4373, 2186]]
 
 print(numpy.std(map(lambda team: sum(team), teams))
 # hasilnya
@@ -174,7 +192,18 @@ berikut dari algoritma brute force.
 require 'descriptive_statistics'
 
 # hasil algoritma brute force
-teams = [[2998, 4087, 1934, 3779, 3065], [3122, 2570, 4914, 2799, 2469], [3542, 2676, 2255, 3320, 4083], [3040, 3390, 3534, 2795, 3119], [4970, 3029, 3015, 2806, 2050], [4373, 4119, 3280, 2288, 1812], [3807, 3619, 3556, 2705, 2186], [3649, 3580, 3147, 2995, 2501], [2079, 3155, 3460, 3786, 3392], [4062, 2887, 3353, 2109, 3459]]
+teams = [[2998, 4087, 1934, 3779, 3065],
+  [3122, 2570, 4914, 2799, 2469],
+  [3542, 2676, 2255, 3320, 4083],
+  [3040, 3390, 3534, 2795, 3119],
+  [4970, 3029, 3015, 2806, 2050],
+  [4373, 4119, 3280, 2288, 1812],
+  [3807, 3619, 3556, 2705, 2186],
+  [3649, 3580, 3147, 2995, 2501],
+  [2079, 3155, 3460, 3786, 3392],
+  [4062, 2887, 3353, 2109, 3459]]
+
+teams = teams.map(&:sum)
 
 puts teams.standard_deviation
 
