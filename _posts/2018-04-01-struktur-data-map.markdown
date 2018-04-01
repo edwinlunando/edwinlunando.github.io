@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Struktur Data Map"
-date:   2018-04-01 11:57:08
+date:   2018-04-02 11:57:08
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: map/
@@ -192,18 +192,26 @@ Yey, akhirnya satu struktur data map selesai diimplementasi. Tentu saja masih ba
 
 - Menggunakan *hash table*
 - Kalau load factor di atas 2/3, langsung besarin dikuarat
-- Menggunakan *open addressing* dengan penambahan kuadratik
+- Menggunakan [*open addressing* dengan penambahan kuadratik][5]
 - Panjang array awal 8
 
 ### Java
 
-Di Java, banyak variasi implementasi map berdasarkan metode-metode yang di atas.
+Di Java, banyak variasi [implementasi map berdasarkan metode-metode yang di atas][6].
 
 - `HashMap`, menggunakan *separate chaining*, dengan linked list sebagai penampung tabrakan. Tapi, [sejak Java 8, diganti menjadi balanced tree][2] biar komplesitas kalau terjadi tabrakan menjadi O(log(n)).
 - `TreeMap`, implementasinya datanya menggunakan tree, jadi, kuncinya bisa terurut.
 
 ### Ruby
 
+- Menggunakan fungsi hash [Murmur][3]
+- List biasa untuk penampung tabrakan. Dengan maksimal panjang list 5. Kalau ada list yang lebih panjang dari itu, ukurannya akan diperbesar dan semua kuncinya dimasukkan ulang.
+- [Sampai dengan ukuran 6, semua entri dimasukkan ke satu lokasi][4]
+
 [0]:    https://stackoverflow.com/questions/8997894/what-hash-algorithm-does-pythons-dictionary-mapping-use
 [1]:    https://en.wikipedia.org/wiki/Hash_table#Collision_resolution
 [2]:    https://stackoverflow.com/questions/43911369/hashmap-java-8-implementation
+[3]:    https://en.wikipedia.org/wiki/MurmurHash
+[4]:    https://github.com/ruby/ruby/pull/84
+[5]:    https://www.laurentluce.com/posts/python-dictionary-implementation/
+[6]:    http://tutorials.jenkov.com/java-collections/map.html
