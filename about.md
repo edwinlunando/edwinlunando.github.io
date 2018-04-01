@@ -17,7 +17,8 @@ Saya merupakan seorang insinyur perangkat lunak(software engineer) yang sekarang
 - menggunakan web framework [Django][12], [Rails][13], [ASP MVC][14], dan [Laravel][15]. Fokus di Django
 - merupakan pegiat open-source. [django-naomi][10] dan [arunafelt][11]
 - mengurus komunitas [Python ID][18]
-- melakukan riset di bidang [analisis sentimen][19].
+- melakukan riset di bidang [analisis sentimen][19]
+- menulis ulasan makanan di [zomato][20]
 - berdomisili di Jakarta Selatan.
 
 Sekian dan terima kasih.
@@ -41,3 +42,4 @@ Sekian dan terima kasih.
 [17]:   https://www.bukalapak.com/
 [18]:   http://www.meetup.com/Python-ID/
 [19]:   http://arxiv.org/abs/1505.03085
+[20]:   https://www.zomato.com/users/edwin-lunando-1901332
