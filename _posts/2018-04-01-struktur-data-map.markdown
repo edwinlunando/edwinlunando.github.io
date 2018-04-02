@@ -186,7 +186,9 @@ class Map:
     return position
 {% endhighlight %}
 
-Yey, akhirnya satu struktur data map selesai diimplementasi. Tentu saja masih banyak yang bisa dikembangkan seperti operasi hapus kunci, optimasi cara ngambil semua entry, dan mencoba metode resolusi tabrakan yang lain. Minimal banget, ini sudah diimplementasikan dengan pertimbangan-pertimbangan yang digunakan di bahasa pemrograman masa kini. Nah, ini perbandingan implementasi di bahasa-bahasa lain.
+Kita coba ambil batasnya 0.7, jadi, kalau map-nya sudah terisi 70%, setiap kali mau memasukkan nilai entri baru, akan diperbesar dengan ukurannya dikuadrat. Kalau kasus ini, dengan ukuran awal 30, akan diperbesar menjadi 30 * 30 = 900. Intinya, kalau butuh entri banyak, map ini dapat menampungnya.
+
+Yey, akhirnya satu struktur data map siap pakai selesai diimplementasi. Tentu saja masih banyak yang bisa dikembangkan seperti operasi hapus kunci, optimasi cara ngambil semua entry, dan kalibrasi metode resolusi tabrakan yang lain. Minimal banget, ini sudah diimplementasikan dengan pertimbangan-pertimbangan yang digunakan di bahasa pemrograman masa kini. Nah, ini perbandingan implementasi di bahasa-bahasa lain.
 
 ### Python
 
@@ -207,6 +209,10 @@ Di Java, banyak variasi [implementasi map berdasarkan metode-metode yang di atas
 - Menggunakan fungsi hash [Murmur][3]
 - List biasa untuk penampung tabrakan. Dengan maksimal panjang list 5. Kalau ada list yang lebih panjang dari itu, ukurannya akan diperbesar dan semua kuncinya dimasukkan ulang.
 - [Sampai dengan ukuran 6, semua entri dimasukkan ke satu lokasi][4]
+
+Setelah gua cari tahu dalemannya dari beberapa bahasa yang gua sering gunakan, ternyata ada perbedaan dari setiap implementasinya. Kalau biasa gua pake kan tahunya ya intinya bisa taruh key-value terus ya... bekerja dengan baik. Gak kepikir banget kalau ternyata ada optimasi sampai dengan 6 entri ditaruh ke satu posisi yang sama di Ruby.
+
+Ternyata seru sih ngubek-ngubek daleman dari sebuah bahasa itu. Bisa tahu optimasi-optimasi lokal dari setiap bahasa, tahu kasus-kasus yang mereka hadapi dan pertimbangan mereka ambil solusi tersebut. Lain kali pasti bakal lebih banyak eksplorasi.
 
 [0]:    https://stackoverflow.com/questions/8997894/what-hash-algorithm-does-pythons-dictionary-mapping-use
 [1]:    https://en.wikipedia.org/wiki/Hash_table#Collision_resolution
