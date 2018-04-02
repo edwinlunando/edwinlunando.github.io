@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curren",
+				"current_domain"
+			],
+			[
+				"subdomain",
+				"subdomain_counter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "2017-10-10-terkait-engineering-team-lead.markdown",
+			"file_size": 4390,
+			"file_write_time": 131566206931959347,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Halow semuanyah, ini ada semacam open recruitment jadi core QA \n\nCore QA itu bertugas untuk meningkatkan efisiensi QA-QA yang lain dari semua sisi. Bisa dari proses, infrastruktur, dan aplikasi yang digunakan anak-anak QA. Intinya menaikkelaskan QA!\n\nPunya mimpi story kegeser ke QA otomatis deploy? Yuk mari. https://goo.gl/forms/ar8g8p2oUa6DOEPm2\n\nPertanyaan? Langsung tanya aja, gan.",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Windows",
+				"name": "Halow semuanyah, ini ada semacam open recruitment"
+			}
+		},
+		{
+			"file": "2017-12-18-repository-pattern.markdown",
+			"settings":
+			{
+				"buffer_size": 4213,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "OnsiteService.send_onsite(Notifications::ContainerEvent.new(95419,\n        {\n          title: \"Yuk, Segera Klaim -mu Sekarang!\",\n          body: \"Klaim }-mu dengan belanja minimum sebesar Rp100.000. Cek di sini untuk mendapatkan rekomendasi barang.\",\n          image: nil,\n          url: 'https://www.bukalapak.com',\n          category: 'penjualan',\n          tag: 'urge-buying'\n        }, 'buyer-reminder')\n      )\n\nEventQueue.publish(ContainerEvent.new(95419))\n\n{\n    user_id: 95419,\n    body: {\n          title: \"Yuk, Segera Klaim -mu Sekarang!\",\n          body: \"Klaim }-mu dengan belanja minimum sebesar Rp100.000. Cek di sini untuk mendapatkan rekomendasi barang.\",\n          image: nil,\n          url: 'https://www.bukalapak.com',\n          category: 'penjualan',\n          tag: 'urge-buying'\n        },\n    category: 'other'\n}",
+			"settings":
+			{
+				"buffer_size": 834,
+				"line_ending": "Windows",
+				"name": "OnsiteService.send_onsite(Notifications::Container"
+			}
+		},
+		{
+			"contents": "kubectl get --all-namespaces  --output json  pods | jq '.items[] | select(.status.podIP==\"10.2.7.172\")'",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Windows",
+				"name": "kubectl get --all-namespaces  --output json  pods"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeLinter\n-------------\n\n  SublimeLinter 3.10.8\n  ---------------------\n  \n  Added a \"use_current_shell_path\" preference that basically does what is says :)\n  \n  ---------------------\n  \n  SublimeLinter 4 now in beta!\n  \n  Read about it here:\n  https://github.com/SublimeLinter/SublimeLinter3/blob/next/messages/4.0.0-rc.1.txt\n  \n  Participate by editing your Package Control preferences and adding\n  SublimeLinter to the \"install_prereleases\" key:\n  \n  \"install_prereleases\":\n  [\n    \"SublimeLinter\"\n  ]\n  \n  If you want to use SublimeLinter-flake8 during the beta, you need to add it to\n  the \"install_prereleases\" as well.\n  Most other linter plugins should be compatible.\n",
+			"settings":
+			{
+				"buffer_size": 731,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "2017-09-16-timeout-dan-segala-macamnya.markdown",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/edwin/.babun/cygwin/home/edwin/legion/redis/adapter.go",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/edwin/.babun/cygwin/home/edwin/Vagrantfile",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Halo semuanya,"
+			}
+		},
+		{
+			"file": "2017-11-06-terkait-gigi.markdown",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "2017-07-16-barang-perjalanan.markdown",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 297.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/edwin/.babun/cygwin/home/edwin/edwinlunando.github.io",
+		"/C/Users/edwin/.babun/cygwin/home/edwin/edwinlunando.github.io/_posts"
+	],
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2017-10-10-terkait-engineering-team-lead.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								386
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Halow semuanyah, ini ada semacam open recruitment",
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "2017-12-18-repository-pattern.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3813,
+								3813
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "OnsiteService.send_onsite(Notifications::Container",
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "kubectl get --all-namespaces  --output json  pods",
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								731,
+								731
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "2017-09-16-timeout-dan-segala-macamnya.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/edwin/.babun/cygwin/home/edwin/legion/redis/adapter.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/edwin/.babun/cygwin/home/edwin/Vagrantfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Halo semuanya,",
+							"default_dir": "C:\\Users\\edwin\\.babun\\cygwin\\home\\edwin\\edwinlunando.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "2017-11-06-terkait-gigi.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "2017-07-16-barang-perjalanan.markdown",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"spli",
+				"app\\jobs\\split_addresses_job.rb"
+			],
+			[
+				"send",
+				"app\\jobs\\send_template_job.rb"
+			],
+			[
+				"enque",
+				"app\\jobs\\enqueue_addresses_job.rb"
+			],
+			[
+				"redis",
+				"config\\initializers\\redis.rb"
+			],
+			[
+				"deliv",
+				"app\\models\\delivery.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "mo",
+		"selected_items":
+		[
+			[
+				"mo",
+				"C:\\Users\\edwin\\OneDrive\\Documents\\Sublime\\mothership.sublime-project"
+			],
+			[
+				"den",
+				"C:\\Users\\edwin\\OneDrive\\Documents\\Sublime\\den-den-mushi.sublime-project"
+			],
+			[
+				"telo",
+				"C:\\Users\\edwin\\OneDrive\\Documents\\Sublime\\telolet.sublime-project"
+			],
+			[
+				"mot",
+				"C:\\Users\\edwin\\OneDrive\\Documents\\Sublime\\mothership.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 656.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
