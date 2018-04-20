@@ -24,7 +24,7 @@ Berikut beberapa [jenis timeout][1] yang perlu ditangani:
 
 Prinsipnya sederhana, tidak terlalu kecil, dan tidak terlalu besar. Lihat waktu respon di 90-99 persentil dan maksimalnya. Kalau maksimalnya masih sesuai ekspektasi, tentukan waktunya sedikit di atas batas maksimum. Contoh, waktu respons di 90 persentil itu 160 milidetik, maksimalnya 250 milidetik. Gua bakal ambil 500-1000 milidetik sebagai batas timeout-nya.
 
-Jangan mengambil batas waktu timeout terlalu tinggi karena dalam kasus sebuah respon server sedang lambat bermasalah, yang kita inginkan adalah segera memutus koneksi tersebut agak tidak menambah beban dari server tersebut.
+**Jangan mengambil batas waktu timeout terlalu tinggi karena dalam kasus sebuah respon server sedang lambat bermasalah, yang kita inginkan adalah segera memutus koneksi tersebut agak tidak menambah beban dari server tersebut.**
 
 Banyak kakas untuk mengukur, [salah satu yang paling sederhana itu `curl`][2]. Yak, standar klien HTTP bisa ngasih detil dari semua waktu yang rentan timeout. Begini, pertama-tama, buat sebuah berkas bernama `curl-format.txt`, lalu isi dengan.
 
