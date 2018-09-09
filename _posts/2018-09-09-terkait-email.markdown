@@ -17,13 +17,13 @@ Jadi, berikut merupakan kiat-kiatku dalam membentuk kebiasaan menggunakan surel 
 
 Tiap 2/3 bulan, ku selalu meninjau ulang surel berlangganan saya. Yang sering terjadi itu antara saya suka iseng langganan surel, tapi ternyata konten surelnya tidak menarik atau entah alamat surel saya dipaksa didaftarkan ke surel pemasaran yang tidak jelas. Kalau saya merasa surel-surelnya sudah tidak saya baca lagi, langsung berhenti berlangganan. Untuk beberapa surel rese yang mempersulit hidup dengan menyembunyikan tautan berhenti berlangganan atau bahkan tidak ada atau sudah diklik tapi tidak bisa berhenti, langsung saya tandai sebagai spam dan blok. Kalau merasa kesulitan, bisa mencoba pakai situs [unroll.me][1].
 
-Dengan mengurangi jumlah *false positive* atau yang kurang penting dari surel yang masuk, ku jadi semakin yakin kalau surel-surel yang masuk ke inbox itu penting dan sepadan untuk dibaca. Itu insentif yang membantu membangun kebiasaan sisihkan waktu untuk membaca surel.
+**Dengan mengurangi jumlah *false positive* atau yang kurang penting dari surel yang masuk, ku jadi semakin yakin kalau surel-surel yang masuk ke inbox itu penting dan sepadan untuk dibaca**. Itu insentif yang membantu membangun kebiasaan sisihkan waktu untuk membaca surel.
 
 ## Mulai dari Nol ya
 
 Ya, ku juga pernah merasakan kehancuran saat jumlah surel tak terbaca di kotak masuk itu sampai ratusan ribu. Kalau sudah terjadi seperti ini, biasanya aku langsung hapus atau masukin ke arsip semuanya, terus mulai dari nol lagi. Tidak revelan kalau harus mulai bacain satu-satu, apa lagi surel-surel yang sudah dari sekian bulan atau tahun yang lalu.
 
-Memulai [kotak masuk dari nol][0] lagi memberikan keuntungan. Yang pertama, tentunya semangat mulai dari awal lagi. Mirip dengan semangat saat mengerjakan proyek baru, baru beli barang baru, dan baru selesai membersihkan rumah. Ada perasaan segar yang membantu membuat komitmen dari awal lagi. Yang kedua, sebenarnya kelanjutan dari yang pertama, lepas dari beban puluh ribu atau bahkan ratusan ribu surel yang tidak terbaca itu... melegakan, sih. Ku jadinya bisa lebih fokus ke surel-surel yang lebih penting di masa depan.
+Memulai [kotak masuk dari nol][0] lagi memberikan keuntungan. Yang pertama, tentunya semangat mulai dari awal lagi. Mirip dengan semangat saat mengerjakan proyek baru, baru beli barang baru, dan baru selesai membersihkan rumah. Ada perasaan segar yang membantu membuat komitmen dari awal lagi. Yang kedua, sebenarnya kelanjutan dari yang pertama, lepas dari beban puluh ribu atau bahkan ratusan ribu surel yang tidak terbaca itu... melegakan, sih. **Ku jadinya bisa lebih fokus ke surel-surel yang lebih penting di masa depan**.
 
 ## Gunakan Shortcut
 
