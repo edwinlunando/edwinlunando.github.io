@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terkait Menejemen Surel"
-date:   2018-04-02 11:57:08
+date:   2018-09-09 11:57:08
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: surel/
