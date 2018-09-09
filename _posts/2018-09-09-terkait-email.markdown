@@ -15,7 +15,7 @@ Jadi, berikut merupakan kiat-kiatku dalam membentuk kebiasaan menggunakan surel 
 
 ## Kurangi Surel
 
-Tiap 2/3 bulan, ku selalu meninjau ulang surel berlangganan saya. Yang sering terjadi itu antara saya suka iseng langganan surel, tapi ternyata konten surelnya tidak menarik atau entah alamat surel saya dipaksa didaftarkan ke surel pemasaran yang tidak jelas. Kalau saya merasa surel-surelnya sudah tidak saya baca lagi, langsung berhenti berlangganan. Untuk beberapa surel rese yang mempersulit hidup dengan menyembunyikan tautan berhenti berlangganan atau bahkan tidak ada atau sudah diklik tapi tidak bisa berhenti, langsung saya tandai sebagai spam dan blok. Kalau merasa kesulitan, bisa mencoba pakai situs [unroll.me][1].
+Tiap 2 atau 3 bulan, ku selalu meninjau ulang surel berlangganan saya. Yang sering terjadi itu antara saya suka iseng langganan surel, tapi ternyata konten surelnya tidak menarik atau entah alamat surel saya dipaksa didaftarkan ke surel pemasaran yang tidak jelas. Kalau saya merasa surel-surelnya sudah tidak saya baca lagi, langsung berhenti berlangganan. Untuk beberapa surel rese yang mempersulit hidup dengan menyembunyikan tautan berhenti berlangganan atau bahkan tidak ada atau sudah diklik tapi tidak bisa berhenti, langsung saya tandai sebagai spam dan blok. Kalau merasa kesulitan, bisa mencoba pakai situs [unroll.me][1].
 
 **Dengan mengurangi jumlah *false positive* atau yang kurang penting dari surel yang masuk, ku jadi semakin yakin kalau surel-surel yang masuk ke inbox itu penting dan sepadan untuk dibaca**. Itu insentif yang membantu membangun kebiasaan sisihkan waktu untuk membaca surel.
 
