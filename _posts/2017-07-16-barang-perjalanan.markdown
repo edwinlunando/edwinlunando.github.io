@@ -45,6 +45,10 @@ Satu-satunya barang yang gak terlalu berguna, tapi selalu gua bawa. Biar gua nge
 
 ## Mungkin Bawa
 
+### Sepatu Lari
+
+Untuk perjalanan yang banyak jalan kakinya, jangan pernah gunakan sepatu atau sandal yang tidak didesain untuk pengunaan jalan atau lari jarak jauh. Sakit dan tidak nyaman saat perjalanan akan menemani. Selalu gunakan sepatu lari.
+
 ### Alat mandi
 
 Kalau akomodasi menyediakan, gua gak bakal bawa alat mandi. Kalau tidak menyediakan, gua lebih memilih bawa sikat dan pasta gigi lalu, membeli sabun atau shampoo yang sachet-an.
