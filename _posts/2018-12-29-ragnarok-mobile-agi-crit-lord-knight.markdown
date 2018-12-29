@@ -39,51 +39,51 @@ You may go STR/AGI/LUK for better DPS, but you cannot tank while ET/MVP/Valhalla
 ## Skills
 
 ### Swordman
-Lvl 10 Sword Mastery – Increased Physical ATK. No brainer
-Lvl 10 Taunt – Provokes enemies around to attatck you instead of your party! Very important to be able to tank
-Lvl 10 Increase Recuperation – Recovers HP gradually. To be more efficient while grinding
-Lvl 10 Endure – Anti-Knockback mechanism. This will help you to escape or charging into sniper.
+- Lvl 10 Sword Mastery – Increased Physical ATK. No brainer
+- Lvl 10 Taunt – Provokes enemies around to attatck you instead of your party! Very important to be able to tank
+- Lvl 10 Increase Recuperation – Recovers HP gradually. To be more efficient while grinding
+- Lvl 10 Endure – Anti-Knockback mechanism. This will help you to escape or charging into sniper.
 
 ### Knight
-Lvl 5 One Handed Quicken – Increases ATK Speed by 30%, more Lvl only adds the duration.
-Lvl 10 Aura Blade – True Dmg (ignores monsters DEF). More attack, of course.
-Lvl 5 Riding – Riding peco-peco! More movement speed
-Lvl 5 Cavalry Mastery – Increase % dmg dealt to BIG sized monsters while riding
-Lvl 5 Bowling Bash – Your AoE knockback skill.
-Lvl 5 Heart of Steel – Take % less DMG for 5 seconds. You will become very tanky in the duration, so please time it with the enemy skill, especially Ashura Strike
-Lvl 5 Counter Attack – Counters melee ATK damage, more tank skill.
+- Lvl 5 One Handed Quicken – Increases ATK Speed by 30%, more Lvl only adds the duration.
+- Lvl 10 Aura Blade – True Dmg (ignores monsters DEF). More attack, of course.
+- Lvl 5 Riding – Riding peco-peco! More movement speed
+- Lvl 5 Cavalry Mastery – Increase % dmg dealt to BIG sized monsters while riding
+- Lvl 5 Bowling Bash – Your AoE knockback skill.
+- Lvl 5 Heart of Steel – Take % less DMG for 5 seconds. You will become very tanky in the duration, so please time it with the enemy skill, especially Ashura Strike
+- Lvl 5 Counter Attack – Counters melee ATK damage, more tank skill.
 
 ### Lord Knight
-Lvl 10 Lord’s Aura – Increases all party members Physical DMG. Team buff!
-Lvl 5 Sword of Justice – Every 5 VIT increase own Physical ATK. More attack, neat
-Lvl 5 Concentration – All Party members receive Endure buff! Increase Physical ATK, Reduce Physical DEF
-Lvl 10 Sword Parry – Chance to nullify 100% damage received (50% at Lvl 10). Must have for tanking.
-Lvl 10 Head Crush – Increase own Physical ATK, chance to inflict Bleeding (3 stacks)
+- Lvl 10 Lord’s Aura – Increases all party members Physical DMG. Team buff!
+- Lvl 5 Sword of Justice – Every 5 VIT increase own Physical ATK. More attack, neat
+- Lvl 5 Concentration – All Party members receive Endure buff! Increase Physical ATK, Reduce Physical DEF
+- Lvl 10 Sword Parry – Chance to nullify 100% damage received (50% at Lvl 10). Must have for tanking.
+- Lvl 10 Head Crush – Increase own Physical ATK, chance to inflict Bleeding (3 stacks)
 
 ## Equipment
 
 At lv below 60, just focus your equipment to increase damage to fasten your grind. You do not really need defense at lower level. When you start ET, Valhalla, or PvP, then you need to think about defense.
 
 ### Weapon
-- Attached Sword. +10 CRIT. Cheapest option, you might use it while you are still Swordman or Knight. After you have the money to buy Holy Avenger, buy it ASAP.
-- Holy Avenger. The most cost effective option. Decent attack power, Holy element(become Glast Heim slayer). Holy element is huge adventage, you can grind at shadow/undead monster without additional elemental converter. Means, more money.
-- Muramasa. +25 CRIT at base and upgradable to +35 CRIT. This should be your end game weapon and PvP weapon.
+- **Attached Sword**. +10 CRIT. Cheapest option, you might use it while you are still Swordman or Knight. After you have the money to buy Holy Avenger, buy it ASAP.
+- **Holy Avenger**. The most cost effective option. Decent attack power, Holy element(become Glast Heim slayer). Holy element is huge adventage, you can grind at shadow/undead monster without additional elemental converter. Means, more money.
+- **Muramasa**. +25 CRIT at base and upgradable to +35 CRIT. This should be your end game weapon and PvP weapon.
 
 ### Offhand
-- Vinck. Expensive end game item, +8 CRIT upgradeable to 13. The slotted version is very expensive.
-- Golden Ornament. Cost effective solution. +5 CRIT upgradeable to +8. Get the slotted version since it is not expensive.
-- Static Shield/Stone buckler. If you need more survivability against magic or MVP attack.
- Noble Bracer. +10% equipment ASPD. Combo with Holy Avenger, you will deal tremendeous amount of damage to shadow/undead monster.
+- **Vinck**. Expensive end game item, +8 CRIT upgradeable to 13. The slotted version is very expensive.
+- **Golden Ornament**. Cost effective solution. +5 CRIT upgradeable to +8. Get the slotted version since it is not expensive.
+- **Static Shield/Stone buckler**. If you need more survivability against magic or MVP attack.
+- **Noble Bracer**. +10% equipment ASPD. Combo with Holy Avenger, you will deal tremendeous amount of damage to shadow/undead monster.
 
 ### Armor
-Beast Heart. +5 CRIT upgradeable to +10 CRIT. Try to get the slotted version if possible since you might use this for a long time.
-Tights. More cost efficient version to get slotted armor, the +4% attack is also nice.
+- **Beast Heart**. +5 CRIT upgradeable to +10 CRIT. Try to get the slotted version if possible since you might use this for a long time.
+- **Tights**. More cost efficient version to get slotted armor, the +4% attack is also nice.
 
 ### Garment
-Staunch Cape. -10% neutral damage is HUGE with only about 300K zeny. Get the slotted if you have the money.
+**Staunch Cape**. -10% neutral damage is HUGE with only about 300K zeny. Get the slotted if you have the money.
 
 ### Foot gear
-Rune Boots. +30% Healing and 3% attack. Expensive end game option.
+**Rune Boots**. +30% Healing and 3% attack. Expensive end game option.
 Or anything slotted to inlay the Ferus card for more survivalbility since no CRIT option available.
 
 ### Acc
@@ -92,40 +92,40 @@ Any attack slotted acc will do since the most important thing is using two Kobol
 ### Headgear
 For headgear, it is very situational base on what are you fighting, but the priorities is CRIT, slot for card, and damage reduction/increase. These are my favorites:
 
-- Cat Ear Beret. +5% attack. Cheap and easy to craft.
-- Driver Band[1]. +5 CRIT at 120 STR
-- Firmanent Horn[1]. +5 CRIT and +8% CRIT damage. From gacha. ☹️
-- Katana. Lv. 5 Double attack, not to good though since CRIT is better while attacking high defense monster.
+- **Cat Ear Beret[1]**. +5% attack. Cheap and easy to craft.
+- **Driver Band[1]**. +5 CRIT at 120 STR
+- **Firmanent Horn[1]**. +5 CRIT and +8% CRIT damage. From gacha. ☹️
+- **Katana**. Lv. 5 Double attack, might not to good though since CRIT is better while attacking high defense monster. Haven't tried it because it is so expensive.
 
 For PvP
-- Hockey Mask. -10% damage from demi-human. +10% damage to demi-human
-- Spiked Scarf. -5% damage from demi-human. +5% damage to demi-human
+- **Hockey Mask**. -10% damage from demi-human. +10% damage to demi-human
+- **Spiked Scarf**. -5% damage from demi-human. +5% damage to demi-human
 
 ## Card
 For card, the priorites is similar to equipment. It is CRIT, increase/reduce damage, or status resistance.
 
 ### Weapon
-Skeleton soldier. +9 CRIT. Bread and butter.
-Rotar Zairo. +7 CRIT and +10% CRIT damage. MINI boss card, consider it as your end game card.
+**Skeleton soldier**. +9 CRIT. Bread and butter.
+**Rotar Zairo**. +7 CRIT and +10% CRIT damage. MINI boss card, consider it as your end game card.
 
 Or, any damage increase card to monster you are fighting.
 
 ### Offhand
-Marc. Frozen immunity.
+**Marc**. Frozen immunity.
 
 ### Headgear
-Nightmare. Sleep immunity.
+**Nightmare**. Sleep immunity.
 
 ### Torso
-Thara Frog. -30% from demi-human. Must have for PvP.
-Evil Druid. Stone curse and frozen immunity.
+**Thara Frog**. -30% from demi-human. Must have for PvP.
+**Evil Druid**. Stone curse and frozen immunity.
 
 ### Garment
-Baphomet Jr. +5 CRIT. It is expensive tho.
-Raydric. -10% neutral damage. Expensive too.
+**Baphomet Jr**. +5 CRIT. It is expensive tho.
+**Raydric**. -10% neutral damage. Expensive too.
 
 ### Footgear
-Ferus. 10% max HP. Decent survivability.
+**Ferus**. 10% max HP. Decent survivability.
 
 ### Acc
 Kobold. +10 CRIT. NON-OPTIONAL. +20 CRIT from acc is a must since it is quite cheap while it gives so much CRIT.
