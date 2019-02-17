@@ -54,5 +54,10 @@ Untuk sementara baru 2 itu, saya sendiri sih selalu meluangkan waktu di akhir mi
 
 Jadi, saya mencoba alur kerja ini selama beberapa bulan ke belakang dan saya sampai sekarang puas sih. Surel saya relatif lebih rapih dan jadi jauh lebih rajin dalam membaca dan membalas surel-surel yang masuk. Paling masalah utama yang sampai sekarang solusinya belum ketemu itu, cara menyatukan beberapa akun surel menjadi satu. Lelah harus buka beberapa tab peramban untuk tiap akun-akun surel. Untuk sementara, cukup sih, saya sudah merasa jadi lebih produktif dengan begini. Sampai ketemu metode menejemen surel yang lebih enak.
 
+## Pakai Boomerang Untuk Penjadwalan
+
+Mulai sekarang, aku sudah tidak mau mengirim email ke orang jika sudah malam. Aku menggunakan [Boomerang][2] agar tidak menggangu kehidupan pribadi tiap-tiap orang yang aku kirimi email. Pekerjaan bisa menggungu, lah. Biarkan mereka mendapat emailku di pagi keesokan harinya.
+
 [0]:    https://www.fastcompany.com/40507663/the-7-step-guide-to-achieving-inbox-zero-and-staying-there-in-2018
 [1]:    https://unroll.me/
+[2]:    https://www.boomeranggmail.com/
