@@ -23,7 +23,7 @@ Kita gak bisa nanya ke calon pembeli “Eh, kalau harga barang gua segini, lu ma
 
 Yang bisa penjual lakukan adalah pasang harga dan tunggu respon dari pembeli. Nah, protes harga kemahalan ini merupakan salah satu respon yang artinya ya ada permintaan terkait barangnya, tapi rasio value dengan harganya belum pas. Kalau sudah diturunin tapi tidak beli juga ya artinya belum pas juga rasionya. Yang penting adalah, penjualnya mendapatkan feedback kalau barangnya kemahalan, sisanya ya terserah penjualnya mau ngapain dengan informasi tersebut karena ya pada akhirnya mekanisme pasar bakal menentukan strategi bisnisnya. Kalau penjual pasang harga kemahalan ya, pasar gak bakal beli terlepas pendapat seberapa masuk akalnya harga tersebut.
 
-Mungkin yang bisa didebat itu memang validitas dari responnya. Bisa jadi mereka protes, karena mau protes aja? Nge-*troll*. Tapi, ya, kita gak bisa tahu seberapa *troll*-nya. Yah, memang ketidakpastian itu bakal selalu menjadi risiko yang menjadikan peluang. Salah satu tantangan hidup yang konstan ada kan memang mencari sinyal yang tepat diantara banyak *noise*.
+Mungkin yang bisa didebat itu memang validitas dari responnya. Bisa jadi mereka protes, karena mau protes aja? Nge-*troll*. Tapi, ya, kita gak bisa tahu berapa banyak *troll*-nya. Yah, memang ketidakpastian itu bakal selalu menjadi risiko yang menjadikan peluang. Salah satu tantangan hidup yang konstan ada kan memang mencari sinyal yang tepat diantara banyak *noise*.
 
 
 
