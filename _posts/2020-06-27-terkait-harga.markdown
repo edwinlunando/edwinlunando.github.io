@@ -17,13 +17,13 @@ Dari sudut pandang penjual, penentuan harga pada akhirnya adalah sebuah bagian d
 
 Jika tidak, tinggal balik ke harga yang semula atau harga lain yang dikira lebih masuk akal. Kalau dari aku sih melihatnya, toko kue ini lagi mencoba mengganti harga untuk mendapat harga optimal sesuai dengan ceruk pasarnya atau memang mau mengincar pasar yang lain. Kalau dirasa lebih menguntungkan harga yang lebih murah, ya bagus untuk pihak penjual dan pembeli juga.
 
-Kedua, terkait protes harganya kemahalan. Aku mengasumsikan protesnya ini minimal banget sopan dan sesuai dengan norma yang berlaku, jadi bisa bahas lebih ke esensi dari protesnya. Pengalaman aku freelance yang menyediakan jasa proyekan pengembangan perangkat lunak, penentuan harga itu memang agak rese karena kita gak tahu harga atau margin yang paling optimal dari barang atau jasa yang kita jual.
+Kedua, terkait protes harganya kemahalan. Aku mengasumsikan protesnya ini minimal banget sopan dan sesuai dengan norma yang berlaku, jadi bisa bahas lebih ke esensi dari protesnya. Pengalaman aku *freelance* yang menyediakan jasa proyekan pengembangan perangkat lunak, penentuan harga itu memang agak rese karena kita gak tahu harga atau margin yang paling optimal dari barang atau jasa yang kita jual.
 
 Kita gak bisa nanya ke calon pembeli “Eh, kalau harga barang gua segini, lu mau beli gak?” atau “Untuk barang ini, lu maksimal keluarin duit berapa?” karena gak semua pembeli mau memberikan informasi yang pada akhirnya merugikan dia atau karena pembelinya gak tahu juga informasi tersebut. Menjawab pertanyaan tersebut dan secara nyata membeli barang dengan harga tersebut merupakan aktivitas berbeda. Menjawab itu mudah, membeli itu… tidak semudah itu.
 
 Yang bisa penjual lakukan adalah pasang harga dan tunggu respon dari pembeli. Nah, protes harga kemahalan ini merupakan salah satu respon yang artinya ya ada permintaan terkait barangnya, tapi rasio value dengan harganya belum pas. Kalau sudah diturunin tapi tidak beli juga ya artinya belum pas juga rasionya. Yang penting adalah, penjualnya mendapatkan feedback kalau barangnya kemahalan, sisanya ya terserah penjualnya mau ngapain dengan informasi tersebut karena ya pada akhirnya mekanisme pasar bakal menentukan strategi bisnisnya. Kalau penjual pasang harga kemahalan ya, pasar gak bakal beli terlepas pendapat seberapa masuk akalnya harga tersebut.
 
-Mungkin yang bisa didebat itu memang validitas dari responnya. Bisa jadi mereka protes, karena mau protes aja? Nge-troll. Yah, memang ketidakpastian itu bakal selalu menjadi risiko yang menjadikan peluang. Salah satu tantangan hidup yang konstan ada kan memang mencari sinyal yang tepat diantara banyak noise.
+Mungkin yang bisa didebat itu memang validitas dari responnya. Bisa jadi mereka protes, karena mau protes aja? Nge-*troll*. Yah, memang ketidakpastian itu bakal selalu menjadi risiko yang menjadikan peluang. Salah satu tantangan hidup yang konstan ada kan memang mencari sinyal yang tepat diantara banyak *noise*.
 
 
 
