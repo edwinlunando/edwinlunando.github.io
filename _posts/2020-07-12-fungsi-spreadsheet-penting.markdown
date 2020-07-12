@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fungsi Penting di Spreadsheet"
-date:   2020-07-06 11:57:08
+date:   2020-07-12 11:57:08
 author: Edwin Lunando
 author_t: edwinlunando
 permalink: fungsi-penting-spreadsheet/
